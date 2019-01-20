@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ea9b06d8-1480-49c7-a340-fd7d3603513b",
+    "data": [
+      {
+        "text": "expert meetup ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541525278
+  },
+  {
+    "id": "518478c1-1856-4597-9a05-fa27f768426a",
+    "data": [
+      {
+        "text": "What is expert meetup on day 2 covering",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541172322
+  },
+  {
+    "id": "b496911e-043a-4f69-9818-8884f2c5871e",
+    "data": [
+      {
+        "text": "Details of expert meetup ",
+        "userDefined": false
+      },
+      {
+        "text": "on November 15",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541348402
+  },
+  {
+    "id": "e8e2be73-69be-487b-8715-91d83f866199",
+    "data": [
+      {
+        "text": "Day ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " expert meetup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541348402
+  },
+  {
+    "id": "c3be3fd1-2c1d-458c-8279-2c420d9a728d",
+    "data": [
+      {
+        "text": "Expert Meetup - Session 2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540485482
+  }
+]

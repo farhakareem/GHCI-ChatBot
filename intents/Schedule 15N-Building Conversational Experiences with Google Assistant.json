@@ -1,0 +1,37 @@
+{
+  "id": "d96d3d6d-60d5-4bd0-a74e-0af646a1ac40",
+  "name": "Schedule 15N-Building Conversational Experiences with Google Assistant",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6ad402e8-bce1-4046-885d-823a237b3f9c",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Google Assistant is a conversational agent that works across Google products as well as third parties. It is a conversation between you and Google that help you get things done throughout your day - at home or on the go. Learn about the various stages of processing involved typical lifecycle of a conversation with the Google Assistant - Speech to Text, NLU, Dialog flow control, Natural Language Generation etc. Actions on Google lets developers extend the Assistant to implement their own Conversation Actions. Learn how you can build your own conversational experience into the Google Assistant using Actions on Google and DialogFlow; from designing a conversation, creating a DialogFlow agent, to implementing a backend integration using a Client Library for Actions on Google development with Firebase Cloud Functions. How else may I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541347806,
+  "fallbackIntent": false,
+  "events": []
+}

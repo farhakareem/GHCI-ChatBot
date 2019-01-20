@@ -1,0 +1,52 @@
+{
+  "id": "825aaccb-1404-4ebe-93bc-5689adc94820",
+  "name": "Schedule All Days",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0f34d7b7-0420-4ffa-8a6b-e2706a1b0351",
+          "required": false,
+          "dataType": "@GHCI",
+          "name": "GHCI",
+          "value": "$GHCI",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Day Wise"
+            },
+            {
+              "title": "Track Wise"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Grace Hopper Conference in India happens on the 14th,15th and 16th of November 2018. Are you looking for Day wise schedule or Track wise Schedule?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541608999,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,64 @@
+[
+  {
+    "id": "58e906f1-f538-4983-8750-1c159e6ba890",
+    "data": [
+      {
+        "text": "what is memory driven computing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541437973
+  },
+  {
+    "id": "fc4c6ec7-5954-44dc-9999-37ed9d9c9571",
+    "data": [
+      {
+        "text": "computing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541181083
+  },
+  {
+    "id": "a3b05dd6-8e0f-40c8-a5ae-e30bcce44d1e",
+    "data": [
+      {
+        "text": "memory driven",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541181083
+  },
+  {
+    "id": "6d583024-1254-4def-9995-bb6f7376b8f2",
+    "data": [
+      {
+        "text": "deep dive",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541437973
+  },
+  {
+    "id": "2bd29590-10c3-44c1-867c-077369a7e28f",
+    "data": [
+      {
+        "text": "Memory Driven Computing: A Deep Dive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540482034
+  }
+]

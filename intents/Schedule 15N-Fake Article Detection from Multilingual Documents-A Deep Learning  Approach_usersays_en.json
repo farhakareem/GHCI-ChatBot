@@ -1,0 +1,62 @@
+[
+  {
+    "id": "c3944bbd-7c0f-4e20-a189-f4b6a466babe",
+    "data": [
+      {
+        "text": "FAD",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541183801
+  },
+  {
+    "id": "16d7fbe9-699e-4f8c-b0f2-760a4ee9a4df",
+    "data": [
+      {
+        "text": "deep learning approach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541183801
+  },
+  {
+    "id": "6ad56fb1-027a-49a1-8a58-ba5c737b7da3",
+    "data": [
+      {
+        "text": "multilingual documents",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541183801
+  },
+  {
+    "id": "e3df6ba4-76c0-40d6-aadc-060ac1c8c619",
+    "data": [
+      {
+        "text": "fake article detection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541183801
+  },
+  {
+    "id": "0bf8be65-766a-4b27-8869-7db2fc1f4584",
+    "data": [
+      {
+        "text": "Fake Article Detection from Multilingual Documents-A Deep Learning Approach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540476465
+  }
+]

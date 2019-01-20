@@ -1,0 +1,37 @@
+{
+  "id": "3aebe654-3278-49d3-a2b7-27ccd8cbfaee",
+  "name": "Schedule 15N-Agile to Scaled Agile in the Automotive domain - A Case Study",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The term ‘Agile’ is no longer an alien word in technology. We have seen it efficiently used in multiple domains like e-commerce, retail. At Epsilon, we are shifting gears from implementing Agile to Scaled Agile (SAFe) in a fairly non-traditional domain of Automotive. This session will throw some light on the need and application of Agile in the Automotive industry. The speaker would share how Epsilon has been finding ways of implementing SAFe across a geographically dispersed team focused on delivering solutions in the Automotive domain. This will be an experiential session where the attendees would be engaged in a small workshop around the topic."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541348815,
+  "fallbackIntent": false,
+  "events": []
+}

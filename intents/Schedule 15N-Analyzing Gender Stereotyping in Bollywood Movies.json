@@ -1,0 +1,37 @@
+{
+  "id": "c2ce368d-f348-4cb4-a4cf-aa9120de2ae3",
+  "name": "Schedule 15N-Analyzing Gender Stereotyping in Bollywood Movies",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9997dc7e-7b35-4fe9-805a-16ea89f491d0",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Using the derived semantic graph, we compute centrality of each characterand observe similar bias there. We also present that such bias is not applicable for movie posters where females get equal importance even though their character has little or no impact on the movie plot. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541347500,
+  "fallbackIntent": false,
+  "events": []
+}

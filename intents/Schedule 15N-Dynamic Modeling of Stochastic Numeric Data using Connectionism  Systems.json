@@ -1,0 +1,39 @@
+{
+  "id": "8ee7dc05-1228-4a56-bef9-d9cbf71d2bdb",
+  "name": "Schedule 15N-Dynamic Modeling of Stochastic Numeric Data using Connectionism  Systems",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9224074e-920e-49ab-8a2c-2259aa633292",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Classical Convolutional Neural Networks (ConvNets) have been the ruling benchmarks for most object classification and face recognition tasks despite major limitations such as the inability to capture spatial co-locality between data points and favoring invariance over equivariance mechanisms. Hence, Hinton et al, proposed a layered architecture called Capsule Networks (Capsnets) to overcome these shortcomings by replacing pooling techniques with dynamic routing abilities between lower level and higher level neural units which better capture hierarchical relationships within the data, thus, outperforming traditional systems.How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541522879,
+  "fallbackIntent": false,
+  "events": []
+}

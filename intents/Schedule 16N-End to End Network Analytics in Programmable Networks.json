@@ -1,0 +1,39 @@
+{
+  "id": "815ac04d-0e29-432f-b961-ded20c610bfe",
+  "name": "Schedule 16N-End to End Network Analytics in Programmable Networks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0b00031d-6703-4d59-a2f7-f3572643bd8b",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Increase in complexity of networks due to IoT, Cloud and BYOD has been phenomenal. Innovations in IT infrastructure that minimize downtime, identify anomalies, improve performance and reduce mean time to repair (MTTR) contribute directly to business agility and business continuity. This paper focuses on the transition to networks that can automatically troubleshoot themselves with a twofold approach of on-box and aggregated analytics - either on-premises or on the cloud. We focus on programmable networks which refer to networks that have northbound APIs and allow for access to device status as well as an ability to have external agents program them and are hence SDN ready. These allow for granular data collection and for remedial actions to be programmed back to the network. The goal is to make operating large networks simpler and make networks self-healing, resilient and robust by introducing Network Assurance, Performance Management, and Monitoring as native network capabilities. How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541613228,
+  "fallbackIntent": false,
+  "events": []
+}

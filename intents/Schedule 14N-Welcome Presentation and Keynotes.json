@@ -1,0 +1,47 @@
+{
+  "id": "4ec6fb73-542b-4549-8ee3-9734f4fd6dd6",
+  "name": "Schedule 14N-Welcome Presentation and Keynotes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c92a4a67-4127-476b-bcd7-8a221723041d",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "Welcome presentation. \nFollowed by,\nKeynote 1 by Lori Beer. \nFollowed by,Keynote 2 by Vaishali Kasture, the founder of SonderConnect\nThen we have the Entertainment section.\nFinally we have the Women Entrepreneurship Quest Award Presentation. How else can I help you?",
+          "displayText": "Welcome presentation\n– Keynote 1: Lori Beer, Global CIO of JPMorgan Chase \u0026 Co.\n– Keynote 2: Vaishali Kasture, Founder of Sonder Connect\n– Entertainment\n– Women Entrepreneur Quest (2018) Award Presentation"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The schedule between 2 pm to 5 pm on November 14th is as follows,"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541820156,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "57d6a52a-9fcf-4887-a526-11e964814950",
+  "name": "Schedule 16N-Alternative Career for Women as Researcher in Science and Technology",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "An overview of various women centric schemes of Ministry of Science \u0026 Technology, Govt of India. This will include programs supported by Department of science \u0026 Technology and Dept of Biotechnology under Ministry of Science \u0026 Technology; Details of Schemes designed for women having break in career to comeback into mainstream professional career. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541612094,
+  "fallbackIntent": false,
+  "events": []
+}

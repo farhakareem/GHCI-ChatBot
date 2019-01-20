@@ -1,0 +1,36 @@
+{
+  "id": "c6043a2a-e9a9-4320-ab7d-0fa46c75254d",
+  "name": "Schedule 15N-Industrial Robotics and the Age of Autonomy- Future Perspectives",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0980f267-568c-44b7-bb6d-55e9286999ae",
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Robotics has been a dominating presence in the industrial setup for quite some time and has become a critical component of the global economy today. The speed, agility and precision brought by Robotics has enabled to increase the throughput to fulfill consumer demand. This talk would provide a bird\u0027s eye-view of the evolution of Robotics Development with an eye to the future with cool demos through the session.1.Robots of Yesterday: Evolution of Robots with examples of some versatile robots and the tasks they perform. We will discuss Automation, Mechatronics and the impact in the industry so far. . 2.Robots of Today: How ML \u0026 IoT are influencing the Robotics industry by bringing in efficiencies, predictive maintenance and better asset monitoring leading to lesser downtime and losses. 3.Robots of Tomorrow: We will talk about how VR would integrate into the field of Robots to shape the factories of tomorrow and our lives at large. How else may I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541135975,
+  "fallbackIntent": false,
+  "events": []
+}

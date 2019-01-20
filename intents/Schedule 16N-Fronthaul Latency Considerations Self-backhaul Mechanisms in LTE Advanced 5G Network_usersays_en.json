@@ -1,0 +1,68 @@
+[
+  {
+    "id": "f0c00c6c-d0e1-4a7b-acdd-1f1e29206b68",
+    "data": [
+      {
+        "text": "LTE Advanced and 5G Networks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541180848
+  },
+  {
+    "id": "dfad6402-427f-477e-8129-961f3816a5fd",
+    "data": [
+      {
+        "text": "Fronthaul Latency Considerations and Self-backhaul Mechanisms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541180848
+  },
+  {
+    "id": "95f09801-4117-4efc-a804-0e2bfa6219ac",
+    "data": [
+      {
+        "text": "November 6",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " Fronthaul Latency Considerations and Self-backhaul Mechanisms  in LTE Advanced and 5G Networks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541180848
+  },
+  {
+    "id": "02a0fb36-82ef-411c-95d2-b4d0705b43d0",
+    "data": [
+      {
+        "text": "Fronthaul Latency Considerations and Self-backhaul Mechanisms  in LTE Advanced and 5G Networks November 6",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1541180848
+  },
+  {
+    "id": "d0704975-2ad7-4982-89ea-79f798229d99",
+    "data": [
+      {
+        "text": "Fronthaul Latency Considerations and Self-backhaul Mechanisms  in LTE Advanced and 5G Networks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540478357
+  }
+]

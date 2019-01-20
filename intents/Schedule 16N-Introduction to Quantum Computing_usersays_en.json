@@ -1,0 +1,50 @@
+[
+  {
+    "id": "16eed3e2-c225-45b4-b74c-58fd12bdea09",
+    "data": [
+      {
+        "text": "Description of talk on Quantum Computing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541350647
+  },
+  {
+    "id": "60509377-7bcb-4282-965c-7d2b4813cf17",
+    "data": [
+      {
+        "text": "Description of Introduction to Quantum Computing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541350647
+  },
+  {
+    "id": "afac31ef-20ef-4e31-8801-dabcf1eb8a28",
+    "data": [
+      {
+        "text": "Quantum Computing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541350647
+  },
+  {
+    "id": "0ae15a6b-9d68-4c20-b166-e3c406c6465e",
+    "data": [
+      {
+        "text": "Introduction to Quantum Computing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540483548
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "id": "10e98b95-aca8-4780-a9ab-e83bc1471688",
+  "name": "Schedule 16N-Career Accelerators in 15 Minutes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "adf6fedd-1f38-49e6-b9ce-369667cfae01",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "With workplace transformation., it is only natural for leadership to evolve. Conversations at a senior leadership level are applicable to emerging leaders at varying degrees. That said, keeping mindset in action and self-leadership at the core, this series of talks will dive into aspects of leadership which will help attendees convert unsureness to confidence. The session will provide quick tips, tricks and practical examples of correct application of mind and emotions to the following three concepts: \n1. Powerful way of communicating with intent\n2. Mantra for navigating matrixed organizations\n3. Framework for increasing your sphere of influence. \nHow else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541612791,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a6fdba1f-35a1-43e0-a85b-bef989eb0a48",
+  "name": "AA Quit Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Alright! Have a great time at GHCI. Bye.",
+            "Alright. See you later. Bye :)"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541609552,
+  "fallbackIntent": false,
+  "events": []
+}

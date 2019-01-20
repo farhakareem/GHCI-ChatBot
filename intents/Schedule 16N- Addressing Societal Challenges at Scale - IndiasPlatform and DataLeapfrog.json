@@ -1,0 +1,30 @@
+{
+  "id": "2f5e016a-cc1e-4301-80ed-1b6f7c044399",
+  "name": "Schedule 16N- Addressing Societal Challenges at Scale - IndiasPlatform and DataLeapfrog",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Digital infrastructure which are public good in nature has hugely helped societies access information, products, knowledge, and collaborate better with each other. India has also benefited this from 100\u0027s of millions of people having access to mobile phones and Internet. It is essential that from time to time many such digital infrastructure layers are built as public goods to create open access and level playing field for innovators to provide solutions to large diverse society. India is building its own layers of such public good digital infrastructure spanning from identity, payment, health, education, tax, etc. Aadhaar, UPI, eSign, Digital Locker, Health Stack, Education Stack, are all examples that are helping India leapfrog. Speaker who is the chief architect of many of these platforms will cover these stacks and help listeners understand the big picture of change that is sweeping India. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541443169,
+  "fallbackIntent": false,
+  "events": []
+}

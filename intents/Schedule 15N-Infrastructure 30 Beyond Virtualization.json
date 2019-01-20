@@ -1,0 +1,37 @@
+{
+  "id": "b8b3b20e-1860-4178-b166-9edc5fc12e5d",
+  "name": "Schedule 15N-Infrastructure 30 Beyond Virtualization",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "254e1099-26a2-4ddb-b4d3-0ce78e8128d3",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Digital transformation in the business context has given rise to the need of creating software platforms, and enabling infrastructure and software as a service. There have been revolutionary technical advances that have taken place in the last 5 years and now some of the core engineering jobs of the future are in the infrastructure space. This talk will give you a perspective on next gen technologies and software led enablement of IT Infrastructure, including how analytics are being effectively used in modern day data centres. How else may I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541607917,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "f5bb7c67-1c18-4f6a-93dd-b5ac078f4c0f",
+  "name": "Schedule 15N-Embracing Career Transitions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "614194a3-2379-4df8-9108-9b522ff593c5",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Transitions in careers can be seamless or rocky and most often comes untold and involuntary. Handling the voluntary and involuntary can get stressful. Having a conversation with higher ups for voluntary transitions and resetting to the new normal is essential. The handling of the transition involves How to identify the symptoms , and When to initiate these conversations and What are the signals that one sees when these transitions are about to happen.\nHow else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541523139,
+  "fallbackIntent": false,
+  "events": []
+}

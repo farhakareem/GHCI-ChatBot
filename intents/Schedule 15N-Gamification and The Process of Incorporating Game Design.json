@@ -1,0 +1,37 @@
+{
+  "id": "83318d6e-3886-424a-98b2-338ecc8f39ab",
+  "name": "Schedule 15N-Gamification and The Process of Incorporating Game Design",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are many great reasons to incorporate the intrigue, positive emotions and social aspects of gamification into an enterprise setup. Gamification is to engage the participant with an activity he or she finds fun in order to influence behavior. Enhances user or employee engagement, taps into employee intrinsic motivations by weaving fun features such as leaderboards and badges. Enterprise Gamification platform is built as part of Rewards \u0026 Recognition program; It provides incentives for enhancing skills, fosters continuous learning and innovation, and provides visibility into our top performing and most improved individuals/ teams. This talk would cover the aspects of gamification, some of the use cases/adding elements and techniques of game design into an otherwise non-game setting. In this talk, we will also explore how to get data from various system; process it in gamification engine; set rules and governance process and display the rankings/scores on leaderboards."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541586988,
+  "fallbackIntent": false,
+  "events": []
+}

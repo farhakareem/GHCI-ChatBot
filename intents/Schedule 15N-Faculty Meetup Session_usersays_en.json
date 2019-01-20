@@ -1,0 +1,68 @@
+[
+  {
+    "id": "81d1a566-eee7-4cd1-bdc4-a4ea10609107",
+    "data": [
+      {
+        "text": "faculty meetup on day 2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541525567
+  },
+  {
+    "id": "44bebfcb-39f8-4b5b-8ca7-9c5add23fd81",
+    "data": [
+      {
+        "text": "Details about faculty meetup session",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541176952
+  },
+  {
+    "id": "459e3e36-c1a6-42e9-8fab-f6ab0f7f6856",
+    "data": [
+      {
+        "text": "Faculty meetup session ",
+        "userDefined": false
+      },
+      {
+        "text": "on November 15",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541176952
+  },
+  {
+    "id": "aa7a4554-3d27-4839-a1a4-41d6d89b0184",
+    "data": [
+      {
+        "text": "Tell me about faculty meetup session on day 2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541176952
+  },
+  {
+    "id": "4647e389-32b1-4147-b457-6ee73c976c1d",
+    "data": [
+      {
+        "text": "Faculty Meetup Session",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540486862
+  }
+]

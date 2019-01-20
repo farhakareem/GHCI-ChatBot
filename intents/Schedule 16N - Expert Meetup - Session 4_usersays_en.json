@@ -1,0 +1,71 @@
+[
+  {
+    "id": "c0293d82-7497-44df-9dbd-384796fd078e",
+    "data": [
+      {
+        "text": "Describe expert meetup session",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541442484
+  },
+  {
+    "id": "24e6e8bb-8334-443f-b0c4-9d5ad87b0cce",
+    "data": [
+      {
+        "text": "What is expert meetup session",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541442484
+  },
+  {
+    "id": "455249a9-27c0-4bd1-9673-14ac51e0b5f0",
+    "data": [
+      {
+        "text": "Tell me about the expert meetup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541442484
+  },
+  {
+    "id": "f9f4cfde-80a9-492a-b59c-278342845678",
+    "data": [
+      {
+        "text": "When is the ",
+        "userDefined": false
+      },
+      {
+        "text": "4th",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " session of expert meetup ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541442484
+  },
+  {
+    "id": "27ef7d16-fcbc-4e3f-b48a-5da560918709",
+    "data": [
+      {
+        "text": "Expert Meetup - Session 4",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540486419
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "id": "dd3bf73e-92b1-4918-a374-f4f8f4e43896",
+  "name": "Schedule 14N-Keynote 2 Vaishali Kasture",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "10b34583-5aa2-4d1e-86e5-9f0ccf6cb921",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "first keynote speaker"
+            },
+            {
+              "title": "schedule"
+            },
+            {
+              "title": "career fair"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This year\u0027s keynote 2 is delivered by Vaishali Kasture, Founder of Sonder Connect on November 14 at Hall 2 (Lower Level). How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541820938,
+  "fallbackIntent": false,
+  "events": []
+}

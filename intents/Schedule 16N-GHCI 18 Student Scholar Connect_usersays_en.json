@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1e1909d5-c83d-45c3-b983-595ceecbb0cf",
+    "data": [
+      {
+        "text": "Connect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541207830
+  },
+  {
+    "id": "184aaca9-c656-4072-a762-4f8c6d9c6ebf",
+    "data": [
+      {
+        "text": "Student Connect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541207830
+  },
+  {
+    "id": "65f981a7-ea73-4226-944e-906ba1642e95",
+    "data": [
+      {
+        "text": "Student Scholar Connect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541207830
+  },
+  {
+    "id": "0f260a2a-681c-481f-961f-061b6e614d34",
+    "data": [
+      {
+        "text": "GHCI",
+        "alias": "GHCI",
+        "meta": "@GHCI",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " Student Scholar Connect ",
+        "userDefined": false
+      },
+      {
+        "text": "November 16",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541207830
+  },
+  {
+    "id": "e4413da7-2dfe-4781-9d26-4303f366f6a8",
+    "data": [
+      {
+        "text": "16 November",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "GHCI",
+        "alias": "GHCI",
+        "meta": "@GHCI",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " Student Scholar Connect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541207830
+  },
+  {
+    "id": "4a41313d-3b67-4691-89ae-6d6f53723c95",
+    "data": [
+      {
+        "text": "GHCI 18 Student Scholar Connect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540481099
+  }
+]

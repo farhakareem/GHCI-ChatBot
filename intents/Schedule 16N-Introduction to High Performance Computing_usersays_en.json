@@ -1,0 +1,90 @@
+[
+  {
+    "id": "a652bbde-5a04-4e47-877e-ad8c62ca8928",
+    "data": [
+      {
+        "text": "16 November",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "HPC",
+        "alias": "HPC",
+        "meta": "@HPC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541179378
+  },
+  {
+    "id": "6119ad6d-ccad-4430-9a09-4ebdd222d91c",
+    "data": [
+      {
+        "text": "HPC",
+        "alias": "HPC",
+        "meta": "@HPC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541179378
+  },
+  {
+    "id": "47bcb569-5024-4d44-ad6e-825735366405",
+    "data": [
+      {
+        "text": "High Performance Computing",
+        "alias": "HPC",
+        "meta": "@HPC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541179378
+  },
+  {
+    "id": "8f065e62-d8ad-4ec2-a463-1ec3d99d6134",
+    "data": [
+      {
+        "text": "16 November",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " Introduction to ",
+        "userDefined": false
+      },
+      {
+        "text": "High Performance Computing",
+        "alias": "HPC",
+        "meta": "@HPC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541179378
+  },
+  {
+    "id": "297cdd34-8250-4864-83dc-bd950c6df38c",
+    "data": [
+      {
+        "text": "Introduction to High Performance Computing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540477648
+  }
+]

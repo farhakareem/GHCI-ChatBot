@@ -1,0 +1,37 @@
+{
+  "id": "fd0893d2-4d53-465d-a13a-3bab048993c9",
+  "name": "Schedule 15N-One-Shot Learning for Damage Detection- Using Siamese Neural  Network",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "62f9d00f-0488-42be-8470-916e040997b4",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We present a novel approach of using Siamese convolutional neural network for one shot learning of various components defects through visual inspection. This facilitates the detection of defects with as less as one training image.Presently the inspection process is manual. The decision of whether a component needs to be replaced is solely dependent on the experience of assessor. Automating the present manual inspection process can ensure consistency in decision making, reduce downtime and save thousands of dollars by ensuring right decision is taken. How else may I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541610498,
+  "fallbackIntent": false,
+  "events": []
+}

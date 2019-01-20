@@ -1,0 +1,37 @@
+{
+  "id": "b471458d-092b-4cf8-84e4-4ca86a37dd73",
+  "name": "Schedule 15N-Cloud Enablement in Fintech",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Making the migration to the cloud is fast becoming a hot topic for most financial services organizations as they look to leverage more agility, operational efficiency and reduce their time to market. This session will cover a number of key business and technology considerations for financial institutions considering a move to the cloud. The discussion will include a review of the industry trends, business drivers and challenges, and key considerations for adoption."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541348781,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,90 @@
+{
+  "id": "ae24bf28-c678-41b0-a5bb-673aace0cb6d",
+  "name": "Schedule- 15 November - part 3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Schedule-15November.Schedule-15November-yes-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "list_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "November 15, 2018",
+          "subtitle": "GHCI 18 schedule details part 3",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "1",
+                "synonyms": []
+              },
+              "title": "Seamless Conversation Enabler",
+              "description": "2:45 PM to 3:05 PM | Glass Room - Food Court | Speakers: Sharannia Pillai"
+            },
+            {
+              "optionInfo": {
+                "key": "2",
+                "synonyms": []
+              },
+              "title": "Towards a Cost-effective Tactile reader for the Visually-impaired",
+              "description": "3.05 pm to 3.25 pm | Glass Room - Food Court | Speakers: Anupama Thomas"
+            },
+            {
+              "optionInfo": {
+                "key": "3",
+                "synonyms": []
+              },
+              "title": "Alice’s Adventure in Cyber World",
+              "description": "3:15 PM to 4:15 PM| Cassia | Speakers: Snigdha Singh, Suneet Chandna"
+            },
+            {
+              "optionInfo": {
+                "key": "4",
+                "synonyms": []
+              },
+              "title": "eScribe, Enabling Independence",
+              "description": "3.25 pm to 3.45 pm | Glass Room - Food Court | Speakers: Sangeetha M"
+            },
+            {
+              "optionInfo": {
+                "key": "5",
+                "synonyms": []
+              },
+              "title": "High tea",
+              "description": "3.30 pm to 4.30 pm | Hall 1 and 2 (Upper Level)"
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "November 16"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here is the last few sessions happening on November 15 :"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541818630,
+  "fallbackIntent": false,
+  "events": []
+}

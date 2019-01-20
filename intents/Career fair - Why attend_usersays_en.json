@@ -1,0 +1,84 @@
+[
+  {
+    "id": "c3c03e43-a946-4c0c-8eab-80cdcca47b88",
+    "data": [
+      {
+        "text": "Tell me about the resume database",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540488805
+  },
+  {
+    "id": "ba0a89c3-4a3c-4ac7-94e3-7fa8b7caef78",
+    "data": [
+      {
+        "text": "Why should I attend the career fair?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540145404
+  },
+  {
+    "id": "4abca076-0b03-47f6-9549-012b3588e44e",
+    "data": [
+      {
+        "text": "Why ",
+        "userDefined": false
+      },
+      {
+        "text": "GHCI",
+        "alias": "GHCI",
+        "meta": "@GHCI",
+        "userDefined": false
+      },
+      {
+        "text": " Caeer fair is recommended?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540145404
+  },
+  {
+    "id": "c08e81c2-282f-44ff-96e4-953a9026ccaa",
+    "data": [
+      {
+        "text": "Why should we attend the career fair?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539089016
+  },
+  {
+    "id": "942a27da-401b-484f-b07e-9628b060c02b",
+    "data": [
+      {
+        "text": "What is the advantage of attending career fair?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539089016
+  },
+  {
+    "id": "187db29f-ad46-4d5a-ba53-f7a5e7160a7e",
+    "data": [
+      {
+        "text": "What is the use of attending career fair?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539089016
+  }
+]

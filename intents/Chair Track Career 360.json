@@ -1,0 +1,72 @@
+{
+  "id": "a3231424-a032-4a29-9c0e-280636efee5d",
+  "name": "Chair Track Career 360",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "460865a3-15d8-4c4c-bdcc-9c1011e35caf",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "fcf13744-dbde-4f73-9683-c48cef850078",
+          "required": false,
+          "dataType": "@Chair",
+          "name": "Chair",
+          "value": "$Chair",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "AI Track Chair"
+            },
+            {
+              "title": "Design in Tech TrackChair"
+            },
+            {
+              "title": "Tech for Good Track Chair"
+            },
+            {
+              "title": "iConnect Track Chair"
+            },
+            {
+              "title": "Poster Session Chair"
+            },
+            {
+              "title": "Tech Expo Track Chair"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The track chairs for the Career 360 track are Mira Davda Aroda, TomTom and Ruby Tomar, HP. How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541513366,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "0d31c009-b08b-421a-b872-c685145c1f60",
+  "name": "Schedule 16N-What is Intelligent Enterprise and Why Does it Matter",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We are in an era of rapid Digital Transformation of the industry. The rapid strides in technology which transformed our personal space with mobile connectivity, digital entertainment, and social media, are now leading us to another frontier of Industrial revolution - called Industry 4.0. In this session, we will share our insights on trends like personalized manufacturing, blockchain for logistics, machine learning for predictive maintenance and manufacturing. We will also talk about how the lines of separation across businesses are blurring, and every company of the future will need to be Digital. Taking this to the local context, we have seen major digital transformations by the government of India (e.g. IndiaStack), leading to organizations focusing on digitization and business transformation to stay relevant in the marketplace and be compliant at the same time. We will talk about how can organizations convert innovations in technology to concrete opportunities for business success and deliver customer impact. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541614511,
+  "fallbackIntent": false,
+  "events": []
+}

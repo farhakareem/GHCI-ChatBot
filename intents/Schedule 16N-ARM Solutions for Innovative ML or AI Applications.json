@@ -1,0 +1,39 @@
+{
+  "id": "4d166eb4-65f7-4af2-bee5-258200bf4edb",
+  "name": "Schedule 16N-ARM Solutions for Innovative ML or AI Applications",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ad6ed7fb-2cd1-4684-84ad-464a5dd9ed78",
+          "required": false,
+          "dataType": "@ai",
+          "name": "ai",
+          "value": "$ai",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "“Computers are able to see, hear, learn, talk and write. Welcome to the future” ~ Dave Waters. The way we interact with machines is changing. Center to this change is Machine Learning. ML is at the heart of modern world computing. Arm is the market leader in mobile computing space, with Arm cores constituting over 96% of mobile devices in the world today. With Project Trillium, Arm plans to enable ML for every device, through various hardware products and software solutions for the ML market like ML processor (hardware accelerator for Neural networks), Arm Neural Network (SDK that enables existing NN frameworks to run on Arm CPUs), Arm Compute Library (collection of optimized functions for ML). With this presentation, we aim to familiarize our audience with current trends in ML/AI, and Arm’s approach to enable intelligence in everyday devices, backed by our analysis data from experiments conducted at Arm Bangalore. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541612126,
+  "fallbackIntent": false,
+  "events": []
+}

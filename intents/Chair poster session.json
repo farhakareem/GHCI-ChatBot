@@ -1,0 +1,64 @@
+{
+  "id": "ee8a917c-9248-456c-89d5-0edd7be2ee78",
+  "name": "Chair poster session",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eaa28f6b-3a68-4359-bd73-eca775ac48c5",
+          "required": false,
+          "dataType": "@Chair",
+          "name": "Chair",
+          "value": "$Chair",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Tech for Good Track Chair"
+            },
+            {
+              "title": "AI Track Chair"
+            },
+            {
+              "title": "Career360 Track Chair"
+            },
+            {
+              "title": "Tech Talk Session Chair"
+            },
+            {
+              "title": "iConnect Track Chair"
+            },
+            {
+              "title": "Tech Expo Track Chair"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The track chairs for the Poster Session are Mira Davda Aroda, TomTom and Ruby Tomar, HP. How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541329381,
+  "fallbackIntent": false,
+  "events": []
+}

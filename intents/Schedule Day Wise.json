@@ -1,0 +1,46 @@
+{
+  "id": "4015aedc-dfbc-4749-b271-cf43bb4b301d",
+  "name": "Schedule Day Wise",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "November 14"
+            },
+            {
+              "title": "November 15"
+            },
+            {
+              "title": "November 16"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Which day\u0027s Schedule are you looking for? If you want to exit, say exit!"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541609485,
+  "fallbackIntent": false,
+  "events": []
+}

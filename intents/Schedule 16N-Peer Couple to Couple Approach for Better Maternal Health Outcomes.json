@@ -1,0 +1,30 @@
+{
+  "id": "fdb10899-c2b0-4b94-9916-e71a236581d9",
+  "name": "Schedule 16N-Peer Couple to Couple Approach for Better Maternal Health Outcomes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The risk of pregnancy-related death is twice as high for girls aged 15-19 compared to women in their twenties. ‘Peer Couple to Couple Approach (PCCA)’ can be a sustainable, community-led approach, involving both the partners of young couples (the wife and husband) as a ‘dyad’, to overcome the socio-cultural and gender-related barriers to plan and space their families and achieve positive maternal health outcomes. Working with both the wife and the husband, the approach aims to empower women and work with men to make them more gender equitable. This approach challenges existing norms by working with this ‘dyad’ and not just targeting women, reinforcing the need for women’s empowerment, joint decision making and male engagement in contraceptive use. This talk describes the PCCA approach and the use of digital technology as a process enabler for deploying at scale in rural areas based on a field pilot at Jharkhand. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541614179,
+  "fallbackIntent": false,
+  "events": []
+}

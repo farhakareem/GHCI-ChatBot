@@ -1,0 +1,98 @@
+[
+  {
+    "id": "c22bf9b8-2ceb-4d28-a31d-477a82063c5d",
+    "data": [
+      {
+        "text": "expert meetup ",
+        "userDefined": false
+      },
+      {
+        "text": "on november 14",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541525380
+  },
+  {
+    "id": "3989b9a9-ad2c-4bcd-bd58-df848d2a5f6f",
+    "data": [
+      {
+        "text": "expert meetup ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541525123
+  },
+  {
+    "id": "b5853039-e12d-47d8-af72-2ebb35e5ab01",
+    "data": [
+      {
+        "text": "session 1 of expert meet up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541525123
+  },
+  {
+    "id": "317c4c17-6eba-40ae-ba29-83e734c24312",
+    "data": [
+      {
+        "text": "Expert Meetup - Session 1 ",
+        "userDefined": false
+      },
+      {
+        "text": "is what?",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541135083
+  },
+  {
+    "id": "5f5fb3a3-ede8-4104-bd1f-fa145b2c2c3a",
+    "data": [
+      {
+        "text": "Tell me about",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " Expert Meetup.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541135083
+  },
+  {
+    "id": "cb0938df-e170-4a47-adea-c56159f74024",
+    "data": [
+      {
+        "text": "Expert Meetup - Session 1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540484330
+  }
+]

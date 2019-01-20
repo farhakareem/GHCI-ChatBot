@@ -1,0 +1,62 @@
+[
+  {
+    "id": "682b5960-235a-486b-a83c-5ac6584683e2",
+    "data": [
+      {
+        "text": "cloud adoption using identity soc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541183334
+  },
+  {
+    "id": "218e455e-eda4-48cd-a365-9a45ef1daa9f",
+    "data": [
+      {
+        "text": "advanced threat intelligence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541183334
+  },
+  {
+    "id": "e633d570-016d-4b7a-99cb-793bb670dda4",
+    "data": [
+      {
+        "text": "cloud adoption",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541183334
+  },
+  {
+    "id": "3b935ec1-3131-4919-bbc9-7fae7327d577",
+    "data": [
+      {
+        "text": "secure cloud adoption",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541183334
+  },
+  {
+    "id": "c100e9ee-3783-47a6-a34e-3cd954937f82",
+    "data": [
+      {
+        "text": "Secure Cloud Adoption Using Identity SOC and Advanced Threat Intelligence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540483029
+  }
+]

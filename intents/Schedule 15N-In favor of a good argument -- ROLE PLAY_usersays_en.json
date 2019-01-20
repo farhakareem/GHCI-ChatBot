@@ -1,0 +1,122 @@
+[
+  {
+    "id": "12550ab0-ff8f-44ad-a347-dcf740902a7b",
+    "data": [
+      {
+        "text": "in favor of a good argument play",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541615012
+  },
+  {
+    "id": "bf8049a3-86ea-4bf7-9a9c-d4b97e2e2007",
+    "data": [
+      {
+        "text": "in favor of a good argument",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541615012
+  },
+  {
+    "id": "fc1740e7-5125-492f-817d-2bb28027e04a",
+    "data": [
+      {
+        "text": "role play ",
+        "userDefined": false
+      },
+      {
+        "text": "on november 15",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541615012
+  },
+  {
+    "id": "504e550c-87cc-4ff2-a954-3057ace98d38",
+    "data": [
+      {
+        "text": "role play on day 2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541615012
+  },
+  {
+    "id": "f0fcc25b-465e-47b0-a5ef-057493261b9f",
+    "data": [
+      {
+        "text": "November 15",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " session on In favor of a good argument -- ROLE PLAY",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541177299
+  },
+  {
+    "id": "71798a1d-5858-49f3-9b46-429f397f7f92",
+    "data": [
+      {
+        "text": "Session on in favor of a good argument -- ROLE PLAY on day 2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541177299
+  },
+  {
+    "id": "8b061299-32f1-4ee9-8658-85e55d362e80",
+    "data": [
+      {
+        "text": "Details about in favor of a good argument -- ROLE PLAY",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541177299
+  },
+  {
+    "id": "e7326a27-bc19-49b6-bee3-01e647bc1177",
+    "data": [
+      {
+        "text": "Tell me about in favor of a good argument -- ROLE PLAY",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541177299
+  },
+  {
+    "id": "e91f618f-13ff-4a88-9fb8-05d58b67f572",
+    "data": [
+      {
+        "text": "In favor of a good argument -- ROLE PLAY",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540486986
+  }
+]

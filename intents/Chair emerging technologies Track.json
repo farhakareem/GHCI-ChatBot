@@ -1,0 +1,64 @@
+{
+  "id": "4624abab-b815-4bc9-9823-8388bb549cbb",
+  "name": "Chair emerging technologies Track",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "63b9b083-7596-48af-9640-82f2d56dfdfe",
+          "required": false,
+          "dataType": "@Chair",
+          "name": "Chair",
+          "value": "$Chair",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "AI Track Chair"
+            },
+            {
+              "title": "Tech for Good Track Chair"
+            },
+            {
+              "title": "Career360 Track Chair"
+            },
+            {
+              "title": "Poster Session Chair"
+            },
+            {
+              "title": "iConnect Track Chair"
+            },
+            {
+              "title": "Tech Talk Session Chair"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The track chairs for the Emerging Technologies track is Preethi Guruswamy, Intuit and Sandhya Guntreddy, Microsoft. How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541511827,
+  "fallbackIntent": false,
+  "events": []
+}

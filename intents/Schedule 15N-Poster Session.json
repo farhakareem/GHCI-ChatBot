@@ -1,0 +1,46 @@
+{
+  "id": "2bbeb3a5-f676-4df1-9e23-dc30c7729833",
+  "name": "Schedule 15N-Poster Session",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "99591e8b-cb59-4939-a3f5-e2481bcb2d97",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Poster Session is an opportunity for all technology enthusiasts to come together for an open and informal discussion on innovative technology and future research. The presenters of this session are industry professionals, academia, researchers and students."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541610680,
+  "fallbackIntent": false,
+  "events": []
+}

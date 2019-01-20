@@ -1,0 +1,82 @@
+[
+  {
+    "id": "e2377067-a069-474b-9bbe-7a213c1c176a",
+    "data": [
+      {
+        "text": "Tell me the timing of the ",
+        "userDefined": false
+      },
+      {
+        "text": "career fair",
+        "alias": "CareerFair",
+        "meta": "@CareerFair",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541172813
+  },
+  {
+    "id": "ff4cd58e-9da0-4701-8898-64f0130091d3",
+    "data": [
+      {
+        "text": "Tell me the dates when the ",
+        "userDefined": false
+      },
+      {
+        "text": "career fair",
+        "alias": "CareerFair",
+        "meta": "@CareerFair",
+        "userDefined": false
+      },
+      {
+        "text": " happens",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540488500
+  },
+  {
+    "id": "46cd06d3-04ee-4d69-91fb-0a0127bb31ec",
+    "data": [
+      {
+        "text": "What is the schedule of the career fair?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539090777
+  },
+  {
+    "id": "8ea89518-c405-438f-91d4-41d7654cb62b",
+    "data": [
+      {
+        "text": "When is the career fair happening?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539090777
+  },
+  {
+    "id": "ea84854b-eca7-4b75-93fd-cf91eb20b4c7",
+    "data": [
+      {
+        "text": "Can you tell me about the timing of the fair.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539090777
+  }
+]

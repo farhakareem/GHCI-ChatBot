@@ -1,0 +1,84 @@
+[
+  {
+    "id": "ec4b4a46-b215-4849-b4e1-dd00c1e62e0f",
+    "data": [
+      {
+        "text": "escribe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541524723
+  },
+  {
+    "id": "a2516794-df15-4fc7-bf0e-90f9373975c2",
+    "data": [
+      {
+        "text": "session details of eScribe, Enabling ",
+        "userDefined": false
+      },
+      {
+        "text": "Independence",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541177894
+  },
+  {
+    "id": "1a5a74e8-d7e0-4683-b23a-9e380b46791d",
+    "data": [
+      {
+        "text": "eScribe, Enabling ",
+        "userDefined": false
+      },
+      {
+        "text": "Independence",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      },
+      {
+        "text": " session on day 2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541177894
+  },
+  {
+    "id": "42d3ffb4-2f99-4119-968c-62b6cf3426f3",
+    "data": [
+      {
+        "text": "Tell me about eScribe, Enabling ",
+        "userDefined": false
+      },
+      {
+        "text": "Independence",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541177894
+  },
+  {
+    "id": "48964b8e-5101-4be8-aaf3-ddccb6e7e301",
+    "data": [
+      {
+        "text": "eScribe, Enabling Independence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540487243
+  }
+]

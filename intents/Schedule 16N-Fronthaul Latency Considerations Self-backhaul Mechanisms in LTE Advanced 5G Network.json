@@ -1,0 +1,39 @@
+{
+  "id": "cc2d719e-5fd7-4cd7-8eaa-147b18d793a5",
+  "name": "Schedule 16N-Fronthaul Latency Considerations Self-backhaul Mechanisms in LTE Advanced 5G Network",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c5371889-08a1-4b1c-9301-fcc572ae06be",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Cloud RAN and baseband pooling architectures are increasingly becoming the way cellular technologies are deployed. LTE, LTE-Advanced and 5G are designed with a distributed architecture in mind wherein the baseband and the RRH may not be co-located and the link connecting the baseband and RRH may be non-ideal, i.e., has a non-zero latency. \n\nThe first part of the talk focuses on the impact on system performance because of fronthaul latency in both the downlink and uplink. In addition, we focus on methods to improve system performance in presence of non-ideal fronthaul.\n\nThe second part of the talk proposes resource allocation algorithms for self-backhaul networks with half-duplex and full-duplex small cells. Large-scale ad-hoc deployment of small cells or access points is expected to improve the coverage and spectrum reuse. The need for high-cost optical fibre or similar wired connectivity for backhaul can be mitigated by using radio access spectrum for backhaul links. The radio resources are shared among access links and self-backhaul links, referred as in-band self-backhauling. In this talk, we will discuss solutions for scheduling, resource allocation and flow control problem for networks with self-backhauled small cells. \n\nHow else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541613321,
+  "fallbackIntent": false,
+  "events": []
+}

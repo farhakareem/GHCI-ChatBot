@@ -1,0 +1,56 @@
+[
+  {
+    "id": "cd98abf8-1584-4e18-909f-86278a8ab0aa",
+    "data": [
+      {
+        "text": "What is Breaking Digital Barriers with Microsoft Cognitive Services ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541701426
+  },
+  {
+    "id": "846af61a-bb75-4d69-bd8c-fe95cbb2716d",
+    "data": [
+      {
+        "text": "Breaking Digital Barriers with Microsoft Cognitive Services ",
+        "userDefined": false
+      },
+      {
+        "text": "is what ?",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541701426
+  },
+  {
+    "id": "0f8faae1-00e3-487c-bfcc-90fb637957c5",
+    "data": [
+      {
+        "text": "Tell me about Breaking Digital Barriers with Microsoft Cognitive Services.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541701426
+  },
+  {
+    "id": "aa9c406e-caeb-4617-9feb-cb21b56549ae",
+    "data": [
+      {
+        "text": "Breaking Digital Barriers with Microsoft Cognitive Services.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541701426
+  }
+]

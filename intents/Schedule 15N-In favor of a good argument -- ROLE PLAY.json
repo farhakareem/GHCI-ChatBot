@@ -1,0 +1,46 @@
+{
+  "id": "e4db0c92-0c6a-4f70-baf6-7ad6f5f321bb",
+  "name": "Schedule 15N-In favor of a good argument -- ROLE PLAY",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "86ab42e0-657b-4ecd-8166-d8f995f5cc21",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Help the audience to develop the skills needed to create a positive image at work place. This is not run by the mill session or format. There will be five different situations which will be enacted to demonstrate actual situations and how they can be handled well. Through the exercise, audience will learn practical ways to respond, share and act in crucial/ difficult conversations."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541615012,
+  "fallbackIntent": false,
+  "events": []
+}

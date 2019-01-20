@@ -1,0 +1,97 @@
+[
+  {
+    "id": "0ae23a14-783c-4d72-9dcd-0a24a52df432",
+    "data": [
+      {
+        "text": "Tell me about the career fair on last day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541443387
+  },
+  {
+    "id": "d08c2889-22ad-48cf-8422-0d377bcb2be6",
+    "data": [
+      {
+        "text": "career fair",
+        "alias": "CareerFair",
+        "meta": "@CareerFair",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on november 16th",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541434888
+  },
+  {
+    "id": "57464e0b-54d6-46ee-846e-9c14be32e34d",
+    "data": [
+      {
+        "text": "nov 16",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fair",
+        "alias": "CareerFair",
+        "meta": "@CareerFair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541434811
+  },
+  {
+    "id": "c920d64a-6b39-479d-ad16-8ee9b940978f",
+    "data": [
+      {
+        "text": "career fair",
+        "alias": "CareerFair",
+        "meta": "@CareerFair",
+        "userDefined": false
+      },
+      {
+        "text": " day ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541434811
+  },
+  {
+    "id": "562e870e-45ed-49fa-9f42-2afcc575b6c0",
+    "data": [
+      {
+        "text": "GHCI 18 Career Fair day 3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540482336
+  }
+]

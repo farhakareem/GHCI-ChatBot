@@ -1,0 +1,82 @@
+[
+  {
+    "id": "891b16a5-d7c5-45df-a0ce-8644ae886996",
+    "data": [
+      {
+        "text": "Who ",
+        "userDefined": false
+      },
+      {
+        "text": "chairs",
+        "alias": "Chair",
+        "meta": "@Chair",
+        "userDefined": false
+      },
+      {
+        "text": " the the student scholarships committee.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541187859
+  },
+  {
+    "id": "4bb88263-96cb-4b79-832f-510d14dab708",
+    "data": [
+      {
+        "text": "Tell me about the student scholarships committee ",
+        "userDefined": false
+      },
+      {
+        "text": "chair",
+        "alias": "Chair",
+        "meta": "@Chair",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541187859
+  },
+  {
+    "id": "3a9e1099-5a7c-435b-b59f-14cea73d3a12",
+    "data": [
+      {
+        "text": "Who is chairing the student scholarships committee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541187859
+  },
+  {
+    "id": "9712ed45-bae2-49e2-800e-f838b21c9bf8",
+    "data": [
+      {
+        "text": "Who leads the student scholarships committee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541187859
+  },
+  {
+    "id": "b83c5b48-7411-467b-8632-8ba4891033c1",
+    "data": [
+      {
+        "text": "who is the student scholarships chair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539220348
+  }
+]

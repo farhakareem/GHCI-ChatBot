@@ -1,0 +1,316 @@
+{
+  "id": "8c47f474-5994-4d36-beb5-36ff02564e28",
+  "parentId": "d4d3de7b-c605-4205-8583-d59dd6901b77",
+  "rootParentId": "d4d3de7b-c605-4205-8583-d59dd6901b77",
+  "name": "Schedule- 15 November - part 2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "Schedule-15November.Schedule-15November-yes",
+      "affectedContexts": [
+        {
+          "name": "Schedule-15November-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5e4dec8b-163d-4ef7-8b6e-418b5ba0d940",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "A few more sessions are scheduled for November 15. If you wish to view them select the part 3. If not what else can I help you with ?"
+        },
+        {
+          "type": "list_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "November 15, 2018",
+          "subtitle": "GHCI 18 remainder session details",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "1",
+                "synonyms": []
+              },
+              "title": "Dynamic Modeling of Stochastic Numeric Data using Connectionism Systems.",
+              "description": "11.30 am to 11.45 am | Jacaranda | Speakers: Gagana B"
+            },
+            {
+              "optionInfo": {
+                "key": "2",
+                "synonyms": []
+              },
+              "title": "Being Disruptively Frugal",
+              "description": "11.30 am to 12.00 pm | Glass Room - Food Court | Speakers: Vikram Damodaran"
+            },
+            {
+              "optionInfo": {
+                "key": "3",
+                "synonyms": []
+              },
+              "title": "Technical Career Journeys",
+              "description": "11.30 am to 12.30 pm | Hall 2 (Lower Level) |  Speakers: Swaathi Kakarla, Anuradha Asuri"
+            },
+            {
+              "optionInfo": {
+                "key": "4",
+                "synonyms": []
+              },
+              "title": "Building Conversational Experiences with Google Assistant",
+              "description": "11:30 AM to 12:30 PM| Hibiscus |  Lakshya Sivaramakrishnan, Sonali Rahagude"
+            },
+            {
+              "optionInfo": {
+                "key": "5",
+                "synonyms": []
+              },
+              "title": "Inclusive Design and Technologies for Accessibility",
+              "description": "11.30 am to 12.30 pm | Parijatha | Speakers: Swami Manohar"
+            },
+            {
+              "optionInfo": {
+                "key": "6",
+                "synonyms": []
+              },
+              "title": "Expert Meetup - Session 1",
+              "description": "11.30 am to 12.30 pm | Lagoon Area (Convention Centre)"
+            },
+            {
+              "optionInfo": {
+                "key": "7",
+                "synonyms": []
+              },
+              "title": "Industrial Robotics and the Age of Autonomy: Future Perspectives",
+              "description": "11.30 am to 12.30 pm | Food Court (Upper Level) | Speakers: Sudarshan M V, Prabhat Shankar"
+            },
+            {
+              "optionInfo": {
+                "key": "8",
+                "synonyms": []
+              },
+              "title": "Vision Based Railway Track Monitoring Using Deep Learning",
+              "description": "11.45 to 12.00 pm | Jacaranda | Speakers: Shruti Mittal"
+            },
+            {
+              "optionInfo": {
+                "key": "9",
+                "synonyms": []
+              },
+              "title": "Infrastructure 3.0: Beyond Virtualization",
+              "description": "12.00 pm to 12.30 pm | Glass Room - Food Court | Speakers: Anshu Sharma Raja"
+            },
+            {
+              "optionInfo": {
+                "key": "10",
+                "synonyms": []
+              },
+              "title": "One-Shot Learning for Damage Detection: Using Siamese Neural Network",
+              "description": "12.00 pm to 12.15 pm | Jacaranda | Speakers: Ritika S"
+            },
+            {
+              "optionInfo": {
+                "key": "11",
+                "synonyms": []
+              },
+              "title": "Deep Learning Model to Detect Text Wrap in Documents/Images",
+              "description": "12.15 pm to 12.30 pm | Jacaranda | Speakers: Monica Singh"
+            },
+            {
+              "optionInfo": {
+                "key": "12",
+                "synonyms": []
+              },
+              "title": "Lunch on 15 November, 2018",
+              "description": "12.30 pm to 1.30 pm | Hall 1 and 2 (Upper Level)"
+            },
+            {
+              "optionInfo": {
+                "key": "14",
+                "synonyms": []
+              },
+              "title": "Technokidz to the Rescue",
+              "description": "1:30 PM to 2:30 PM | Parijatha | Speakers: Purva Sreekaanth, Samyukta Shrivatsa, Naman Kumar, Aman Vernekar, Dweep Joshipura"
+            },
+            {
+              "optionInfo": {
+                "key": "15",
+                "synonyms": []
+              },
+              "title": "Evolution of SDLC (Software Development Life Cycle) through DevOps and Knowledge Management",
+              "description": "1.30 pm to 2.30 pm | Speakers: Roopa Sunder Raj, Bhasker Sathyamurthy"
+            },
+            {
+              "optionInfo": {
+                "key": "16",
+                "synonyms": []
+              },
+              "title": "Speed Mentoring - Session 2",
+              "description": "1:30 pm to 2:30 pm | Food Court (Lower Level)"
+            },
+            {
+              "optionInfo": {
+                "key": "17",
+                "synonyms": []
+              },
+              "title": "Poster Session",
+              "description": "1.30 pm to 3.30 pm | Ground Floor (Convention Centre)"
+            },
+            {
+              "optionInfo": {
+                "key": "18",
+                "synonyms": []
+              },
+              "title": "Ask Me Anything About #Lifeatwork",
+              "description": "1.30 pm to 2.30 pm | Hall 2 (Lower Level) | Speakers: Jamuna Ravi, Sudha KV"
+            },
+            {
+              "optionInfo": {
+                "key": "19",
+                "synonyms": []
+              },
+              "title": "Can Blockchain Technology Secure ADS-B Surveillance Data in Aviation Industry",
+              "description": "1.30 pm to 2.00 pm |Food Court (Upper Level) | Speakers: Swathi Pennapareddy"
+            },
+            {
+              "optionInfo": {
+                "key": "20",
+                "synonyms": []
+              },
+              "title": "How to Design, Innovate and Create Products that People will Love",
+              "description": "1.30 pm to 2.00 pm |Glass Room - Food Court | Speakers: Deepa Bachu, Madhumita Gupta, Sonia Manchanda, Anuradha Madhusudan"
+            },
+            {
+              "optionInfo": {
+                "key": "21",
+                "synonyms": []
+              },
+              "title": "Gamification \u0026 The Process of Incorporating Game Design \u0026 Techniques in an Enterprise Setup",
+              "description": "1.30 pm to 2.30 pm | Hibiscus | Speakers: Vidya Samavedam"
+            },
+            {
+              "optionInfo": {
+                "key": "22",
+                "synonyms": []
+              },
+              "title": "Hands on IoT workshop on Indoor Location Tracking",
+              "description": "1.30 pm to 4.00 pm | Gulmohar | Speakers: Selvakumar Natesan, Sathishkumar Thangavel"
+            },
+            {
+              "optionInfo": {
+                "key": "23",
+                "synonyms": []
+              },
+              "title": "Machine Learning, Open Source and Digitization - Demystified",
+              "description": "1.30 pm to 3.00 pm | Cassia | Speakers: Nidhi Gopal"
+            },
+            {
+              "optionInfo": {
+                "key": "24",
+                "synonyms": []
+              },
+              "title": "Quantum Cryptography Based Hash Generation for Blockchain Technology",
+              "description": "2.00 pm to 2.30 pm | Food Court (Upper Level) | Speakers: Manisha Modak"
+            },
+            {
+              "optionInfo": {
+                "key": "25",
+                "synonyms": []
+              },
+              "title": "Cloud Enablement in Fintech",
+              "description": "2.45 pm to 3.45 pm | Jacaranda |  Speakers: Debra J. Chrapaty"
+            },
+            {
+              "optionInfo": {
+                "key": "26",
+                "synonyms": []
+              },
+              "title": "In favor of a good argument -- ROLE PLAY",
+              "description": "2.45 pm to 4.45 pm | Hall 2 (Lower Level) | Speakers: Nandini Rao"
+            },
+            {
+              "optionInfo": {
+                "key": "27",
+                "synonyms": []
+              },
+              "title": "Generation Z Cloud Applications: Performance, Scalability, Microservices, AI",
+              "description": "2.45 pm to 3.45 pm | Food Court (Upper Level) | Speakers: Bhargavi Jogula, Manish Palaparthy"
+            },
+            {
+              "optionInfo": {
+                "key": "28",
+                "synonyms": []
+              },
+              "title": "Expert Meetup - Session 2",
+              "description": "2:45 pm to 3:45 pm | Lagoon Area (Convention Centre)"
+            },
+            {
+              "optionInfo": {
+                "key": "29",
+                "synonyms": []
+              },
+              "title": "Agile to Scaled Agile in the Automotive domain – A Case Study",
+              "description": "2.45 pm to 3.45 pm | Parijatha | Speakers: Sapna Nair"
+            },
+            {
+              "optionInfo": {
+                "key": "30",
+                "synonyms": []
+              },
+              "title": "Faculty Meetup Session",
+              "description": "2.45 pm to 3.45 pm | Hibiscus"
+            },
+            {
+              "optionInfo": {
+                "key": "31",
+                "synonyms": []
+              },
+              "title": "Systers Meetup Session",
+              "description": "2.45 pm to 3.15 pm| Food Court (Lower Level)"
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Part 3 of the Schedule"
+            },
+            {
+              "title": "Novbember 16"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here you go with the remaining schedules."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541803724,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,92 @@
+{
+  "id": "b3c2bfe0-ffd8-4143-accf-4539376be4e8",
+  "name": "Schedule-Track wise-Design in Tech",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "list_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Design in Tech Sessions",
+          "subtitle": "GHCI 18",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "1",
+                "synonyms": []
+              },
+              "title": "How to Design, Innovate and Create Products that People will Love",
+              "description": "November 15 | 1:30 - 2:30 PM | Location: Glass Room - Food Court | Speakers: Deepa Bachu, Madhumita Gupta, Sonia Manchanda, Anuradha Madhusudan"
+            },
+            {
+              "optionInfo": {
+                "key": "2",
+                "synonyms": []
+              },
+              "title": "The Rising Role of Design in Technology",
+              "description": "November 16 | 9 - 9:30 AM | Location: Food Court (Upper Level) | Speakers: Karthi Subbaraman, Sampada Bhagat, Ashlesha Jagtap"
+            },
+            {
+              "optionInfo": {
+                "key": "3",
+                "synonyms": []
+              },
+              "title": "Design of Voice and AI",
+              "description": "November 16 | 10:15 - 11:15 AM | Location: Food Court (Upper Level) | Speakers: Vidhya Duthaluru, Azmina Poddar"
+            },
+            {
+              "optionInfo": {
+                "key": "4",
+                "synonyms": []
+              },
+              "title": "Design for Emerging Markets",
+              "description": "November 16 | 11:30 - 12:30 PM | Location: Food Court (Upper Level) | Speakers: Naman Mathur, Muzayun Mukhtar"
+            },
+            {
+              "optionInfo": {
+                "key": "5",
+                "synonyms": []
+              },
+              "title": "Learn to Design for Virtual Reality",
+              "description": "November 16 | 1:30 - 3 PM | Location: Cassia | Speakers: Muktha Hiremath, Monisha Pattanaik, Aparna Kongot"
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Emerging Technologies"
+            },
+            {
+              "title": "TechTalks"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "These are the sessions under the track : Design in Tech. How else may I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541499627,
+  "fallbackIntent": false,
+  "events": []
+}

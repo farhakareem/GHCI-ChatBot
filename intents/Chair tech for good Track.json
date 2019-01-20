@@ -1,0 +1,67 @@
+{
+  "id": "91ba32dc-7fd3-4fd3-a849-65b30731be56",
+  "name": "Chair tech for good Track",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9eb3334f-315a-49f8-9b2f-68f156b53192",
+          "required": false,
+          "dataType": "@Chair",
+          "name": "Chair",
+          "value": "$Chair",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "AI Track Chair"
+            },
+            {
+              "title": "Design in Tech TrackChair"
+            },
+            {
+              "title": "Career360 Track Chair"
+            },
+            {
+              "title": "Poster Session Chair"
+            },
+            {
+              "title": "iConnect Track Chair"
+            },
+            {
+              "title": "Tech Expo Track Chair"
+            },
+            {
+              "title": "Tech Talk Session Chair"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The track chairs for the Tech For Good track are Nandini De, Veritas and Swapna Viswanath, Philips. How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541512897,
+  "fallbackIntent": false,
+  "events": []
+}

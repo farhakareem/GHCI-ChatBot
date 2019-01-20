@@ -1,0 +1,39 @@
+{
+  "id": "6c81da46-8bca-4eed-9232-e0c43c91895f",
+  "name": "Schedule 16N-Neuroscience of Building Connections",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3f4b2147-db8d-4bd5-b626-ba9c61c2cb63",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Networking is waste of time; bad politics.” “I do my job well, why do I need to rely on connections.” “Networking is important but very stressful \u0026 confusing.” This and many more such comments is heard from employees, leaders, entrepreneurs all the time. Well, you could call it a façade, a unnecessary evil, game of bad politics or anything else if you will. But even neuroscience doesn’t deny the need for social connections for us to function given how humans are wired. And no more are we living in a world where you can rely on your domain / technical expertise alone to speak for you; because even a good product needs marketing in the right markets. Organizational complexity due to matrixed structures and rapid globalization is only going to increase and so will the number of stakeholder we need to manage or engage with, making the need for building networks increasingly critical. Agree that, it can be a stressful process, but the key is to breakthrough the complexity and be more deliberate about it. So come join to understand the science behind the ‘why’ and ‘how’ of ‘building networks’ in order to make the most of it.\nHow else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541614047,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ee0f4edb-027e-44d6-90bd-57b6537eca3f",
+  "name": "Schedule 15N-New Methodologies in Formal Verification Ring the Change in  Validation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you ?",
+          "displayText": "Even limiting to standard Formal Verification techniques is insufficient. In Intel Graphics, we are experimenting with new flavors of Formal Verification (FV) to proliferate its benefits to more designers. In the final presentation, we would put forth several interesting case studies and impressive results on the impact we have created to enable shift left in all facets of design and verification cycle."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Aggressive and competitive graphics requirements force a shift left approach on all the aspects of the design life cycle, compelling the designers to not only adopt better and more efficient implementations but also optimize the design to enable power savings, better pipelining, clock gating, new feature addition etc. Such changes are often swiftly implemented because of rapidly changing demands of consumers and hence, also need to be efficiently validated to meet time to market constraints. As a result, confining to standard verification technique of simulation is not enough."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541610426,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "aade33a6-21c1-4531-8457-eea6e5db4fcf",
+  "name": "Schedule 15N-IC Packaging Technology Trends",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "In electronics manufacturing, Integrated circuit (IC) packaging is the final stage of semiconductor device fabrication. In this process, a tiny block of semiconductor material (Silicon Die) is encapsulated in a supporting case that prevents physical damage and corrosion. The recent rapid dissemination of Computing and Mobile devices demands for faster, thinner and smaller products which should be more power efficient and compact. Hence, IC packaging has become a hot topic. This Presentation will go through main factors that are driving IC Packaging and how it evolved over years since the invention of the first semiconductor package in 1965. The latest trends in IC Packaging like Wafer Level Packaging (WLP), Package on Package (PoP) and 2.5D/3D Packages will be covered. This paper will also cover the emerging technologies on IC Packaging Fanout Wafer Level Packaging (FOWLP) and embedded die packaging. How else may I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541614494,
+  "fallbackIntent": false,
+  "events": []
+}

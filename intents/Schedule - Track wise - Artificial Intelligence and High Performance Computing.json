@@ -1,0 +1,197 @@
+{
+  "id": "45cedef2-59f6-4782-bd7e-eb3308cc8e2f",
+  "name": "Schedule - Track wise - Artificial Intelligence and High Performance Computing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "159c708a-b761-4c78-aced-674e97fb8c93",
+          "required": false,
+          "dataType": "@HPC",
+          "name": "HPC",
+          "value": "$HPC",
+          "isList": false
+        },
+        {
+          "id": "f4e90a6b-c3ac-4214-adfa-993939d84c14",
+          "required": false,
+          "dataType": "@ai",
+          "name": "ai",
+          "value": "$ai",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "list_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Artificial Intelligence and High Performance Computing",
+          "subtitle": "GHCI 18",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "1",
+                "synonyms": []
+              },
+              "title": "Protecting Truant Kids From Accessing Adult Content On Smart Devices",
+              "description": "November 15 | 9 - 9:20 AM | Location: Jacaranda | Speakers: Jerrina Paul"
+            },
+            {
+              "optionInfo": {
+                "key": "2",
+                "synonyms": []
+              },
+              "title": "Understanding how a Kalman Filter Works",
+              "description": "November 15 | 9:20 - 9:40 AM | Location: Jacaranda | Speakers: Ayushi Mrigen"
+            },
+            {
+              "optionInfo": {
+                "key": "3",
+                "synonyms": []
+              },
+              "title": "Role of Distance Measures in Machine Learning: A Yardstick for Data Similarity",
+              "description": "November 15 | 9:40 - 10 AM | Location: Jacaranda | Speakers: Neelima Vobugari"
+            },
+            {
+              "optionInfo": {
+                "key": "4",
+                "synonyms": []
+              },
+              "title": "Fake Article Detection from Multilingual Documents-A Deep Learning Approach",
+              "description": "November 15 | 10:15 - 10:35 AM | Location: Jacaranda | Speakers: Soma Halder"
+            },
+            {
+              "optionInfo": {
+                "key": "5",
+                "synonyms": []
+              },
+              "title": "Data That Caught the World With Surprise",
+              "description": "November 15 | 10:35 - 10:55 AM | Location: Jacaranda | Speakers: Neha Singh"
+            },
+            {
+              "optionInfo": {
+                "key": "6",
+                "synonyms": []
+              },
+              "title": "Analyzing Gender Stereotyping in Bollywood Movies",
+              "description": "November 15 | 10:55 - 11:15 AM  | Location: Jacaranda | Speakers: Nishtha Madaan"
+            },
+            {
+              "optionInfo": {
+                "key": "7",
+                "synonyms": []
+              },
+              "title": "Dynamic Modeling of Stochastic Numeric Data using Connectionism Systems",
+              "description": "November 15 | 11:30 - 11:45 AM  | Location: Jacaranda | Speakers: Gagana B"
+            },
+            {
+              "optionInfo": {
+                "key": "8",
+                "synonyms": []
+              },
+              "title": "Vision Based Railway Track Monitoring Using Deep Learning",
+              "description": "November 15 | 11:45 - 12 PM | Location: Jacaranda | Speakers: Shruti Mittal"
+            },
+            {
+              "optionInfo": {
+                "key": "9",
+                "synonyms": []
+              },
+              "title": "One-Shot Learning for Damage Detection: Using Siamese Neural Network",
+              "description": "November 15 | 12 - 12:15 PM | Location: Jacaranda | Speakers: Ritika S"
+            },
+            {
+              "optionInfo": {
+                "key": "10",
+                "synonyms": []
+              },
+              "title": "Deep Learning Model to Detect Text Wrap in Documents/Images",
+              "description": "November 15 | 12:15 - 12:30 PM | Location: Jacaranda | Speakers: Monica Singh"
+            },
+            {
+              "optionInfo": {
+                "key": "11",
+                "synonyms": []
+              },
+              "title": "Introduction to High Performance Computing",
+              "description": "November 16 | 9 - 9:30 AM | Location: Jacaranda | Speakers: Jyotsna Khemka, Nitya Hariharan"
+            },
+            {
+              "optionInfo": {
+                "key": "12",
+                "synonyms": []
+              },
+              "title": "Distributed Computing in HPC and Code Optimization Challenges",
+              "description": "November 16 | 9:30 - 10:00 AM | Location: Jacaranda | Speakers: Jyotsna Khemka, Nitya Hariharan"
+            },
+            {
+              "optionInfo": {
+                "key": "13",
+                "synonyms": []
+              },
+              "title": "Memory Driven Computing: A Deep Dive",
+              "description": "November 16 | 10:15 - 10:45 AM | Location: Jacaranda | Speakers: Clarete Riana Crasta"
+            },
+            {
+              "optionInfo": {
+                "key": "14",
+                "synonyms": []
+              },
+              "title": "ARM Solutions for Innovative ML/AI Applications",
+              "description": "November 16 | 10:45 - 11:20 AM | Location: Jacaranda | Speakers: Naireeta Kansabanik"
+            },
+            {
+              "optionInfo": {
+                "key": "15",
+                "synonyms": []
+              },
+              "title": "Ethics and AI Systems",
+              "description": "November 16 | 11:30 - 12:30 PM | Location: Jacaranda | Speakers: Mythreyee Ganapathy, Babu Narayanan, Sudheen Bhatt, Seema Chopra, Ramesh. Lognathan"
+            },
+            {
+              "optionInfo": {
+                "key": "16",
+                "synonyms": []
+              },
+              "title": "Model Explainability in AI Systems",
+              "description": "November 16 | 1:30 - 3 PM | Location: Gulmohar |  Speakers: Rushi Bhatt, Dimple Sadhwani"
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Tech Talks"
+            },
+            {
+              "title": "Design for Tech"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "These are the sessions on the track : Artificial Intelligence and High Performance Computing. How else may I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541521690,
+  "fallbackIntent": false,
+  "events": []
+}

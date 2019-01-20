@@ -1,0 +1,39 @@
+{
+  "id": "30d140b8-4144-4bdd-87b6-fbb94d0d6013",
+  "name": "Schedule 16N-Thrive on Pressure Like a Sportsperson",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "48a066e8-a450-465c-a4b5-b1f78839419e",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Draw analogies from winning in the sports world to the corporate world. Achieve your career goals the same way that athletes achieve their laurels. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541614463,
+  "fallbackIntent": false,
+  "events": []
+}

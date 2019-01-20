@@ -1,0 +1,30 @@
+{
+  "id": "59b01c70-4661-4220-8052-7167e08f0a9c",
+  "name": "Schedule 15N-Fake Article Detection from Multilingual Documents-A Deep Learning  Approach",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "In this paper we address the negative social impact caused by fake news by proposing a model that is able to detect fake news in multilingual documents. The model works in two segments first it converts multilingual documents to English by the use of a modified neural machine translator that uses a bidirectional recurrent neural network. Further it uses a second deep learning approach i.e. stacked auto encoder to detect fake news. Finally, we measure the accuracy of the model by comparing it to some known fake news data sets. This proposed model is able to attain a fairly decent accuracy but needs further work in future. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541612823,
+  "fallbackIntent": false,
+  "events": []
+}

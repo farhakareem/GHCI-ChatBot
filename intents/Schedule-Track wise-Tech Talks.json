@@ -1,0 +1,148 @@
+{
+  "id": "b5bac265-0600-4cd3-a335-e5edd2448026",
+  "name": "Schedule-Track wise-Tech Talks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "list_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Tech Talks Sessions",
+          "subtitle": "GHCI 18",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "1",
+                "synonyms": []
+              },
+              "title": "How the Brain Interprets Content - Latest Advancement in Natural Language Understanding",
+              "description": "November 15 | 9-9.30 AM | Location: Glass Room - Food Court |  Speakers: Gowri Sekar"
+            },
+            {
+              "optionInfo": {
+                "key": "2",
+                "synonyms": []
+              },
+              "title": "Design Drivers in Digital Storytelling",
+              "description": "November 15 | 9.30 to 10 AM | Location: Glass Room - Food Court | Speakers: Biren Ghose"
+            },
+            {
+              "optionInfo": {
+                "key": "3",
+                "synonyms": []
+              },
+              "title": "Working in Digital Forensics",
+              "description": "November 15 | 10.15-10.45 AM | Location: Glass Room - Food Court | Speakers: Shweta Chawla"
+            },
+            {
+              "optionInfo": {
+                "key": "4",
+                "synonyms": []
+              },
+              "title": "Engineering Against the Hacker\u0027s Mind",
+              "description": "November 15 | 10.45-11.15 AM | Location: Glass Room - Food Court | Speakers: Swapna Bapat"
+            },
+            {
+              "optionInfo": {
+                "key": "5",
+                "synonyms": []
+              },
+              "title": "Being Disruptively Frugal",
+              "description": "November 15 | 11.30-12 PM | Location: Glass Room - Food Court | Speakers: Vikram Damodaran"
+            },
+            {
+              "optionInfo": {
+                "key": "6",
+                "synonyms": []
+              },
+              "title": "Infrastructure 3.0: Beyond Virtualization",
+              "description": "November 15 | 12-12.30 PM | Location: Glass Room - Food Court | Speakers: Anshu Sharma Raja"
+            },
+            {
+              "optionInfo": {
+                "key": "7",
+                "synonyms": []
+              },
+              "title": "Neuroscience of Building Connections",
+              "description": "November 16 | 9 - 9:30 AM | Location: Glass Room - Food Court | Speakers: Shruti Jaiswal"
+            },
+            {
+              "optionInfo": {
+                "key": "8",
+                "synonyms": []
+              },
+              "title": "Alternative Career for Women as Researcher in Science \u0026 Technology",
+              "description": "November 16 | 9:30 - 10  AM | Location: Glass Room - Food Court | Speakers: Dr. Sanjay Mishra"
+            },
+            {
+              "optionInfo": {
+                "key": "9",
+                "synonyms": []
+              },
+              "title": "Addressing Societal Challenges at Scale: India\u0027s Platform and Data Leapfrog",
+              "description": "November 16 | 10:15 - 10:45 AM | Location: Glass Room - Food Court | Speakers: DR. Pramod Varma"
+            },
+            {
+              "optionInfo": {
+                "key": "10",
+                "synonyms": []
+              },
+              "title": "Unique Opportunities and Challenges Associated With 5G Adoption in India : Role of Standardization",
+              "description": "November 16 | 10:45 - 11:15 AM | Location: Glass Room - Food Court | Speakers: Pamela Kumar"
+            },
+            {
+              "optionInfo": {
+                "key": "11",
+                "synonyms": []
+              },
+              "title": "Blockchain - Building Trust One Link at a Time",
+              "description": "November 16 | 11:30 - 12 PM | Location: Glass Room - Food Court | Speakers: Ameeta Roy"
+            },
+            {
+              "optionInfo": {
+                "key": "12",
+                "synonyms": []
+              },
+              "title": "Extended Reality",
+              "description": "November 16 | 12 - 12:30 PM | Location: Glass Room - Food Court | Speakers: Marin Grace"
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Tech For Good"
+            },
+            {
+              "title": "Design in Tech"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "These are the sessions in the track : Tech Talks. How else may I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541501493,
+  "fallbackIntent": false,
+  "events": []
+}

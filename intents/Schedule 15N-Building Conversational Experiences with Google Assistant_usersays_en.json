@@ -1,0 +1,50 @@
+[
+  {
+    "id": "c302e234-e34c-43ac-b00c-3fe0168b3605",
+    "data": [
+      {
+        "text": "Building Conversational Experiences with Google Assistant ",
+        "userDefined": false
+      },
+      {
+        "text": "is what?",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541134949
+  },
+  {
+    "id": "c018237d-ac7c-4de0-8688-a1e8dca294cf",
+    "data": [
+      {
+        "text": "Tell me about",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " Building Conversational Experiences with Google Assistant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541134949
+  },
+  {
+    "id": "a55e28a4-ebb8-476e-a5c7-9091c5dec426",
+    "data": [
+      {
+        "text": "Building Conversational Experiences with Google Assistant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540484264
+  }
+]

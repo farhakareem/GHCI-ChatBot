@@ -1,0 +1,52 @@
+{
+  "id": "6e77331a-1b18-45b6-a025-2be4f083787d",
+  "name": "Career Fair - Venue",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2f2f653c-fb7b-49b9-a470-c493f7b8ae3e",
+          "required": false,
+          "dataType": "@CareerFair",
+          "name": "CareerFair",
+          "value": "$CareerFair",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Career Fair Timing"
+            },
+            {
+              "title": "Schedule"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The GHCI Career Fair happens at Bangalore International Exhibition Centre\n10th Mile, Tumkur Road, Madavara Post, Dasanapura Hobli, Bangalore 562 123. How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541785322,
+  "fallbackIntent": false,
+  "events": []
+}

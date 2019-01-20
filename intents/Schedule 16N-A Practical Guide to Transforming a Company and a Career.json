@@ -1,0 +1,30 @@
+{
+  "id": "6b827321-c2da-472a-9929-b74055fea2f9",
+  "name": "Schedule 16N-A Practical Guide to Transforming a Company and a Career",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Transforming a business isn’t a short-term project; it’s a constant reality for organizations that want to keep pace with the dynamic market environment and succeed in the digital era. Most companies who attempt to transform, despite investing time and dollars, fail. Common pitfalls are lack of clarity around what a company wants to accomplish, trying to take on too much. Sheila Rohra as the Chief Transformation Officer helped lead the unique turnaround of NetApp, a Fortune 500 company. After many quarters of falling revenue and declining profit, NetApp engaged the entire workforce in transforming the company resulting in a phenomenal turnaround that investors, employees, partners, and customers recognize. Sheila will share the practical approach that has helped guide both the transformation of a company and the development of her own career. This session occurs Friday, November 16 at 0900, and will feature a moderated Q\u0026A. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541612064,
+  "fallbackIntent": false,
+  "events": []
+}

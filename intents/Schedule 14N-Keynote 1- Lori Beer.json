@@ -1,0 +1,43 @@
+{
+  "id": "a33b3628-911f-4b59-8838-74d9125b4ec0",
+  "name": "Schedule 14N-Keynote 1- Lori Beer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "second keynote speaker"
+            },
+            {
+              "title": "schedule"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This year\u0027s keynote 1 is delivered by Lori Beer, Global CIO of JPMorgan Chase Co. on November 14 at Hall 2 (Lower Level). How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541820759,
+  "fallbackIntent": false,
+  "events": []
+}

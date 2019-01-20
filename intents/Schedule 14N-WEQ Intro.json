@@ -1,0 +1,60 @@
+{
+  "id": "d7c04b7c-81f7-4ca0-9994-21c10be50cd5",
+  "name": "Schedule 14N-WEQ Intro",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f7a39ab5-1d4b-4301-bd60-1e9380daa0eb",
+          "required": false,
+          "dataType": "@GHCI",
+          "name": "GHCI",
+          "value": "$GHCI",
+          "isList": false
+        },
+        {
+          "id": "53c22209-8464-4f9d-9412-c0f3348a58db",
+          "required": false,
+          "dataType": "@weq",
+          "name": "weq",
+          "value": "$weq",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "WEQ Consultant"
+            },
+            {
+              "title": "WEQ Sponsors"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Women Entrepreneur Quest (WEQ) is a flagship contest of AnitaB.Org India for women entrepreneurs, who are founders of startups in the technology sector. WEQ is a comprehensive platform that provides networking, mentoring and learning opportunities to grow one’s business. How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541786999,
+  "fallbackIntent": false,
+  "events": []
+}

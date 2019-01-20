@@ -1,0 +1,37 @@
+{
+  "id": "0b73fa95-9c4a-4b6f-b25d-b4bd3baec25f",
+  "name": "Schedule 15N-Towards a Cost-effective Tactile reader for the Visually-impaired",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sighted readers have the ability to read whole words at a glance. Since the tactual field of view is smaller for braille readers, words are sequentially processed character by character. Based on this aspect, we conducted an experimental study to investigate whether braille could be displayed, a letter at a time, with the use of just a single actuator, thus reducing costs. We used a prototype to display braille with a single actuator. Here, there is a lateral presentation of text to the user using a 3D printed braille embossed disc. Preliminary test results indicate that users can read words effectively. This feature has implications in the design of a cost -effective braille display."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541611424,
+  "fallbackIntent": false,
+  "events": []
+}

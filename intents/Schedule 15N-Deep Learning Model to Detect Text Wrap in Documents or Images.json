@@ -1,0 +1,36 @@
+{
+  "id": "22195705-1ad8-48be-b035-0418893b1887",
+  "name": "Schedule 15N-Deep Learning Model to Detect Text Wrap in Documents or Images",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "371f3237-02fa-445c-9b0e-c040d2aed694",
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Document Layout Analysis has been very useful technique these days to extract important information from a document. This paper is about using Deep Learning Model, Faster RCNN(VGG-16) for finding out elements having text wrap applied in a particular document. Text Wrap is an object level attributes which governs the relative spacing between an image and text. As of date research is mainly around finding the objects like text and images in a document, it is an advanced form of document analysis research, where deep learning technique is used to recognize object-level attributes. This methodology can be leveraged to analyze images as well.From this presentation, audience will gather basic understanding Deep learning model, their workflow and will learn to implement the deep learning model Faster RCNN for document and image analysis. They can further leverage their understanding to customize deep learning models as per their required analysis requirements. How else may I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541136720,
+  "fallbackIntent": false,
+  "events": []
+}

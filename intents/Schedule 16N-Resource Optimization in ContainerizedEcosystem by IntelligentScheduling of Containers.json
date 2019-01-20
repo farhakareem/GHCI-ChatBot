@@ -1,0 +1,30 @@
+{
+  "id": "a8ee8579-b4f5-4fbf-b678-b64f9674ddd1",
+  "name": "Schedule 16N-Resource Optimization in ContainerizedEcosystem by IntelligentScheduling of Containers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A common myth about containerized deployments is that they are so small and stateless that they are already optimized for operations but in reality, container schedulers keep on acquiring resources even if huge amount of resources are available. When containers are configured for deployment, a request containing minimum requirement for each resource (CPU/Memory), is provided to the orchestrator. If the requested minimum capacity is not available on any node, container schedulers will fail to place new container. In our production environments, we found that total available capacity across all nodes are much more than the requested capacity, still container schedulers are unable place a container. Hence, admin had to add extra resources to place the new workload. Hence, we propose a method to utilize all available resources across infrastructure by optimising placement process of container schedulers. It leads to high resource utilization and significant cost saving for the organisation. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541614203,
+  "fallbackIntent": false,
+  "events": []
+}

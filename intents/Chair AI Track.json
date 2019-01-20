@@ -1,0 +1,71 @@
+{
+  "id": "6c2fa778-8dc7-4263-8b69-1af0634417cf",
+  "name": "Chair AI Track",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c346e41c-748e-4135-9cf5-318eab22d080",
+          "required": false,
+          "dataType": "@ai",
+          "name": "ai",
+          "value": "$ai",
+          "isList": false
+        },
+        {
+          "id": "0fda741e-ee94-4c16-bd42-2add50e6cffd",
+          "dataType": "@Chair",
+          "name": "Chair",
+          "value": "$Chair",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Design in Tech TrackChair"
+            },
+            {
+              "title": "Tech for Good Track Chair"
+            },
+            {
+              "title": "Career360 Track Chair"
+            },
+            {
+              "title": "iConnect Track Chair"
+            },
+            {
+              "title": "Tech Talk Session Chair"
+            },
+            {
+              "title": "Tech Expo Track Chair"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Artificial Intelligence and High performance Computing track chairs are Arati Deo, Accenture and Manjira Sinha. How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541511697,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "31ff2895-9402-4364-b36b-c5016225a47b",
+    "data": [
+      {
+        "text": "Schedule on day basis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541497952
+  },
+  {
+    "id": "c99096da-7cd1-4481-a208-cce3564d212c",
+    "data": [
+      {
+        "text": "Give me the day wise schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541497952
+  },
+  {
+    "id": "d527fd77-b231-42c9-a99c-36d082d81706",
+    "data": [
+      {
+        "text": "Day Wise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541497082
+  }
+]

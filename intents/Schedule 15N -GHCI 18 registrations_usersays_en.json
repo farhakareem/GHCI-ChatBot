@@ -1,0 +1,26 @@
+[
+  {
+    "id": "150ffadf-b7ec-456b-b85a-663b46a856f8",
+    "data": [
+      {
+        "text": "GHCI 18 Registrations, Tea/Coffee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540299191
+  },
+  {
+    "id": "4bdb5829-7c74-4d19-8fd1-247ba05579bd",
+    "data": [
+      {
+        "text": "GHCI 18 Registrations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540062918
+  }
+]

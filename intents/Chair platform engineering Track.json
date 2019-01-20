@@ -1,0 +1,71 @@
+{
+  "id": "7ca0d4ff-5374-4646-95ba-1d1a39bdca4b",
+  "name": "Chair platform engineering Track",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e61fcf4e-bc98-47d0-962e-851c81d03900",
+          "required": false,
+          "dataType": "@Chair",
+          "name": "Chair",
+          "value": "$Chair",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "AI Track Chair"
+            },
+            {
+              "title": "Design in Tech TrackChair"
+            },
+            {
+              "title": "Tech for Good Track Chair"
+            },
+            {
+              "title": "Career360 Track Chair"
+            },
+            {
+              "title": "Poster Session Chair"
+            },
+            {
+              "title": "Tech Expo Track Chair"
+            },
+            {
+              "title": "iConnect Track Chair"
+            },
+            {
+              "title": "Tech Talk Session Chair"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Trends in Platform Engineering track chairs are Krithika G, SAP and Maheshwari D, Zebra Technologies. How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541512601,
+  "fallbackIntent": false,
+  "events": []
+}

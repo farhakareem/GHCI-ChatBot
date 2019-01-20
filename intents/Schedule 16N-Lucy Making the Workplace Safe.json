@@ -1,0 +1,39 @@
+{
+  "id": "c5053af5-da0f-4a89-bc96-5b24ae5891c9",
+  "name": "Schedule 16N-Lucy Making the Workplace Safe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "83c8e775-7361-48b8-b978-592ae9430e8d",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Lucy is a personal AI assistant that helps organizations keep the workplace safe by providing the employees a medium to feel their voice heard and valued. An employee can report any harassment incident to Lucy who would create a psychometric report that can be actionized upon by the HR teams. Most women don`t disclose such an incident directly to the HR thinking of further problems and probable harassment. The bot can be an efficient medium that will encourage women to break their silence and report such incidents.The conversation with Lucy is discrete and the HR teams would only be given an actionable report for the incident and the conversation history isn`t shared. Lucy creates this report based on personal profiling of the employees generated based on its timely conversation with them. The report generated is a thorough psychometric analysis of both, the conversation with the victim and the accuse. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541613770,
+  "fallbackIntent": false,
+  "events": []
+}

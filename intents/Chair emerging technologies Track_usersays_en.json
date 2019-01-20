@@ -1,0 +1,87 @@
+[
+  {
+    "id": "c5b5077c-6b22-4501-aba1-bb521737f3e6",
+    "data": [
+      {
+        "text": "who ",
+        "userDefined": false
+      },
+      {
+        "text": "chairs",
+        "alias": "Chair",
+        "meta": "@Chair",
+        "userDefined": false
+      },
+      {
+        "text": " emerging technologies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541511827
+  },
+  {
+    "id": "880814f5-6658-4850-937b-e867f2f4bfe0",
+    "data": [
+      {
+        "text": "Who is ",
+        "userDefined": false
+      },
+      {
+        "text": "presiding",
+        "alias": "Chair",
+        "meta": "@Chair",
+        "userDefined": true
+      },
+      {
+        "text": " the  emerging technologies track committee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541262180
+  },
+  {
+    "id": "bfee3ba7-8981-4ec0-b905-43ad58162663",
+    "data": [
+      {
+        "text": "Who heads the ",
+        "userDefined": false
+      },
+      {
+        "text": "emerging technologies track",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541183207
+  },
+  {
+    "id": "29555fa0-c7f5-48aa-95cb-1ccf71968601",
+    "data": [
+      {
+        "text": "Who leads the emerging technologies track",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541183207
+  },
+  {
+    "id": "adbf37f9-a43f-4287-96c7-341787fbd2e8",
+    "data": [
+      {
+        "text": "who is the chair for emerging technologies track",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539187090
+  }
+]

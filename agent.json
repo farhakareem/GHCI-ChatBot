@@ -1,0 +1,691 @@
+{
+  "description": "",
+  "language": "en",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "ghci18bot",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "98820bf5-d7f2-4cc0-a08a-6dae77fdef24",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0ad20bce-0d37-4b9f-9e81-187e5c984466",
+        "signInRequired": false
+      },
+      {
+        "intentId": "a33b3628-911f-4b59-8838-74d9125b4ec0",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e274ba97-ec6f-41f9-9c82-f1161494a382",
+        "signInRequired": false
+      },
+      {
+        "intentId": "ee8a917c-9248-456c-89d5-0edd7be2ee78",
+        "signInRequired": false
+      },
+      {
+        "intentId": "2c6f8d51-f7f2-4078-9586-28980bb7e089",
+        "signInRequired": false
+      },
+      {
+        "intentId": "373b1217-7fcc-4a3a-a2cf-d5adb553a6cd",
+        "signInRequired": false
+      },
+      {
+        "intentId": "391f3c4e-915f-4a9f-b688-a4207c8670da",
+        "signInRequired": false
+      },
+      {
+        "intentId": "4624abab-b815-4bc9-9823-8388bb549cbb",
+        "signInRequired": false
+      },
+      {
+        "intentId": "56fd6ae6-69dc-4516-9358-733ed6b43b51",
+        "signInRequired": false
+      },
+      {
+        "intentId": "6c2fa778-8dc7-4263-8b69-1af0634417cf",
+        "signInRequired": false
+      },
+      {
+        "intentId": "7ca0d4ff-5374-4646-95ba-1d1a39bdca4b",
+        "signInRequired": false
+      },
+      {
+        "intentId": "91ba32dc-7fd3-4fd3-a849-65b30731be56",
+        "signInRequired": false
+      },
+      {
+        "intentId": "93cea768-68b6-479e-b1db-5c3c5f463429",
+        "signInRequired": false
+      },
+      {
+        "intentId": "a3231424-a032-4a29-9c0e-280636efee5d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "c1c2ca75-cc0a-4283-a562-fbf563f8e50c",
+        "signInRequired": false
+      },
+      {
+        "intentId": "cd9716fd-21ed-4e2c-9223-cba30e7fa023",
+        "signInRequired": false
+      },
+      {
+        "intentId": "f7164eb0-bc17-4b70-841f-fe36feafbc29",
+        "signInRequired": false
+      },
+      {
+        "intentId": "8790afd1-0313-4933-a678-0cf6ce16196c",
+        "signInRequired": false
+      },
+      {
+        "intentId": "cf801fb7-d96f-45f8-be8b-9e0c43a6054d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "6e77331a-1b18-45b6-a025-2be4f083787d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "d7c04b7c-81f7-4ca0-9994-21c10be50cd5",
+        "signInRequired": false
+      },
+      {
+        "intentId": "3dafbf09-9d67-4e41-b0fe-154e626c7a22",
+        "signInRequired": false
+      },
+      {
+        "intentId": "df091027-ba19-43f2-8a52-bb9dc3def0e1",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e0510a61-4dc0-44f3-801a-89b6aa6efa80",
+        "signInRequired": false
+      },
+      {
+        "intentId": "825aaccb-1404-4ebe-93bc-5689adc94820",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e6278f30-6d99-416a-b981-6c64ae7263a9",
+        "signInRequired": false
+      },
+      {
+        "intentId": "4ec6fb73-542b-4549-8ee3-9734f4fd6dd6",
+        "signInRequired": false
+      },
+      {
+        "intentId": "4e1a94d4-389b-4c9a-80a8-7f29fac31cdc",
+        "signInRequired": false
+      },
+      {
+        "intentId": "d4d3de7b-c605-4205-8583-d59dd6901b77",
+        "signInRequired": false
+      },
+      {
+        "intentId": "57339d6c-7253-4306-9b62-495ff1602267",
+        "signInRequired": false
+      },
+      {
+        "intentId": "cfb80853-bf59-4778-84c3-8ff7b1b6e531",
+        "signInRequired": false
+      },
+      {
+        "intentId": "05f1f60e-2c06-4a9a-982a-5ff490c71b60",
+        "signInRequired": false
+      },
+      {
+        "intentId": "10e98b95-aca8-4780-a9ab-e83bc1471688",
+        "signInRequired": false
+      },
+      {
+        "intentId": "4237def2-f1ba-4eb2-9197-b4a59ddf40f8",
+        "signInRequired": false
+      },
+      {
+        "intentId": "16d0374b-4658-4eec-8de9-8f90075d5f56",
+        "signInRequired": false
+      },
+      {
+        "intentId": "294367cb-76f1-4881-b460-33b294df9f78",
+        "signInRequired": false
+      },
+      {
+        "intentId": "5e9a8115-5b1d-4380-9c5d-38ab3fbe2f96",
+        "signInRequired": false
+      },
+      {
+        "intentId": "19ca3e4d-b779-4f3c-b4a6-edad0b8d13b3",
+        "signInRequired": false
+      },
+      {
+        "intentId": "59b01c70-4661-4220-8052-7167e08f0a9c",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0b73fa95-9c4a-4b6f-b25d-b4bd3baec25f",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0d31c009-b08b-421a-b872-c685145c1f60",
+        "signInRequired": false
+      },
+      {
+        "intentId": "191ce59c-4398-4966-b00f-c3d40a11d5a0",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0ed0d911-1d57-4b34-98ca-95233223c306",
+        "signInRequired": false
+      },
+      {
+        "intentId": "11d6efec-74b7-4617-83d4-cc37a6496888",
+        "signInRequired": false
+      },
+      {
+        "intentId": "11081c20-d67b-4465-a4b5-808fdc01c46f",
+        "signInRequired": false
+      },
+      {
+        "intentId": "1bf837c2-2f9e-46bc-928a-1185bf766636",
+        "signInRequired": false
+      },
+      {
+        "intentId": "21c6b798-f672-4067-a69a-d66225b70b4c",
+        "signInRequired": false
+      },
+      {
+        "intentId": "22195705-1ad8-48be-b035-0418893b1887",
+        "signInRequired": false
+      },
+      {
+        "intentId": "2437eaa8-931e-44c6-92f6-b768ab532446",
+        "signInRequired": false
+      },
+      {
+        "intentId": "2bbeb3a5-f676-4df1-9e23-dc30c7729833",
+        "signInRequired": false
+      },
+      {
+        "intentId": "2dc0d777-d8e2-4e8f-9fd9-530623baa741",
+        "signInRequired": false
+      },
+      {
+        "intentId": "2f5e016a-cc1e-4301-80ed-1b6f7c044399",
+        "signInRequired": false
+      },
+      {
+        "intentId": "30d140b8-4144-4bdd-87b6-fbb94d0d6013",
+        "signInRequired": false
+      },
+      {
+        "intentId": "46d10594-9d4c-42fe-a45f-d8070fa28d4a",
+        "signInRequired": false
+      },
+      {
+        "intentId": "44800b90-923e-414e-a2b3-205518948892",
+        "signInRequired": false
+      },
+      {
+        "intentId": "4199bc94-42aa-44d0-9a4c-c43661d78d72",
+        "signInRequired": false
+      },
+      {
+        "intentId": "4d166eb4-65f7-4af2-bee5-258200bf4edb",
+        "signInRequired": false
+      },
+      {
+        "intentId": "3a0ed133-c36d-422b-9d55-24fa1fc91562",
+        "signInRequired": false
+      },
+      {
+        "intentId": "3aebe654-3278-49d3-a2b7-27ccd8cbfaee",
+        "signInRequired": false
+      },
+      {
+        "intentId": "53f1534a-8bd2-4369-855f-d4c5fde52cdb",
+        "signInRequired": false
+      },
+      {
+        "intentId": "55a4e5de-b092-4dcf-911d-c69caa6d66af",
+        "signInRequired": false
+      },
+      {
+        "intentId": "4a94a959-cd64-481a-98c4-e8b7e3ec3057",
+        "signInRequired": false
+      },
+      {
+        "intentId": "561815de-49e1-4d93-a841-dccae514fe1a",
+        "signInRequired": false
+      },
+      {
+        "intentId": "5dfc1f19-4640-49a0-a1df-7d3e47f43a6d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "5039835d-a4e7-4cc4-b1d5-1cb17371ee26",
+        "signInRequired": false
+      },
+      {
+        "intentId": "649dd7e7-b40a-4e60-91a3-a9dd18cbe269",
+        "signInRequired": false
+      },
+      {
+        "intentId": "57d6a52a-9fcf-4887-a526-11e964814950",
+        "signInRequired": false
+      },
+      {
+        "intentId": "6a067768-9f53-4b9b-814e-a8a0bda6fb6b",
+        "signInRequired": false
+      },
+      {
+        "intentId": "5e266053-47ed-4b0b-9a0e-b1da69fc647c",
+        "signInRequired": false
+      },
+      {
+        "intentId": "608f0326-6cbe-42da-beec-7c6d8717d273",
+        "signInRequired": false
+      },
+      {
+        "intentId": "815ac04d-0e29-432f-b961-ded20c610bfe",
+        "signInRequired": false
+      },
+      {
+        "intentId": "7df4379a-32fc-4709-848b-3397e8a93ba2",
+        "signInRequired": false
+      },
+      {
+        "intentId": "6c81da46-8bca-4eed-9232-e0c43c91895f",
+        "signInRequired": false
+      },
+      {
+        "intentId": "6b827321-c2da-472a-9929-b74055fea2f9",
+        "signInRequired": false
+      },
+      {
+        "intentId": "81b562e9-2794-44be-90f2-2dd7faa306a2",
+        "signInRequired": false
+      },
+      {
+        "intentId": "6c3260ee-217b-4c07-a787-1ec0a37a94ba",
+        "signInRequired": false
+      },
+      {
+        "intentId": "83318d6e-3886-424a-98b2-338ecc8f39ab",
+        "signInRequired": false
+      },
+      {
+        "intentId": "84db36b4-d5c3-4915-aa71-0bc35f818252",
+        "signInRequired": false
+      },
+      {
+        "intentId": "859d8c3b-82fe-46a0-86af-ec8b71b16801",
+        "signInRequired": false
+      },
+      {
+        "intentId": "860dc665-9f8d-4980-8f64-595e76254ea6",
+        "signInRequired": false
+      },
+      {
+        "intentId": "8bd37bf3-3862-4cf0-b480-26fe3596388c",
+        "signInRequired": false
+      },
+      {
+        "intentId": "86ca86db-6e1c-477d-9733-44b8c5543db5",
+        "signInRequired": false
+      },
+      {
+        "intentId": "86b4801a-f4eb-4e73-9164-83518d0d914f",
+        "signInRequired": false
+      },
+      {
+        "intentId": "85ad9ede-fabc-41a5-a508-bf9f8cc9511a",
+        "signInRequired": false
+      },
+      {
+        "intentId": "8ee7dc05-1228-4a56-bef9-d9cbf71d2bdb",
+        "signInRequired": false
+      },
+      {
+        "intentId": "96a49db9-9548-41f9-881f-e599d40f5696",
+        "signInRequired": false
+      },
+      {
+        "intentId": "9978fdf8-751b-495a-b106-43a2f1926430",
+        "signInRequired": false
+      },
+      {
+        "intentId": "9706766c-37ed-4fcc-9ddc-68b883373781",
+        "signInRequired": false
+      },
+      {
+        "intentId": "9bbb119d-83aa-47f1-8ab5-6307aa27c79e",
+        "signInRequired": false
+      },
+      {
+        "intentId": "9ccdae0a-b47c-4e04-a9e0-ea6afbb17b40",
+        "signInRequired": false
+      },
+      {
+        "intentId": "9ac5cdcc-9a0e-4c0c-8831-58b1a0cdf302",
+        "signInRequired": false
+      },
+      {
+        "intentId": "a727d453-06f3-4351-b121-05654512cdb6",
+        "signInRequired": false
+      },
+      {
+        "intentId": "a2710f5f-20da-4b79-b2de-213137ad1ebd",
+        "signInRequired": false
+      },
+      {
+        "intentId": "9d865612-96e3-4379-9ad0-1c66947dadd4",
+        "signInRequired": false
+      },
+      {
+        "intentId": "9f5af4e5-c0e3-407d-9160-6b53f06c4e7d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "a8ee8579-b4f5-4fbf-b678-b64f9674ddd1",
+        "signInRequired": false
+      },
+      {
+        "intentId": "adbadc36-d4f1-402a-b428-720a3450eb9a",
+        "signInRequired": false
+      },
+      {
+        "intentId": "ab12b039-eb0d-405d-b687-710239a3088d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "a7bbbcd3-5ebc-4bf6-a2c4-fc9bb5125258",
+        "signInRequired": false
+      },
+      {
+        "intentId": "b21221b7-9cb0-4148-a25a-f4d95ee4d788",
+        "signInRequired": false
+      },
+      {
+        "intentId": "b5bdaca0-f641-4ce1-a91a-26739ffd9c2d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "b471458d-092b-4cf8-84e4-4ca86a37dd73",
+        "signInRequired": false
+      },
+      {
+        "intentId": "b8b3b20e-1860-4178-b166-9edc5fc12e5d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "b8919e7f-4f06-4725-a6f8-db0c740e5e2c",
+        "signInRequired": false
+      },
+      {
+        "intentId": "bf2b5379-5828-4d8f-a27e-5f49bd42f659",
+        "signInRequired": false
+      },
+      {
+        "intentId": "bcfb1e89-d7f6-4029-91ca-cec4d841a4dd",
+        "signInRequired": false
+      },
+      {
+        "intentId": "bc858479-5236-441b-a856-7060a0d4a9f4",
+        "signInRequired": false
+      },
+      {
+        "intentId": "c6043a2a-e9a9-4320-ab7d-0fa46c75254d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "c2ce368d-f348-4cb4-a4cf-aa9120de2ae3",
+        "signInRequired": false
+      },
+      {
+        "intentId": "aa8442f6-25aa-483a-b1d6-de42072b8461",
+        "signInRequired": false
+      },
+      {
+        "intentId": "d07135e4-e567-425c-9c9e-3aeeee095a92",
+        "signInRequired": false
+      },
+      {
+        "intentId": "d96d3d6d-60d5-4bd0-a74e-0af646a1ac40",
+        "signInRequired": false
+      },
+      {
+        "intentId": "d8c72e36-ef49-4cc4-b008-522c0d964ca0",
+        "signInRequired": false
+      },
+      {
+        "intentId": "cc2d719e-5fd7-4cd7-8eaa-147b18d793a5",
+        "signInRequired": false
+      },
+      {
+        "intentId": "db3e5b45-525d-4582-806a-931ce8458988",
+        "signInRequired": false
+      },
+      {
+        "intentId": "dacfea1e-d706-4bfc-9fba-a5c13073d357",
+        "signInRequired": false
+      },
+      {
+        "intentId": "c7e34ec8-364a-437f-9e34-b5db498733b3",
+        "signInRequired": false
+      },
+      {
+        "intentId": "dc34a31b-a0b7-4220-8c0f-28170bc78af9",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e377ec9f-ee87-4cc8-97c9-852e156c15ff",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e09db8a3-4c8e-400f-b292-38bcc86cd691",
+        "signInRequired": false
+      },
+      {
+        "intentId": "de82e896-2b3f-4128-83f3-f7001b223fa1",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e4db0c92-0c6a-4f70-baf6-7ad6f5f321bb",
+        "signInRequired": false
+      },
+      {
+        "intentId": "da86980b-edfb-4175-b14e-ce585918200e",
+        "signInRequired": false
+      },
+      {
+        "intentId": "c5053af5-da0f-4a89-bc96-5b24ae5891c9",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e4311b7f-dec3-4746-a2b9-cb598f941635",
+        "signInRequired": false
+      },
+      {
+        "intentId": "ea14361a-9b60-4a8c-9298-5fbeaa46f7f0",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e7261ca2-a62f-42b6-9b83-5c4cb6b82d70",
+        "signInRequired": false
+      },
+      {
+        "intentId": "ee0f4edb-027e-44d6-90bd-57b6537eca3f",
+        "signInRequired": false
+      },
+      {
+        "intentId": "ef2d1f2b-d193-456a-9dd7-33cd18d069d2",
+        "signInRequired": false
+      },
+      {
+        "intentId": "f4c68382-db22-4fc6-86e8-1011277c595b",
+        "signInRequired": false
+      },
+      {
+        "intentId": "f944f6d7-9566-47cc-8d90-a519121ebb83",
+        "signInRequired": false
+      },
+      {
+        "intentId": "f5bb7c67-1c18-4f6a-93dd-b5ac078f4c0f",
+        "signInRequired": false
+      },
+      {
+        "intentId": "fd0893d2-4d53-465d-a13a-3bab048993c9",
+        "signInRequired": false
+      },
+      {
+        "intentId": "fdb10899-c2b0-4b94-9916-e71a236581d9",
+        "signInRequired": false
+      },
+      {
+        "intentId": "ff41e897-7232-47d9-92e2-49d5c46b35c4",
+        "signInRequired": false
+      },
+      {
+        "intentId": "8c47f474-5994-4d36-beb5-36ff02564e28",
+        "signInRequired": false
+      },
+      {
+        "intentId": "d6ebc3a7-32c1-43a7-ac69-bebe52f63dd1",
+        "signInRequired": false
+      },
+      {
+        "intentId": "1740ac64-b7c8-4cfc-b76d-08f2a494693e",
+        "signInRequired": false
+      },
+      {
+        "intentId": "aade33a6-21c1-4531-8457-eea6e5db4fcf",
+        "signInRequired": false
+      },
+      {
+        "intentId": "adf4c7af-9b63-4a05-b09b-b9521e1e08a4",
+        "signInRequired": false
+      },
+      {
+        "intentId": "09daad7d-2fd4-4ce3-94c5-b752ff9f85f8",
+        "signInRequired": false
+      },
+      {
+        "intentId": "3e0d1f31-658e-4865-81f4-bdb070c2e762",
+        "signInRequired": false
+      },
+      {
+        "intentId": "762abd6a-d4d4-4e64-9ec5-e4b7510514b8",
+        "signInRequired": false
+      },
+      {
+        "intentId": "6804473f-c136-4eb9-9fe7-0166037ab2f6",
+        "signInRequired": false
+      },
+      {
+        "intentId": "a6fdba1f-35a1-43e0-a85b-bef989eb0a48",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0e2fd043-22c9-4acb-b502-3edcd39cb6a9",
+        "signInRequired": false
+      },
+      {
+        "intentId": "45cedef2-59f6-4782-bd7e-eb3308cc8e2f",
+        "signInRequired": true
+      },
+      {
+        "intentId": "b009fd88-d1a7-4462-af6e-3267bfaf827e",
+        "signInRequired": false
+      },
+      {
+        "intentId": "ab47162a-423e-425b-af44-209c2dee1321",
+        "signInRequired": false
+      },
+      {
+        "intentId": "b5bac265-0600-4cd3-a335-e5edd2448026",
+        "signInRequired": false
+      },
+      {
+        "intentId": "4015aedc-dfbc-4749-b271-cf43bb4b301d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "8f056396-4c0d-43fe-9103-c51146dbb7d0",
+        "signInRequired": false
+      },
+      {
+        "intentId": "b3c2bfe0-ffd8-4143-accf-4539376be4e8",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e8365aa7-1000-4f0b-a1aa-8cca8afc0e8c",
+        "signInRequired": false
+      },
+      {
+        "intentId": "eaebbdf4-7099-428e-9020-6b6fae43e736",
+        "signInRequired": false
+      },
+      {
+        "intentId": "bdc3dcd1-acd5-4dd9-a229-0464f1b82afe",
+        "signInRequired": false
+      },
+      {
+        "intentId": "be0221eb-1aa8-4b1c-8414-d022a517305a",
+        "signInRequired": false
+      },
+      {
+        "intentId": "dc953a04-77b7-45c4-96ac-964c76905026",
+        "signInRequired": false
+      },
+      {
+        "intentId": "aa242479-9af1-411e-8970-b0bc88cd02b1",
+        "signInRequired": false
+      },
+      {
+        "intentId": "ae24bf28-c678-41b0-a5bb-673aace0cb6d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "dd3bf73e-92b1-4918-a374-f4f8f4e43896",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [
+      "a6fdba1f-35a1-43e0-a85b-bef989eb0a48",
+      "f9e8263c-e996-4648-a445-f15caaf058e5"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Asia/Almaty",
+  "webhook": {
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v2",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false
+}

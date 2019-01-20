@@ -1,0 +1,46 @@
+{
+  "id": "859d8c3b-82fe-46a0-86af-ec8b71b16801",
+  "name": "Schedule 15N-Machine Learning-Open Source and Digitization - Demystified",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d4a7441b-9001-4d8f-8b06-03991aa2f04b",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else may I help you?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Have you ever wondered how to build a mobile application or use Machine Learning? This is aHands-On workshop where you will build a mobile Android application, learn and applyMachine Learning and automate the code through open source automation framework -Karate.How Do I Benefit?You will gain experience in using Android Studio to build mobile application; You will learn how to use TensorFlow for Machine Learning."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541610177,
+  "fallbackIntent": false,
+  "events": []
+}

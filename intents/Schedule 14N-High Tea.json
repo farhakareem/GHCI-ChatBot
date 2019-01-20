@@ -1,0 +1,30 @@
+{
+  "id": "adf4c7af-9b63-4a05-b09b-b9521e1e08a4",
+  "name": "Schedule 14N-High Tea",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "High Tea on November 14 from 5 to 5:30 PM at Hall 2 (Upper Level). How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541617667,
+  "fallbackIntent": false,
+  "events": []
+}

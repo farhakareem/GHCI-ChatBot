@@ -1,0 +1,30 @@
+{
+  "id": "86b4801a-f4eb-4e73-9164-83518d0d914f",
+  "name": "Schedule 16N-Secure Cloud Adoption Using Identity SOC and Advanced Threat  Intelligence",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Digital business is big business. Did you know that digital businesses demonstrate 26% more profitability, 9% more growth, and 9% higher market valuations than their offline counterparts? Organizations no longer build their services from scratch and are massively adopting cloud services to achieve digital transformation. Along with this tremendous opportunity, there are big risks, and identity and security are at the forefront. The exponential adoption of cloud services, coupled with employee mobility, has created fresh cybersecurity challenges. Data breaches and cyberattacks at several Fortune 500 companies raise questions like- “Are you truly “secure”? Do you know what the user is doing? How soon can you respond to breaches”? This session will talk about how Identity SOC tackles these complex security challenges. Identity SOC has advanced threat intelligence to PREDICT and PREVENT attacks, DETECT threats and RESPOND (PPDR Model) to threats in real time. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541614243,
+  "fallbackIntent": false,
+  "events": []
+}

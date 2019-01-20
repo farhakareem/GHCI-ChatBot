@@ -1,0 +1,311 @@
+{
+  "id": "9706766c-37ed-4fcc-9ddc-68b883373781",
+  "name": "Schedule- 16 November",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Schedule-16November-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "63115cc6-9aed-4336-a447-9a7a4b8335f2",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "If you want to know about the rest of the schedule say \"Remaining Sessions\". How else can I help you ?"
+        },
+        {
+          "type": "list_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "November 16, 2018",
+          "subtitle": "GHCI session details",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "1",
+                "synonyms": []
+              },
+              "title": "Tea/Coffee",
+              "description": "7:30 AM - 9:00 AM | Hall 2 (Upper Level)"
+            },
+            {
+              "optionInfo": {
+                "key": "2",
+                "synonyms": []
+              },
+              "title": "GHCI 18 Registrations",
+              "description": "7:30 AM - 9:00 AM | Bangalore International Exhibition Centre (BIEC) - Registration Area"
+            },
+            {
+              "optionInfo": {
+                "key": "3",
+                "synonyms": []
+              },
+              "title": "Introduction to High Performance Computing",
+              "description": "9:00 AM - 9:30 AM | Jacaranda | Speakers: Jyotsna Khemka, Nitya Hariharan"
+            },
+            {
+              "optionInfo": {
+                "key": "4",
+                "synonyms": []
+              },
+              "title": "End to End Network Analytics in Programmable Networks",
+              "description": "9:00 AM - 9:30 AM | Gulmohar | Speakers: Sushma Sundar"
+            },
+            {
+              "optionInfo": {
+                "key": "5",
+                "synonyms": []
+              },
+              "title": "Neuroscience of Building Connections",
+              "description": "9:00 AM - 9:30 AM | Glass Room - Food Court | Speakers: Shruti Jaiswal"
+            },
+            {
+              "optionInfo": {
+                "key": "6",
+                "synonyms": []
+              },
+              "title": "Career Accelerators in 15 Minutes",
+              "description": "9:00 AM - 10:00 AM | Hall 2 (Lower Level) | Speakers: Chaya K N, Viji Vennelakanti, Shakambhari Thakur"
+            },
+            {
+              "optionInfo": {
+                "key": "7",
+                "synonyms": []
+              },
+              "title": "The Rising Role of Design in Technology",
+              "description": "9:00 AM - 10:00 AM | Food Court (Upper Level) |  Speakers: Karthi Subbaraman, Sampada Bhagat, Ashlesha Jagtap"
+            },
+            {
+              "optionInfo": {
+                "key": "8",
+                "synonyms": []
+              },
+              "title": "GHCI 18 Women in Leadership (By Invite Only)",
+              "description": "9:00 AM - 12:30 PM | Parijatha"
+            },
+            {
+              "optionInfo": {
+                "key": "9",
+                "synonyms": []
+              },
+              "title": "A Practical Guide to Transforming a Company and a Career",
+              "description": "9:00 AM - 10:00 AM | Cassia | Speakers: Sheila Rohra"
+            },
+            {
+              "optionInfo": {
+                "key": "10",
+                "synonyms": []
+              },
+              "title": "Fronthaul Latency Considerations and Self-backhaul Mechanisms in LTE Advanced and 5G Networks",
+              "description": "9:00 AM - 10:00 AM | Hibiscus | Speakers: Shalini Gulati, Richa Gupta"
+            },
+            {
+              "optionInfo": {
+                "key": "11",
+                "synonyms": []
+              },
+              "title": "Distributed Computing in HPC and Code Optimization Challenges",
+              "description": "9:30 AM - 10:00 AM | Jacaranda | Speakers: Jyotsna Khemka, Nitya Hariharan"
+            },
+            {
+              "optionInfo": {
+                "key": "12",
+                "synonyms": []
+              },
+              "title": "Alternative Career for Women as Researcher in Science \u0026 Technology",
+              "description": "9:30 AM - 10:00 AM | Glass Room - Food Court | Speakers: Dr. Sanjay Mishra"
+            },
+            {
+              "optionInfo": {
+                "key": "13",
+                "synonyms": []
+              },
+              "title": "Dynamic Fog Node Detection for Mobile IoT on 5G",
+              "description": "9:30 AM - 10:00 AM | Gulmohar | Speakers: Richa Mittal"
+            },
+            {
+              "optionInfo": {
+                "key": "14",
+                "synonyms": []
+              },
+              "title": "Thrive on Pressure Like a Sportsperson",
+              "description": "10:15 AM - 11:15 AM | Hall 2 (Lower Level) | Speakers: Nisha Millet, Krithika Subramaniam"
+            },
+            {
+              "optionInfo": {
+                "key": "15",
+                "synonyms": []
+              },
+              "title": "Resource Optimization in Containerized Ecosystem by Intelligent Scheduling of Containers",
+              "description": "10:15 AM - 10:45 AM | Gulmohar | Speakers: Chandrashekhar Jha"
+            },
+            {
+              "optionInfo": {
+                "key": "16",
+                "synonyms": []
+              },
+              "title": "Addressing Societal Challenges at Scale: India\u0027s Platform and Data Leapfrog",
+              "description": "10:15 AM - 10:45 AM | Glass Room - Food Court | Speakers: DR. Pramod Varma"
+            },
+            {
+              "optionInfo": {
+                "key": "17",
+                "synonyms": []
+              },
+              "title": "Bio-inspired Micro and Nano Scale Engineering: The Realm of Endless Innovations",
+              "description": "10:15 AM - 11:15 AM | Hibiscus | Speakers: Rudra Pratap"
+            },
+            {
+              "optionInfo": {
+                "key": "18",
+                "synonyms": []
+              },
+              "title": "Memory Driven Computing: A Deep Dive",
+              "description": "10:15 AM - 10:45 AM | Jacaranda | Speakers: Clarete Riana Crasta"
+            },
+            {
+              "optionInfo": {
+                "key": "19",
+                "synonyms": []
+              },
+              "title": "GHCI 18 Student Scholar Connect",
+              "description": "10:15 AM - 10:45 AM | Cassia"
+            },
+            {
+              "optionInfo": {
+                "key": "20",
+                "synonyms": []
+              },
+              "title": "Design of Voice and AI",
+              "description": "10:15 AM - 11:15 AM | Food Court (Upper Level) |  Speakers: Vidhya Duthaluru, Azmina Poddar"
+            },
+            {
+              "optionInfo": {
+                "key": "21",
+                "synonyms": []
+              },
+              "title": "GHCI 18 Career Fair",
+              "description": "10:30 AM - 5:00 PM | Hall 1 (Lower Level)"
+            },
+            {
+              "optionInfo": {
+                "key": "22",
+                "synonyms": []
+              },
+              "title": "GHCI 18 Tech Expo",
+              "description": "10:30 AM - 5:00 PM | Hall 1 (Lower Level)"
+            },
+            {
+              "optionInfo": {
+                "key": "23",
+                "synonyms": []
+              },
+              "title": "Unique Opportunities and Challenges Associated With 5G Adoption in India : Role of Standardization",
+              "description": "10:45 AM - 11:15 AM | Glass Room - Food Court | Speakers: Pamela Kumar"
+            },
+            {
+              "optionInfo": {
+                "key": "24",
+                "synonyms": []
+              },
+              "title": "Secure Cloud Adoption Using Identity SOC and Advanced Threat Intelligence",
+              "description": "10:45 AM - 11:15 AM | Gulmohar | Speakers: Aarathi Balakrishnan"
+            },
+            {
+              "optionInfo": {
+                "key": "25",
+                "synonyms": []
+              },
+              "title": "ARM Solutions for Innovative ML/AI Applications",
+              "description": "10:45 AM - 11:20 AM | Jacaranda | Speakers: Naireeta Kansabanik"
+            },
+            {
+              "optionInfo": {
+                "key": "26",
+                "synonyms": []
+              },
+              "title": "Blockchain - Building Trust One Link at a Time",
+              "description": "11:30 AM - 12:00 PM | Glass Room - Food Court | Speakers: Ameeta Roy"
+            },
+            {
+              "optionInfo": {
+                "key": "27",
+                "synonyms": []
+              },
+              "title": "Introduction to Quantum Computing",
+              "description": "11:30 AM - 12:30 PM | Cassia | Speakers: Rajeev Gupta, Pavan Kumar Kesamreddy"
+            },
+            {
+              "optionInfo": {
+                "key": "28",
+                "synonyms": []
+              },
+              "title": "Ethics and AI Systems",
+              "description": "11:30 AM - 12:30 PM | Jacaranda | Speakers: Mythreyee Ganapathy, Babu Narayanan, Sudheen Bhatt, Seema Chopra, Ramesh. Lognathan"
+            },
+            {
+              "optionInfo": {
+                "key": "29",
+                "synonyms": []
+              },
+              "title": "Expert Meetup - Session 3",
+              "description": "11:30 AM - 12:30 PM |  Lagoon Area (Convention Centre)"
+            },
+            {
+              "optionInfo": {
+                "key": "30",
+                "synonyms": []
+              },
+              "title": "Business in Cloud, Governance in House",
+              "description": "11:30 AM - 12:30 PM | Gulmohar | Speakers: Ashwini Parage, Subhajit Deb, Vikrant Varshney, Hyma Davuluri, Shailesh Albuquerque"
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Remaining Sessions"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The schedule on November 16 is as follows:"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541804448,
+  "fallbackIntent": false,
+  "events": []
+}

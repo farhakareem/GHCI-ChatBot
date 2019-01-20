@@ -1,0 +1,39 @@
+{
+  "id": "5e9a8115-5b1d-4380-9c5d-38ab3fbe2f96",
+  "name": "Schedule 16N-The Rising Role of Design in Technology",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "48e12bb6-31be-447f-a561-db72b05547c1",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Today, design is an important skill for everyone in an organization, developers, managers or architects. . In this session, we will look at how how User Experience Design is shaping our careers, our work and the technology we work with and how we can pull up our sleeves to learn about design. How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541614414,
+  "fallbackIntent": false,
+  "events": []
+}

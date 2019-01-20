@@ -1,0 +1,74 @@
+[
+  {
+    "id": "14f0a2f6-e1e9-4d15-9f31-8a6744277f94",
+    "data": [
+      {
+        "text": "End to End Network Analytics",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541179822
+  },
+  {
+    "id": "95978df5-1981-4c25-bb9c-88046ef560ed",
+    "data": [
+      {
+        "text": "Programmable Networks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541179822
+  },
+  {
+    "id": "fa51cacf-18e4-4701-8832-dc927a7448e5",
+    "data": [
+      {
+        "text": "End to End Network Analytics in Programmable Networks ",
+        "userDefined": false
+      },
+      {
+        "text": "16November",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541179822
+  },
+  {
+    "id": "f109e1f2-3c77-4545-8a25-34cca1c90146",
+    "data": [
+      {
+        "text": "16November",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " End to End Network Analytics in Programmable Networks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541179822
+  },
+  {
+    "id": "8765840a-bce8-46a7-8e52-f1a13d087b11",
+    "data": [
+      {
+        "text": "End to End Network Analytics in Programmable Networks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541143263
+  }
+]

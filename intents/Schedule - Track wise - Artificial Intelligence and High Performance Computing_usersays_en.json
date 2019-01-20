@@ -1,0 +1,164 @@
+[
+  {
+    "id": "b16744ac-385f-459d-90d8-b51429b2e5cc",
+    "data": [
+      {
+        "text": "sessions on ",
+        "userDefined": false
+      },
+      {
+        "text": "hpc",
+        "alias": "HPC",
+        "meta": "@HPC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541521690
+  },
+  {
+    "id": "2db6ea34-2f11-4ab0-8346-0b1deecf9298",
+    "data": [
+      {
+        "text": "sessions on ",
+        "userDefined": false
+      },
+      {
+        "text": "artificial intelligence",
+        "alias": "ai",
+        "meta": "@ai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541521690
+  },
+  {
+    "id": "618e3bfc-946d-4e54-952d-de6711853d8c",
+    "data": [
+      {
+        "text": "Artificial Intelligence",
+        "alias": "ai",
+        "meta": "@ai",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "High Performance Computing",
+        "alias": "HPC",
+        "meta": "@HPC",
+        "userDefined": false
+      },
+      {
+        "text": " track",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541516710
+  },
+  {
+    "id": "671a2dc9-81fc-4422-aa5d-1ebc4894c0f6",
+    "data": [
+      {
+        "text": "Artificial Intelligence",
+        "alias": "ai",
+        "meta": "@ai",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "High Performance Computing",
+        "alias": "HPC",
+        "meta": "@HPC",
+        "userDefined": false
+      },
+      {
+        "text": " session",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541516710
+  },
+  {
+    "id": "914a3243-4287-42d1-bec4-24a4fc40d59e",
+    "data": [
+      {
+        "text": "talks on ",
+        "userDefined": false
+      },
+      {
+        "text": "Artificial Intelligence",
+        "alias": "ai",
+        "meta": "@ai",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "High Performance Computing",
+        "alias": "HPC",
+        "meta": "@HPC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541516710
+  },
+  {
+    "id": "8f38fbf0-1b1e-494a-b92a-04a1652d3f53",
+    "data": [
+      {
+        "text": "ai",
+        "alias": "ai",
+        "meta": "@ai",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "hpc",
+        "alias": "HPC",
+        "meta": "@HPC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541516710
+  },
+  {
+    "id": "05dc1625-d898-4364-bd93-240a83f083bb",
+    "data": [
+      {
+        "text": "artificial intelligence and ",
+        "userDefined": false
+      },
+      {
+        "text": "High Performance Computing",
+        "alias": "HPC",
+        "meta": "@HPC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541516710
+  }
+]

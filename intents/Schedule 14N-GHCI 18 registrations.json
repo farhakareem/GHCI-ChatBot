@@ -1,0 +1,43 @@
+{
+  "id": "e274ba97-ec6f-41f9-9c82-f1161494a382",
+  "name": "Schedule 14N-GHCI 18 registrations",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a65f9bde-c049-4e01-8d83-fd96612fb107",
+          "required": false,
+          "dataType": "@GHCI",
+          "name": "GHCI",
+          "value": "$GHCI",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "GHCI 18 registrations happen from 11:00 am to 1:30 pm on the 14th of November, 2018. There are no on-spot registrations. During the on-site registrations, delegates can pick up their attendee badge. GHCI 18 attendee bags will be only given out on November 14, 2018. How else can I help you?",
+            "There are no on-spot registrations. Please ensure you have completed your GHCI 18 registrations online prior to the conference. During the on-site registrations delegates can pick up their attendee badge.GHCI 18 attendee bags will be only given out on November 14, 2018.  How else can I help you?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541699713,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "16d0374b-4658-4eec-8de9-8f90075d5f56",
+  "name": "Schedule 15N-Working in Digital Forensics",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are two parts to digital forensics – the investigative aspect and the legal part. Tools are an important part of the investigation but, tools are finally only tools. So, much more important than the tools, investigation requires meticulous, painstaking, detailed work. This talk will look at these two dimensions so as to highlight the following points – the needs for/of investigations, the methods used and the research and development required. Focus however is on the people because investigation depends on the skills of the individual and not just on making a newer/better tool. Anything else that you would like to know about?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541611317,
+  "fallbackIntent": false,
+  "events": []
+}

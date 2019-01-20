@@ -1,0 +1,122 @@
+{
+  "id": "0e2fd043-22c9-4acb-b502-3edcd39cb6a9",
+  "name": "Schedule-Track wise-Tech for Good",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "list_card",
+          "platform": "google",
+          "lang": "en",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "2",
+                "synonyms": []
+              },
+              "title": "Technokidz to the Rescue",
+              "description": "November 15 |1.30-2.30 pm | Location: Parijatha | Speakers: Purva Sreekaanth, Samyukta Shrivatsa, Naman Kumar, Aman Vernekar, Dweep Joshipura"
+            },
+            {
+              "optionInfo": {
+                "key": "3",
+                "synonyms": []
+              },
+              "title": "Seamless Conversation Enabler",
+              "description": "November 15 | 2.45-3.05 pm |Location: Glass Room - Food Court | Speakers: Sharannia Pillai"
+            },
+            {
+              "optionInfo": {
+                "key": "4",
+                "synonyms": []
+              },
+              "title": "Towards a Cost-effective Tactile reader for the Visually-impaired",
+              "description": "November 15 | 3.05-3.25 pm | Location: Glass Room - Food Court |  Speakers: Anupama Thomas"
+            },
+            {
+              "optionInfo": {
+                "key": "5",
+                "synonyms": []
+              },
+              "title": "eScribe, Enabling Independence",
+              "description": "November 15 | 3.25-3.45 pm | Location: Glass Room - Food Court | Speakers: Sangeetha M"
+            },
+            {
+              "optionInfo": {
+                "key": "6",
+                "synonyms": []
+              },
+              "title": "Lucy: Making the Workplace Safe",
+              "description": "November 16 | 11:30 - 11:50 AM | Location: Hibiscus | Speakers: Devang Gaur"
+            },
+            {
+              "optionInfo": {
+                "key": "7",
+                "synonyms": []
+              },
+              "title": "Peer Couple to Couple Approach for Better Maternal Health Outcomes",
+              "description": "November 16 | 11:50 - 12:10 PM | Location: Hibiscus | Speakers: Nataraj Kuntagod"
+            },
+            {
+              "optionInfo": {
+                "key": "8",
+                "synonyms": []
+              },
+              "title": "Programming Efficiently with One Key at a Time",
+              "description": "November 16 | 12:10 - 12:30 PM | Location: Hibiscus| Speakers: Pooja Desai"
+            },
+            {
+              "optionInfo": {
+                "key": "9",
+                "synonyms": []
+              },
+              "title": "SmartCity@Ecity – Technology for Better Quality of Life",
+              "description": "November 16 | 1:30 - 2:00 PM |Location: Hibiscus | Speakers: Ashish Khare"
+            },
+            {
+              "optionInfo": {
+                "key": "10",
+                "synonyms": []
+              },
+              "title": "Civic Audits with Open Data",
+              "description": "November 16 | 2 - 2:30 PM | Location: Hibiscus | Speakers: Meenakshi Ramesh"
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Design in Tech"
+            },
+            {
+              "title": "Career360"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "These are the sessions under the track : Tech for Good.How else may I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541501953,
+  "fallbackIntent": false,
+  "events": []
+}

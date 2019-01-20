@@ -1,0 +1,37 @@
+{
+  "id": "649dd7e7-b40a-4e60-91a3-a9dd18cbe269",
+  "name": "Schedule 15N-Can Blockchain Technology Secure ADS-B Surveillance Data in  Aviation Industry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Blockchain is one of the modern technologies evolving every day and has captured the imagination of companies across industries, including Aviation. The need to protect data in a secure way is of paramount priority in Aviation Industry which aligns perfectly with what Blockchain has to offer. ADS-B (Automatic Dependent Surveillance Broadcast) is the key technology that is mandated by FAA in US by 2020, to maintain safe separation between aircrafts and accommodate more aircrafts within a specified air space at any point in time. However, The question of concern is that the ADS-B data is neither Encrypted nor Authenticated. ADS-B messages can be trivially injected, modified or deleted by an attacker who has full control over the wireless channel. In this session let\u0027s take a look at whether it is possible that Blockchain Technology can be used to secure ADS-B applications while still maintaining the transparency of the data."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541348276,
+  "fallbackIntent": false,
+  "events": []
+}

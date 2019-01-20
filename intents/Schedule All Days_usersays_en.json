@@ -1,0 +1,149 @@
+[
+  {
+    "id": "4e1d999e-9f67-4c02-8545-9dda97ce93fd",
+    "data": [
+      {
+        "text": "GHCI",
+        "alias": "GHCI",
+        "meta": "@GHCI",
+        "userDefined": false
+      },
+      {
+        "text": " Schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541522645
+  },
+  {
+    "id": "c400821e-a839-457c-8311-16e0b31cf741",
+    "data": [
+      {
+        "text": "Schedules",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541513183
+  },
+  {
+    "id": "f837dacb-c696-46f1-a2da-8e281cdf2d66",
+    "data": [
+      {
+        "text": "Schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541513183
+  },
+  {
+    "id": "7c7d3508-6800-4b5a-ac1c-5e1d6035c87b",
+    "data": [
+      {
+        "text": "Show me the schedules",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541347182
+  },
+  {
+    "id": "5353ca76-56ec-4250-9adf-10057812a8d2",
+    "data": [
+      {
+        "text": "Show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "GHCI",
+        "alias": "GHCI",
+        "meta": "@GHCI",
+        "userDefined": false
+      },
+      {
+        "text": " Schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541347182
+  },
+  {
+    "id": "b01bbed0-db74-4874-9ffa-11ca2eac2b25",
+    "data": [
+      {
+        "text": "What  happening at ",
+        "userDefined": false
+      },
+      {
+        "text": "GHCI",
+        "alias": "GHCI",
+        "meta": "@GHCI",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541347182
+  },
+  {
+    "id": "f3af1c1b-b88a-4a0b-bd5c-37adabac24b6",
+    "data": [
+      {
+        "text": "I would like to know the schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541347182
+  },
+  {
+    "id": "22a00a95-29a3-4858-9ca7-08e4ebd10e5d",
+    "data": [
+      {
+        "text": "Tell me the Schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541347182
+  },
+  {
+    "id": "e982d01c-c496-4bf8-84ea-cd986d340a11",
+    "data": [
+      {
+        "text": "What happens on the dates?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540060566
+  },
+  {
+    "id": "a0cd06f8-a963-4d22-826d-a6c95b7cacc3",
+    "data": [
+      {
+        "text": "What",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " is the schedule?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541608999
+  }
+]

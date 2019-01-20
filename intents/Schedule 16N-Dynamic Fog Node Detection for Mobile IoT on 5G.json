@@ -1,0 +1,39 @@
+{
+  "id": "adbadc36-d4f1-402a-b428-720a3450eb9a",
+  "name": "Schedule 16N-Dynamic Fog Node Detection for Mobile IoT on 5G",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b637a30e-46c9-4c9d-b609-0c766ca819b3",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "With 5G coming into action with speeds almost 100 times faster than 4G, the demand and use cases on IoT devices would dramatically shoot up. This will generate heavy data load with faster processing and analysis needs to derive useful insights for instant actions. Fog computing aims at providing minimum latency by processing near the IoT device. Best architecture would be to divide processing capabilities among device, cloud and fog nodes. This will work well for stationary IoT devices. But if the device is moving, such as a connected vehicle, then fog node switch will be required with device movement. The paper here researches on the techniques to determine and switch to the most optimal fog node, when the IoT device is mobile in nature. It also talks about which of these techniques would be applicable for stateless and stateful applications designs and for push vs pull models. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541613207,
+  "fallbackIntent": false,
+  "events": []
+}

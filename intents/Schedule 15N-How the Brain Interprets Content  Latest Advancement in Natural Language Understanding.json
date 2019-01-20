@@ -1,0 +1,47 @@
+{
+  "id": "aa8442f6-25aa-483a-b1d6-de42072b8461",
+  "name": "Schedule 15N-How the Brain Interprets Content  Latest Advancement in Natural Language Understanding",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a90d0de0-8c83-4d3f-99f5-69bae79e77c9",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you?",
+          "displayText": "Understanding how the brain represents the meaning of words, sentences and stories and extending this understanding into the Natural Language Processing models has been an interesting topic of research in premier institutes across the world. Their findings so far have been amazing and this session would review the exciting work going on in this area and how it could be extremely powerful towards the problems that we face with Natural Language Understanding of documents explained with a case study."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Categorizing and inferring from nested co-referenced content are some of the key challenges faced by a majority of document repositories – something that our brain is excellent at doing. For eg: Understanding sentiments from a research report or interpreting the tone in email conversations, answering questions from annual reports on the summary of investments made by the firm and so on."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541614139,
+  "fallbackIntent": false,
+  "events": []
+}

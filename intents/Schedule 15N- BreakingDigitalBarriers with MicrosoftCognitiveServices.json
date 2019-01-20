@@ -1,0 +1,36 @@
+{
+  "id": "b009fd88-d1a7-4462-af6e-3267bfaf827e",
+  "name": "Schedule 15N- BreakingDigitalBarriers with MicrosoftCognitiveServices",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "27f327a5-853e-4381-9441-d766f3d4cf13",
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Microsoft is committed to make technology accessible and inclusive for billions of people who do not speak or read in English. As per KPMG, by 2021, 500 Million non-English Indian speakers will come online. Microsoft is bringing AI in India to help break the language barriers and to make internet more accessible for native language speakers. Our team of researchers applied scientists and developers at Hyderabad are developing Speech recognition and Translation models for Indian languages to bring speakers of major Indian languages to the Internet. Speech Recognition AI models enable regional speakers to access internet using voice queries in their local languages. The Deep Neural Translation and Transliteration models provide live translation to end users to access content in other languages. Developers and businesses can build applications with Microsoft’s Speech and Translation APIs without having any knowledge of AI or data science. Cognitive Services and other Machine learning APIs on Azure enable developers to embed cognitive features like recognizing speech, objects, faces, emotions, and understanding language in their applications. Azure Cognitive Services provide tools to build custom AI models in Speech and Vision to better suit the need for specific use cases with a few clicks. How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541701426,
+  "fallbackIntent": false,
+  "events": []
+}

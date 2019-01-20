@@ -1,0 +1,54 @@
+{
+  "id": "f4c68382-db22-4fc6-86e8-1011277c595b",
+  "name": "Schedule 15N-Generation Z Cloud Applications  Performance Scalability  Microservices AI",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7d9e44dd-f90b-4e15-80b1-a82d5c8ce4e0",
+          "required": false,
+          "dataType": "@ai",
+          "name": "ai",
+          "value": "$ai",
+          "isList": false
+        },
+        {
+          "id": "fb6a7039-9e9d-46bc-9c74-c3899bdbd589",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Are you Designing/Developing applications on Cloud? What are the key factors which needs to be considered while building SAAS solutions when compared to brick and mortar solutions? This workshop will cover the best practices for developing next generation applications in Cloud for emerging markets. While discussing various tips for developing performant and scalable cloud applications, the speakers will also cover various design patterns, important design considerations around customizations and upgradability in cloud, easy deployment options, microservices, AI driven designs and will touch upon blockchain cloud considerations. The take away from the sessions would be helpful in implementing seamless solutions for cloud."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541587057,
+  "fallbackIntent": false,
+  "events": []
+}

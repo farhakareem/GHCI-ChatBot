@@ -1,0 +1,39 @@
+{
+  "id": "81b562e9-2794-44be-90f2-2dd7faa306a2",
+  "name": "Schedule 15N-Deception Technology for Advanced Threat Detection",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "60c624ce-ef76-48d0-814b-6befe4b8dcc5",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Year 2017 was a record-breaking year for serious security breaches with over 5000 reported breaches and nearly 8 billion compromised information records. Many enterprise breaches are carried out using credentials or data that are socially engineered or stolen. This talk will cover Deception Technology – “Motion Detectors for the Enterprise”. Agenda: - Introduction to Deception technology - Weaving in deception into the network and security fabric using AI - Autonomously weaving a deception web when hackers gain access - Efficacy of Deception - Success stories that have prevented massive breaches. How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541224875,
+  "fallbackIntent": false,
+  "events": []
+}

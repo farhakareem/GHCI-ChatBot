@@ -1,0 +1,52 @@
+{
+  "id": "cf801fb7-d96f-45f8-be8b-9e0c43a6054d",
+  "name": "Career fair - Timing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "65b0331b-ebe0-42c8-ba3f-0aa1d557c781",
+          "required": false,
+          "dataType": "@CareerFair",
+          "name": "CareerFair",
+          "value": "$CareerFair",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Career Fair Venue"
+            },
+            {
+              "title": "Schedule"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Career Fair is scheduled on November 15 and 16, 2018 from 10 : 30 am to 5.00 p.m. How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541785281,
+  "fallbackIntent": false,
+  "events": []
+}

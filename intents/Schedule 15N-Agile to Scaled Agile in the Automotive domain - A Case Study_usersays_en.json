@@ -1,0 +1,67 @@
+[
+  {
+    "id": "9223cf60-5b08-450f-821d-1ef4aa2736c2",
+    "data": [
+      {
+        "text": "Describe event on agile to scaled agile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541176576
+  },
+  {
+    "id": "d7af26af-b615-4b2f-bd93-7fe0df0952a5",
+    "data": [
+      {
+        "text": "Agile to scaled agile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541176576
+  },
+  {
+    "id": "03c624db-54ec-41d0-ae8b-b03e23b67a33",
+    "data": [
+      {
+        "text": "Agile to Scaled Agile in the Automotive domain day ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541347475
+  },
+  {
+    "id": "07140653-dbc8-4017-a99f-9fe34752b362",
+    "data": [
+      {
+        "text": "Agile SDLC related talks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541176576
+  },
+  {
+    "id": "f38674fd-ba1a-4e68-9e07-6497e0156b35",
+    "data": [
+      {
+        "text": "Agile to Scaled Agile in the Automotive domain - A Case Study",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540486820
+  }
+]

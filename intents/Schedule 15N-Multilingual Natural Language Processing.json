@@ -1,0 +1,54 @@
+{
+  "id": "7df4379a-32fc-4709-848b-3397e8a93ba2",
+  "name": "Schedule 15N-Multilingual Natural Language Processing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "196cd666-2e3f-4854-812a-f024990593cc",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "items": [
+            {
+              "textToSpeech": "Available resources such as unannotated corpus, dictionaries, and limited labeled data can be utilized for this. We will discuss our contributions in multilingual word representation and our study of their effectiveness in cross lingual retrieval in Indian languages.",
+              "displayText": "Available resources such as unannotated corpus, dictionaries, and limited labeled data can be utilized for this. We will discuss our contributions in multilingual word representation and our study of their effectiveness in cross lingual retrieval in Indian languages."
+            },
+            {
+              "textToSpeech": "How else can I help you ?"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Natural language processing technology (NLP) has been the forefront of Digital and AI revolution. Language is the most natural medium of communication of humans with machines. While there have been great strides in NLP in the past few decades based on linguistic studies and machine learning, the focus has been only on a few of the world\u0027s languages. We live in a multilingual world with 7000 living languages. We will present algorithms that can bootstrap the effort to bring NLP technology to the less resourced languages. The use of neural networks and representation learning methods in NLP has opened up opportunities of transfer learning to benefit low resource languages."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541610329,
+  "fallbackIntent": false,
+  "events": []
+}

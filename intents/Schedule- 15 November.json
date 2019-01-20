@@ -1,0 +1,308 @@
+{
+  "id": "d4d3de7b-c605-4205-8583-d59dd6901b77",
+  "name": "Schedule- 15 November",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "affectedContexts": [
+        {
+          "name": "Schedule-15November-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "There are more talks. If you want the remaining list say part 2. Otherwise, what would you like to know about?"
+        },
+        {
+          "type": "list_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "November 15, 2018",
+          "subtitle": "GHCI 18 session details",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "1",
+                "synonyms": []
+              },
+              "title": "GHCI 18 Registrations, Tea/Coffee",
+              "description": "7.30 am to 9.00 am | Registration area,Hall 2 (Upper Level)"
+            },
+            {
+              "optionInfo": {
+                "key": "2",
+                "synonyms": []
+              },
+              "title": "Embracing Career Transitions",
+              "description": "9.00 am to 10.00 am | Hall 2 (Lower Level)| Speakers: Remy Alexander, Parmita Biswas, Padma Patil"
+            },
+            {
+              "optionInfo": {
+                "key": "3",
+                "synonyms": []
+              },
+              "title": "How the Brain Interprets Content - Latest Advancement in Natural Language Understanding",
+              "description": "9:00 am to 9:30 am | Glass Room - Food Court | Speakers: Gowri Sekar"
+            },
+            {
+              "optionInfo": {
+                "key": "5",
+                "synonyms": []
+              },
+              "title": "Personal Agility - The Success Mantra of the Achievers",
+              "description": "9:00 AM to 10:00 AM | Location: Hibiscus | Speakers: Meghana Niranjan, Savitha SR"
+            },
+            {
+              "optionInfo": {
+                "key": "6",
+                "synonyms": []
+              },
+              "title": "Deception Technology for Advanced Threat Detection",
+              "description": "9:00 AM to 10:00 AM | Food Court (Upper Level) | Speakers: Roopa Dharmapuri"
+            },
+            {
+              "optionInfo": {
+                "key": "7",
+                "synonyms": []
+              },
+              "title": "AI-Powered Analytics and Automation",
+              "description": "9:00 AM to 10:00 AM| Cassia | Speakers: Richa Awasthi, Rajat Jain, Vikram Razdan, Urvi Adatia, Shourya Roy"
+            },
+            {
+              "optionInfo": {
+                "key": "8",
+                "synonyms": []
+              },
+              "title": "Multilingual Natural Language Processing",
+              "description": "9:00 AM to 10:00 AM | Parijatha | Speakers: Sudeshna Sarkar"
+            },
+            {
+              "optionInfo": {
+                "key": "9",
+                "synonyms": []
+              },
+              "title": "IC Packaging Technology Trends",
+              "description": "9:00 AM to 9:30 AM | Gulmohar | Speakers: Kavitha Nagarajan"
+            },
+            {
+              "optionInfo": {
+                "key": "10",
+                "synonyms": []
+              },
+              "title": "Protecting Truant Kids From Accessing Adult Content On Smart Devices",
+              "description": "9:00 AM to 9:20 AM | Jacaranda | Speakers: Jerrina Paul"
+            },
+            {
+              "optionInfo": {
+                "key": "11",
+                "synonyms": []
+              },
+              "title": "Understanding how a Kalman Filter Works",
+              "description": "9:20 AM to 9:40 AM | Jacaranda | Speakers: Ayushi Mrigen"
+            },
+            {
+              "optionInfo": {
+                "key": "12",
+                "synonyms": []
+              },
+              "title": "New Methodologies in Formal Verification Ring the Change in Validation",
+              "description": "9:30 AM to 10:00 AM | Gulmohar |  || Speakers: Disha Puri"
+            },
+            {
+              "optionInfo": {
+                "key": "13",
+                "synonyms": []
+              },
+              "title": "Design Drivers in Digital Storytelling",
+              "description": "9:30 AM to 10:00 AM |Glass Room - Food Court | Speakers: Biren Ghose"
+            },
+            {
+              "optionInfo": {
+                "key": "14",
+                "synonyms": []
+              },
+              "title": "Role of Distance Measures in Machine Learning: A Yardstick for Data Similarity",
+              "description": "9:40 AM to 10:00 AM | Jacaranda | Speakers: Neelima Vobugari"
+            },
+            {
+              "optionInfo": {
+                "key": "15",
+                "synonyms": []
+              },
+              "title": "RPA to Artificial Intelligence - Powering Financial Services Efficiency",
+              "description": "10.15 am to 11.15 am | Hibiscus | Speakers: Kanchan Joshi, Uma Bhaktha"
+            },
+            {
+              "optionInfo": {
+                "key": "16",
+                "synonyms": []
+              },
+              "title": "Breaking Digital Barriers with Microsoft Cognitive Services",
+              "description": "10:15 AM to 10:45 AM | Cassia | Speakers: Thirumalai Anandanpillai"
+            },
+            {
+              "optionInfo": {
+                "key": "17",
+                "synonyms": []
+              },
+              "title": "Fake Article Detection from Multilingual Documents-A Deep Learning Approach",
+              "description": "10.15 am to 10.35 am | Jacaranda | Speakers: Soma Halder"
+            },
+            {
+              "optionInfo": {
+                "key": "18",
+                "synonyms": []
+              },
+              "title": "5G Technology Explained - The Future is here",
+              "description": "10:15 am to 11.15 am |  Food Court (Upper Level) | Speakers: Subodh Gajare"
+            },
+            {
+              "optionInfo": {
+                "key": "19",
+                "synonyms": []
+              },
+              "title": "Working in Digital Forensics",
+              "description": "10.15 am to 10.45 am | Glass Room - Food Court | Speakers: Shweta Chawla"
+            },
+            {
+              "optionInfo": {
+                "key": "20",
+                "synonyms": []
+              },
+              "title": "Is MicroServices Apt for Large Imaging Modalities/ Desktop Apps ?",
+              "description": "10.15 am to 10.45 am | Gulmohar |  Speakers: Aparna Shetty"
+            },
+            {
+              "optionInfo": {
+                "key": "21",
+                "synonyms": []
+              },
+              "title": "Bending AI to our Needs",
+              "description": "10.15 am to 11.15 am |Hall 2 (Lower Level) | Speakers: Sridharan Devarajan"
+            },
+            {
+              "optionInfo": {
+                "key": "22",
+                "synonyms": []
+              },
+              "title": "Befriend Your Brain",
+              "description": "10.15 am to 11.15 am |Hall 2 (Lower Level) | Speakers: Sridharan Devarajan"
+            },
+            {
+              "optionInfo": {
+                "key": "23",
+                "synonyms": []
+              },
+              "title": "GHCI 18 Tech Expo",
+              "description": "10.30 am to 5.00 pm | Hall 1 (Lower Level)"
+            },
+            {
+              "optionInfo": {
+                "key": "24",
+                "synonyms": []
+              },
+              "title": "GHCI 18 Career Fair",
+              "description": "10.30 am to 5.00 pm | Hall 1 (Lower Level)"
+            },
+            {
+              "optionInfo": {
+                "key": "25",
+                "synonyms": []
+              },
+              "title": "Data That Caught the World With Surprise",
+              "description": "10.35 am to 10.55 am | Jacaranda | Speakers: Neha Singh"
+            },
+            {
+              "optionInfo": {
+                "key": "26",
+                "synonyms": []
+              },
+              "title": "Engineering Against the Hacker\u0027s Mind",
+              "description": "10.45 am to 11.15 am | Glass Room - Food Court | Speakers: Swapna Bapat"
+            },
+            {
+              "optionInfo": {
+                "key": "27",
+                "synonyms": []
+              },
+              "title": "Machine Learning Embedded with Object Storage for GDPR Compliance",
+              "description": "10.45 am to 11.15 am | Gulmohar | Speakers: Smita Raut"
+            },
+            {
+              "optionInfo": {
+                "key": "28",
+                "synonyms": []
+              },
+              "title": "Analyzing Gender Stereotyping in Bollywood Movies",
+              "description": "10.55 am to 11.15 am | Jacaranda | Speakers: Nishtha Madaan"
+            },
+            {
+              "optionInfo": {
+                "key": "29",
+                "synonyms": []
+              },
+              "title": "Machine Learning, Open Source and Digitization - Demystified",
+              "description": "11.00 am to 12.30 pm | Cassia | Speakers: Nidhi Gopal"
+            },
+            {
+              "optionInfo": {
+                "key": "30",
+                "synonyms": []
+              },
+              "title": "Speed Mentoring - Session 1",
+              "description": "11.30 am to 12.30 pm | Food Court (Lower Level)"
+            },
+            {
+              "optionInfo": {
+                "key": "31",
+                "synonyms": []
+              },
+              "title": "IoT and Blockchain Convergence With Industry Use Cases",
+              "description": "11.30 am to 12.30 pm | Gulmohar | Speakers: Roshan Khan, PVN PavanKumar"
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Part 2 of the Schedule"
+            },
+            {
+              "title": "Part 3 of the Schedule"
+            },
+            {
+              "title": "November 16"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The schedule on November 15 is as follows:"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541803474,
+  "fallbackIntent": false,
+  "events": []
+}

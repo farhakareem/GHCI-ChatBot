@@ -1,0 +1,62 @@
+[
+  {
+    "id": "40d55a92-ec3f-4f22-8ba8-49c87fd12fe9",
+    "data": [
+      {
+        "text": "Tell me about Industrial Robotics and the Age of Autonomy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541135975
+  },
+  {
+    "id": "d102dd11-eb12-4d0d-868e-eec44ade8627",
+    "data": [
+      {
+        "text": "Industrial Robotics and the Age of Autonomy: Future Perspectives ",
+        "userDefined": false
+      },
+      {
+        "text": "is what?",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541135975
+  },
+  {
+    "id": "c7b7d460-7354-42cd-aa8e-d06129c6d206",
+    "data": [
+      {
+        "text": "Tell me about",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " Industrial Robotics and the Age of Autonomy: Future Perspectives",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541135975
+  },
+  {
+    "id": "d08f44ea-1d7c-44c6-9a43-f56b87213b74",
+    "data": [
+      {
+        "text": "Industrial Robotics and the Age of Autonomy: Future Perspectives",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540484856
+  }
+]

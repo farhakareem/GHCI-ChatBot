@@ -1,0 +1,39 @@
+{
+  "id": "96a49db9-9548-41f9-881f-e599d40f5696",
+  "name": "Schedule 16N-Distributed Computing in HPC and Code Optimization Challenges",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1670d21b-d52e-4914-8cd7-7d3fb9696511",
+          "required": false,
+          "dataType": "@HPC",
+          "name": "HPC",
+          "value": "$HPC",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This session is a continuation of the introduction to HPC done in Session \u0027Introduction to High Performance Computing\u0027. We focus on distributed memory computing and concepts related to scalability on a large cluster, and also some of the interesting use cases that were solved using HPC compute power. The session includes a small demo of how a sample application code can use the benefits of the underlying hardware to achieve better performance through the use of compilers and performance tools. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541612916,
+  "fallbackIntent": false,
+  "events": []
+}

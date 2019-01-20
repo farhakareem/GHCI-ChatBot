@@ -1,0 +1,67 @@
+{
+  "id": "373b1217-7fcc-4a3a-a2cf-d5adb553a6cd",
+  "name": "Chair tech talks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "177672c0-1c47-498e-9c4f-54ebc12f5cbe",
+          "required": false,
+          "dataType": "@Chair",
+          "name": "Chair",
+          "value": "$Chair",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "AI Track Chair"
+            },
+            {
+              "title": "Design in Tech TrackChair"
+            },
+            {
+              "title": "Tech for Good Track Chair"
+            },
+            {
+              "title": "Career360 Track Chair"
+            },
+            {
+              "title": "Poster Session Chair"
+            },
+            {
+              "title": "Tech Expo Track Chair"
+            },
+            {
+              "title": "iConnect Track Chair"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Tech Talk chairs are Meenakshi Iyer, Standard Chartered and Nalini Krishnan, TCS. How else can I hep you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541329953,
+  "fallbackIntent": false,
+  "events": []
+}

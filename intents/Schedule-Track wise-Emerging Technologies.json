@@ -1,0 +1,100 @@
+{
+  "id": "eaebbdf4-7099-428e-9020-6b6fae43e736",
+  "name": "Schedule-Track wise-Emerging Technologies",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "list_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Emerging Technologies Sessions",
+          "subtitle": "GHCI 18",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "1",
+                "synonyms": []
+              },
+              "title": "Deception Technology for Advanced Threat Detection",
+              "description": "November 15 | 9-10 am |Location: Food Court (Upper Level) |Speakers: Roopa Dharmapuri"
+            },
+            {
+              "optionInfo": {
+                "key": "2",
+                "synonyms": []
+              },
+              "title": "5G Technology Explained - The Future is here",
+              "description": "November 15 | 10:15-11:15 am |Location: Food Court (Upper Level) | Speakers: Subodh Gajare"
+            },
+            {
+              "optionInfo": {
+                "key": "3",
+                "synonyms": []
+              },
+              "title": "Industrial Robotics and the Age of Autonomy: Future Perspectives",
+              "description": "November 15 | 11:30 - 12:30 PM | Location: Food Court (Upper Level) |Speakers: Sudarshan M V, Prabhat Shankar"
+            },
+            {
+              "optionInfo": {
+                "key": "4",
+                "synonyms": []
+              },
+              "title": "Can Blockchain Technology Secure ADS-B Surveillance Data in Aviation Industry",
+              "description": "November 15 | 1.30-2 pm |Location: Food Court (Upper Level) | Speakers: Swathi Pennapareddy"
+            },
+            {
+              "optionInfo": {
+                "key": "5",
+                "synonyms": []
+              },
+              "title": "Quantum Cryptography Based Hash Generation for Blockchain Technology",
+              "description": "November 15 | 2 - 2:30 PM | Location: Food Court (Upper Level) | Speakers: Manisha Modak"
+            },
+            {
+              "optionInfo": {
+                "key": "6",
+                "synonyms": []
+              },
+              "title": "Introduction to Quantum Computing",
+              "description": "November 16 | 11:30 - 12:30 PM | Location: Cassia | Speakers: Rajeev Gupta, Pavan Kumar Kesamreddy"
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "TechTalks"
+            },
+            {
+              "title": "Design in Tech"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "These are the sessions under the track : Emerging Technologies. How else may I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541500567,
+  "fallbackIntent": false,
+  "events": []
+}

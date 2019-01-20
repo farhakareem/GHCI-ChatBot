@@ -1,0 +1,37 @@
+{
+  "id": "c7e34ec8-364a-437f-9e34-b5db498733b3",
+  "name": "Schedule 15N-Bending AI to our Needs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a3a18624-3750-462c-a628-5d16324fe1ba",
+          "required": false,
+          "dataType": "@ai",
+          "name": "ai",
+          "value": "$ai",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Artificial Intelligence has become prevalent in our society and in some cases very popular too. A phone call you get from you bank or an email you receive from somewhere you have never heard of may be infected by AI. AI is being leveraged by corporations to advance their business needs. However, AI is not just a new enterprise productivity technology, it is the new world-wide-web or internet as it is popularly known.How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541347777,
+  "fallbackIntent": false,
+  "events": []
+}

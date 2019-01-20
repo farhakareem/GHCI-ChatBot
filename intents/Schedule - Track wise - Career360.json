@@ -1,0 +1,125 @@
+{
+  "id": "aa242479-9af1-411e-8970-b0bc88cd02b1",
+  "name": "Schedule - Track wise - Career360",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "188f31b6-6bd1-431c-a8de-8e8674cd1b9a",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "list_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Career360",
+          "subtitle": "GHCI 18",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "1",
+                "synonyms": []
+              },
+              "title": "Embracing Career Transitions",
+              "description": "November 15 | 9-10 AM |  Location: Hall 2 (Lower Level)  | Speakers: Remy Alexander, Parmita Biswas, Padma Patil"
+            },
+            {
+              "optionInfo": {
+                "key": "2",
+                "synonyms": []
+              },
+              "title": "Befriend Your Brain",
+              "description": "November 15 | 10.15-11.15 AM |  Location: Hall 2 (Lower Level)  | Speakers: Sridharan Devarajan"
+            },
+            {
+              "optionInfo": {
+                "key": "3",
+                "synonyms": []
+              },
+              "title": "Technical Career Journeys",
+              "description": "November 15 | 11.30-12.30 PM |  Location: Hall 2 (Lower Level)  | Speakers: Swaathi Kakarla, Anuradha Asuri"
+            },
+            {
+              "optionInfo": {
+                "key": "4",
+                "synonyms": []
+              },
+              "title": "Ask Me Anything About #Lifeatwork",
+              "description": "November 15 | 1.30-2.30 PM |  Location: Hall 2 (Lower Level)  | Speakers: Jamuna Ravi, Sudha KV"
+            },
+            {
+              "optionInfo": {
+                "key": "5",
+                "synonyms": []
+              },
+              "title": "In favor of a good argument -- ROLE PLAY",
+              "description": "November 15 | 2.45-3.45 PM |  Location: Hall 2 (Lower Level)  | Speakers: Nandini Rao"
+            },
+            {
+              "optionInfo": {
+                "key": "6",
+                "synonyms": []
+              },
+              "title": "Career Accelerators in 15 Minutes",
+              "description": "November 16 | 9-10 AM | Location: Hall 2 (Lower Level) | Speakers: Chaya K N, Viji Vennelakanti, Shakambhari Thakur"
+            },
+            {
+              "optionInfo": {
+                "key": "7",
+                "synonyms": []
+              },
+              "title": "Thrive on Pressure Like a Sportsperson",
+              "description": "November 16 | 10.15-11.15 AM | Location: Hall 2 (Lower Level) | Speakers: Nisha Millet, Krithika Subramaniam"
+            },
+            {
+              "optionInfo": {
+                "key": "8",
+                "synonyms": []
+              },
+              "title": "Own Your Awesome Digital Personality",
+              "description": "November 16 | 1:30 - 3 PM | Location: Parijatha | Speakers: Susmita Das Gupta"
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "iConnect"
+            },
+            {
+              "title": "Original Research"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "These are the sessions under the track : Career360. How else may I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541521639,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "6a067768-9f53-4b9b-814e-a8a0bda6fb6b",
+  "name": "Schedule 16N-GHCI 18 Student Scholar Connect",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a61032d4-1f83-4e82-86a2-6605b127219c",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        },
+        {
+          "id": "8afce173-4235-4e47-a1f6-116d97032f99",
+          "required": false,
+          "dataType": "@GHCI",
+          "name": "GHCI",
+          "value": "$GHCI",
+          "isList": false
+        },
+        {
+          "id": "757e8a1b-6afb-41ff-b824-31c6c348bdce",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "GHCI Student Scholarships enable women students in technology to attend GHCI, interact and network with industry professionals and also explore career opportunities with leading technology organizations in India. They are selected through a rigorous selection process and come from all parts of India. This is a networking session for GHCI 18 Scholars and ACM India-W team. Admission for student scholars only. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541613461,
+  "fallbackIntent": false,
+  "events": []
+}

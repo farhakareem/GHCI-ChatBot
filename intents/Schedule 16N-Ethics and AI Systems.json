@@ -1,0 +1,45 @@
+{
+  "id": "a727d453-06f3-4351-b121-05654512cdb6",
+  "name": "Schedule 16N-Ethics and AI Systems",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d971476b-1b3d-4247-961e-2c4766d84c4a",
+          "dataType": "@ai",
+          "name": "ai",
+          "value": "$ai",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "Anything else that you would like to know about?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This panel aims to discuss ethical issues arising in decisioning by AI and ML systems as these become more pervasive in everyday life. Panelists with relevant technology and industry expertise will talk about what are some of the key issues arising with respect to ethics in AI systems, which industries are most impacted and what technological solutions are being used or developed to address the concerns.How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541434826,
+  "fallbackIntent": false,
+  "events": []
+}

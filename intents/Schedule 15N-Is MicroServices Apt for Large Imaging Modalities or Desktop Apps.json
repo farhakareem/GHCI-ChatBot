@@ -1,0 +1,28 @@
+{
+  "id": "dacfea1e-d706-4bfc-9fba-a5c13073d357",
+  "name": "Schedule 15N-Is MicroServices Apt for Large Imaging Modalities or Desktop Apps",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Microservices are a collection of loosely coupled services, which implement business capabilities. The advantages are that it enables the faster continuous delivery/deployment of large, complex applications. It also enables an organization to evolve its technology stack. Predominantly the Microservices Architecture is used in the context of web/cloud solutions. How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541608837,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "4199bc94-42aa-44d0-9a4c-c43661d78d72",
+  "name": "Schedule 16N-Own Your Awesome Digital Personality",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "What does your digital personality say about you? Whether you like it or not, your digital personality says a lot about you. This workshop will provide you a framework based on attributes to create a unique digital personality. One which truly represents your purpose, passion and an online brand. It will enable attendees to understand the significance of their individual digital personality and provide them steps to create one. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541614130,
+  "fallbackIntent": false,
+  "events": []
+}

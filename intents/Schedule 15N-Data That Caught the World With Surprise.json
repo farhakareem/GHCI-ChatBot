@@ -1,0 +1,47 @@
+{
+  "id": "8bd37bf3-3862-4cf0-b480-26fe3596388c",
+  "name": "Schedule 15N-Data That Caught the World With Surprise",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d7da88fc-529f-4391-93e9-dfb487aba894",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you ?",
+          "displayText": "This includes their needs and fears, and how they are likely to behave. The \"Big Five\" has become the standard technique of psychometrics. But for a long time, the problem with this approach was data collection, because it involved filling out a complicated, highly personal questionnaire. Then came the Internet. And Facebook \u0026 Twitter .For instance, our smartphone is a vast psychological questionnaire that we are constantly filling out, both consciously and unconsciously."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "In the 1980s, two teams of psychologists developed a model that sought to assess human beings based on five personality traits, known as the \"Big Five.\" These are openness , conscientiousness , extroversion , agreeableness and neuroticism . Based on these dimensions they are also known as OCEAN, an acronym for openness, conscientiousness, extroversion, agreeableness, neuroticism we can make a relatively accurate assessment of the kind of person in front of us."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541613186,
+  "fallbackIntent": false,
+  "events": []
+}

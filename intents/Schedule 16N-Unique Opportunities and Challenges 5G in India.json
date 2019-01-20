@@ -1,0 +1,30 @@
+{
+  "id": "ef2d1f2b-d193-456a-9dd7-33cd18d069d2",
+  "name": "Schedule 16N-Unique Opportunities and Challenges 5G in India",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This talk will reflect on the lessons from the 2G, 3G and 4G adoption in India and highlight the new and different approach to 5G adoption. Using market data the uniqueness of the India market will be emphasised. Hence the need for a different approach towards standardisation required to enable this market. India’s framework for ICT standardisation and the recent successes will be presented. Finally a case will be made for global participation in the Standards life cycle, targeting the untapped potential of this market. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541614486,
+  "fallbackIntent": false,
+  "events": []
+}

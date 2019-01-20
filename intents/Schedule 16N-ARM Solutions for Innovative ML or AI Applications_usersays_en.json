@@ -1,0 +1,72 @@
+[
+  {
+    "id": "928d799e-3ae6-46fc-a408-04e2eb3be306",
+    "data": [
+      {
+        "text": "what are the ML/",
+        "userDefined": false
+      },
+      {
+        "text": "AI",
+        "alias": "ai",
+        "meta": "@ai",
+        "userDefined": false
+      },
+      {
+        "text": " applications",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541182327
+  },
+  {
+    "id": "eadab680-7c41-4fd5-b516-aa98f4e12d6d",
+    "data": [
+      {
+        "text": "tell me about ARM solutions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541182327
+  },
+  {
+    "id": "dbe6a6e5-0949-4390-b1f6-2ba52de3e7ea",
+    "data": [
+      {
+        "text": "session on arm solutions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541182327
+  },
+  {
+    "id": "2fe555e4-0157-4ee9-ac6a-1468847ef724",
+    "data": [
+      {
+        "text": "ARM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541182327
+  },
+  {
+    "id": "054e68eb-1419-4f20-aaa0-87ddb363aaa3",
+    "data": [
+      {
+        "text": "ARM Solutions for Innovative ML/AI Applications",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540482665
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "1740ac64-b7c8-4cfc-b76d-08f2a494693e",
+  "name": "Schedule 14N-Lunch and Networking",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Lunch and Networking happen from 11:30 am to 1:30 pm on November 14th, 2018 at Hall 2 (Upper Level). How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541617865,
+  "fallbackIntent": false,
+  "events": []
+}

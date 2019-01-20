@@ -1,0 +1,49 @@
+{
+  "id": "df091027-ba19-43f2-8a52-bb9dc3def0e1",
+  "name": "Schedule 14N-WEQ Sponsors",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2f2cb1e4-7c4c-48f9-908e-d2833d678e26",
+          "required": false,
+          "dataType": "@weq",
+          "name": "weq",
+          "value": "$weq",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "WEQ Consultant"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "WEQ 2018 is sponsored by AnitaB.org India and the Department of Science and Technology (DST), Government of India. The Indo-US Science and Technology Forum (IUSSTF) plays an integral role in supporting and organizing WEQ 2018. AnitaB.org India, DST and IUSSTF have been in a joint partnership and successfully organizing the WEQ contest since 2014. How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541787366,
+  "fallbackIntent": false,
+  "events": []
+}

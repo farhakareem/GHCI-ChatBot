@@ -1,0 +1,30 @@
+{
+  "id": "191ce59c-4398-4966-b00f-c3d40a11d5a0",
+  "name": "Schedule 16N-Blockchain - Building Trust One Link at a Time",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Blockchain is not Bitcoin and Bitcoin is not blockchain. Blockchain skeptics would be laughing as crypto-currencies continue to tumble from dizzying highs but Blockchain’s big innovation is not money, it is about creating one priceless asset: trust - An immutable, unhackable distributed database of digital assets. This is a platform for truth and it’s a platform for trust. The implications are staggering and will reshape industries in domains as varied as finance, healthcare, government, retail, and CPG. Blockchain is expected to do for transactions what the internet did for information. As per Gartner, Blockchain’s business value-add will grow to over $360 billion by 2026, then surge to more than $3.1 trillion by 2030. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541612571,
+  "fallbackIntent": false,
+  "events": []
+}

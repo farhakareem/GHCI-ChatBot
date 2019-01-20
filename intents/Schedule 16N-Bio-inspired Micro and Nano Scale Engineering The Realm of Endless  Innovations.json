@@ -1,0 +1,30 @@
+{
+  "id": "5039835d-a4e7-4cc4-b1d5-1cb17371ee26",
+  "name": "Schedule 16N-Bio-inspired Micro and Nano Scale Engineering The Realm of Endless  Innovations",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Our ability to probe biological systems at multiple length scales and learn about their intelligent designs, coupled with the recent technological advances in making and manipulating things at extremely small length scales, has opened a new world of endless possibilities in engineering. The study of biological systems is now moving rapidly from fact-finding and â€œhow-does-it-workâ€ quest to system science and design-principle discoveries. Nature\u0027s designs are neither random nor bespoke. There are extremely intelligent design templates that allow plenty of second order variations to produce seemingly different systems. It is this design principle that is of central interest to engineering today. As our quest for intelligent systems grows, we realize that we need to integrate numerous small-scale sensors and actuators into our systems just the way Nature does. I will illustrate this idea in this talk by presenting our studies on field-crickets for understanding bioacoustic transducers and a study of insect halters as navigational sensors. I will show how these systems and their designs are radically different from their human engineered counterparts. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541612154,
+  "fallbackIntent": false,
+  "events": []
+}

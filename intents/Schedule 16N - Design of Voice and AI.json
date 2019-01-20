@@ -1,0 +1,39 @@
+{
+  "id": "de82e896-2b3f-4128-83f3-f7001b223fa1",
+  "name": "Schedule 16N - Design of Voice and AI",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8421f12e-18ac-4892-a0e2-7061c4772e1e",
+          "required": false,
+          "dataType": "@ai",
+          "name": "ai",
+          "value": "$ai",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "What\u0027s there to design for AI, you might wonder, as there is no user interface involved. However Design and AI is the next leap for the field of User Experience into the realm of no-interfaces and making our conversation engaging, emotional, appropriate and human. In this session you will learn how companies and designers are designing for voice and text with examples from various industries from retail to banking. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541611806,
+  "fallbackIntent": false,
+  "events": []
+}

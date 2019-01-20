@@ -1,0 +1,58 @@
+{
+  "id": "6da86029-008c-46ed-a4a6-3da18f2f4db1",
+  "parentId": "3566856a-464a-4ef9-94bc-576a713346b0",
+  "rootParentId": "3566856a-464a-4ef9-94bc-576a713346b0",
+  "name": "Default Fallback Intent - fallback",
+  "auto": false,
+  "contexts": [
+    "DefaultFallbackIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultFallbackIntent.DefaultFallbackIntent-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "",
+          "formattedText": "",
+          "image": {
+            "url": "https://wiki.rethinkfoundation.in/images/9/9a/GHCI.PNG",
+            "accessibilityText": "GHCI Logo"
+          },
+          "buttons": [
+            {
+              "title": "GHCI 2018 Website",
+              "openUrlAction": {
+                "url": "https://ghcindia.anitab.org/",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Looks like I\u0027m unable to answer this question. But you can always checkout the GHCI 2018 website and find what you were looking for. Here\u0027s the link:",
+            "I did not get that. But you can always checkout the GHCI 2018 website and find what you were looking for. Here\u0027s the link:"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541570385,
+  "fallbackIntent": true,
+  "events": []
+}

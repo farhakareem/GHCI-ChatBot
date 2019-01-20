@@ -1,0 +1,68 @@
+[
+  {
+    "id": "48de2c35-148d-4c4d-8fec-95f3fbd1247e",
+    "data": [
+      {
+        "text": "financial services efficiency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541183575
+  },
+  {
+    "id": "ff1de070-9b64-4b83-8743-29a4d6b31230",
+    "data": [
+      {
+        "text": "RPA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541183575
+  },
+  {
+    "id": "da51fdc1-d6ea-4eb6-8a43-f412b274e61f",
+    "data": [
+      {
+        "text": "Powering financial services",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541183575
+  },
+  {
+    "id": "b86f811a-d341-41eb-b026-99fea166754d",
+    "data": [
+      {
+        "text": "RPA to ",
+        "userDefined": false
+      },
+      {
+        "text": "AI",
+        "alias": "ai",
+        "meta": "@ai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541183575
+  },
+  {
+    "id": "871aa14a-a9d9-4353-8fec-8279df02f7d8",
+    "data": [
+      {
+        "text": "RPA to Artificial Intelligence - Powering Financial Services Efficiency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540475574
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "78dc468d-0cdc-43cd-a326-32eda35fdac1",
+    "data": [
+      {
+        "text": "SDLC talk ",
+        "userDefined": false
+      },
+      {
+        "text": "on november 15",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541348029
+  },
+  {
+    "id": "c96f9397-6760-4c0e-8400-220ee183dca0",
+    "data": [
+      {
+        "text": "Details about event on Software development lifecycle on day 2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541173001
+  },
+  {
+    "id": "eb4ce068-9636-410a-95dd-ce08961aa3bb",
+    "data": [
+      {
+        "text": "SDLC related talks or events",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541173001
+  },
+  {
+    "id": "b7ca8cf5-3762-41b5-b7e7-403881129f7a",
+    "data": [
+      {
+        "text": "Evolution of SDLC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541173001
+  },
+  {
+    "id": "9ed7d64e-60b5-4ffc-a2ec-83435589cd0e",
+    "data": [
+      {
+        "text": "Evolution of SDLC (Software Development Life Cycle) through DevOps and Knowledge Management",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540486103
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "3f77c294-c8d1-4e99-b28d-5c1e611fd455",
+    "data": [
+      {
+        "text": "Describe ethics and AI systems",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541434826
+  },
+  {
+    "id": "8ade0a65-83a3-4858-8c25-421344e3786f",
+    "data": [
+      {
+        "text": "What can I find in ethics and ",
+        "userDefined": false
+      },
+      {
+        "text": "AI",
+        "alias": "ai",
+        "meta": "@ai",
+        "userDefined": false
+      },
+      {
+        "text": " systems",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541434826
+  },
+  {
+    "id": "172812dd-c593-4ac5-b8a5-09f83ccfdc60",
+    "data": [
+      {
+        "text": "What about ethics and ",
+        "userDefined": false
+      },
+      {
+        "text": "artificial intelligence",
+        "alias": "ai",
+        "meta": "@ai",
+        "userDefined": false
+      },
+      {
+        "text": " systems",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541434826
+  },
+  {
+    "id": "7568848b-36c2-40df-bd22-e0f83e830783",
+    "data": [
+      {
+        "text": "Tell me about Ethics AI systems panel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541434826
+  },
+  {
+    "id": "fd9089b3-1f38-49a1-b401-f97f5a4ce350",
+    "data": [
+      {
+        "text": "Ethics and AI Systems",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540483695
+  }
+]

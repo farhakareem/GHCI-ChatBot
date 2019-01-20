@@ -1,0 +1,74 @@
+[
+  {
+    "id": "23cce5f2-0c9e-4beb-9c36-eee913690b8b",
+    "data": [
+      {
+        "text": "stochastic numeric data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541522879
+  },
+  {
+    "id": "b83e2c40-1fa1-4f55-92c4-976a5dd9cca3",
+    "data": [
+      {
+        "text": "dynamic modeling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541522879
+  },
+  {
+    "id": "188a3795-0ff5-4a02-8268-ab5e9be0c67f",
+    "data": [
+      {
+        "text": "Dynamic Modeling of Stochastic Numeric Data using Connectionism Systems ",
+        "userDefined": false
+      },
+      {
+        "text": "is what?",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541134539
+  },
+  {
+    "id": "2acedd68-8559-4999-a020-34f1533fcd3b",
+    "data": [
+      {
+        "text": "Tell me about",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " Dynamic Modeling of Stochastic Numeric Data using Connectionism Systems.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541134539
+  },
+  {
+    "id": "7c8198df-165d-4d8a-bebf-5bd615f93567",
+    "data": [
+      {
+        "text": "Dynamic Modeling of Stochastic Numeric Data using Connectionism Systems.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540482946
+  }
+]

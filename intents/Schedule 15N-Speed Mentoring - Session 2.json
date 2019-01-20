@@ -1,0 +1,46 @@
+{
+  "id": "53f1534a-8bd2-4369-855f-d4c5fde52cdb",
+  "name": "Schedule 15N-Speed Mentoring - Session 2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5c735ae1-b79e-4364-846d-a1ac25126392",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Are you just beginning your career, inundated with questions and doubts? Want to get insights into the corporate world from seasoned players? Do you need spot mentoring for a specific question that has been on your mind? This session is for you! Experienced women in technology from the AnitaB.org volunteering community will be your guide and provide the answers you need to shape your career. Session format: Mentors will be available to answer your questions and guide you on your career path; 15 minutes will be provided for each group with each mentor; At the end of 15 minutes the group will move on to the next mentor."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541611334,
+  "fallbackIntent": false,
+  "events": []
+}

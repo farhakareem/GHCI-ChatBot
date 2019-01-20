@@ -1,0 +1,159 @@
+{
+  "id": "8f056396-4c0d-43fe-9103-c51146dbb7d0",
+  "name": "Schedule-Track wise-iConnect",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "list_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "iConnect sessions",
+          "subtitle": "GHCI 18",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "1",
+                "synonyms": []
+              },
+              "title": "Personal Agility - The Success Mantra of the Achievers",
+              "description": "November 15 | 9-10 AM |  Location: Hibiscus | Speakers: Meghana Niranjan, Savitha SR"
+            },
+            {
+              "optionInfo": {
+                "key": "2",
+                "synonyms": []
+              },
+              "title": "RPA to Artificial Intelligence - Powering Financial Services Efficiency",
+              "description": "November 15 | 10.15-11.15 AM | Location: Hibiscus | Speakers: Kanchan Joshi, Uma Bhaktha"
+            },
+            {
+              "optionInfo": {
+                "key": "3",
+                "synonyms": []
+              },
+              "title": "Machine Learning, Open Source and Digitization - Demystified",
+              "description": "November 15 | 11-12.30 pm | Location: Cassia | Speakers: Nidhi Gopal and November 15 | 1.30-3 pm |  Location: Cassia | Speakers: Nidhi Gopal"
+            },
+            {
+              "optionInfo": {
+                "key": "4",
+                "synonyms": []
+              },
+              "title": "Building Conversational Experiences with Google Assistant",
+              "description": "November 15 | 11.30-12.30 pm | Location: Hibiscus | Speakers: Lakshya Sivaramakrishnan, Sonali Rahagude"
+            },
+            {
+              "optionInfo": {
+                "key": "5",
+                "synonyms": []
+              },
+              "title": "Evolution of SDLC (Software Development Life Cycle) through DevOps and Knowledge Management",
+              "description": "November 15 | 1.30-2.30 pm |  Speakers: Roopa Sunder Raj, Bhasker Sathyamurthy"
+            },
+            {
+              "optionInfo": {
+                "key": "6",
+                "synonyms": []
+              },
+              "title": "Gamification \u0026 The Process of Incorporating Game Design \u0026 Techniques in an Enterprise Setup",
+              "description": "November 15 | 1.30-2.30 pm | Location: Hibiscus | Speakers: Vidya Samavedam"
+            },
+            {
+              "optionInfo": {
+                "key": "7",
+                "synonyms": []
+              },
+              "title": "Cloud Enablement in Fintech",
+              "description": "November 15 | 2.45-3.45 pm | Location: Jacaranda |  Speakers: Debra J. Chrapaty"
+            },
+            {
+              "optionInfo": {
+                "key": "8",
+                "synonyms": []
+              },
+              "title": "Generation Z Cloud Applications: Performance, Scalability, Microservices, AI",
+              "description": "November 15 | 2.45-3.45 pm |  Location: Food Court (Upper Level)  | Speakers: Bhargavi Jogula, Manish Palaparthy"
+            },
+            {
+              "optionInfo": {
+                "key": "9",
+                "synonyms": []
+              },
+              "title": "Agile to Scaled Agile in the Automotive domain – A Case Study",
+              "description": "November 15 | 2.45-3.45 pm |  Location: Parijatha | Speakers: Sapna Nair"
+            },
+            {
+              "optionInfo": {
+                "key": "10",
+                "synonyms": []
+              },
+              "title": "Alice’s Adventure in Cyber World",
+              "description": "November 15 | 3.15-4.15 pm | Location: Cassia | Speakers: Snigdha Singh, Suneet Chandna"
+            },
+            {
+              "optionInfo": {
+                "key": "11",
+                "synonyms": []
+              },
+              "title": "A Practical Guide to Transforming a Company and a Career",
+              "description": "November 16 | 9-10 am |  Location: Cassia | Speakers: Sheila Rohra"
+            },
+            {
+              "optionInfo": {
+                "key": "12",
+                "synonyms": []
+              },
+              "title": "Don’t Give up – Be Resilient, Real, Empowered",
+              "description": "November 16 | 11.30-12.30 am | Location: Hall 2 (Lower Level)  |  Speakers: John Burns, Pritesh Johar, Monika Pradhan, Sushma Singh"
+            },
+            {
+              "optionInfo": {
+                "key": "13",
+                "synonyms": []
+              },
+              "title": "What is Intelligent Enterprise and Why Does it Matter",
+              "description": "November 16 | 1:30 - 2:30 PM | Location: Food Court (Upper Level) | Speakers: Manjusha Nair, Srikanth Gopalakrishnan"
+            },
+            {
+              "optionInfo": {
+                "key": "14",
+                "synonyms": []
+              },
+              "title": "You Impact Your Outcome",
+              "description": "November 16 | 1:30 - 2:30 PM | Location: Glass Room - Food Court | Speakers: Renu Kotian, Vandana Sharma"
+            },
+            {
+              "optionInfo": {
+                "key": "15",
+                "synonyms": []
+              },
+              "title": "Building Large Distributed Systems",
+              "description": "November 16 | 1:30 - 2:30 PM | Location: Hall 2 (Lower Level) | Speakers: Dr Jaideep Ganguly"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "These are the sessions under the track : iConnect. How else may I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541515368,
+  "fallbackIntent": false,
+  "events": []
+}

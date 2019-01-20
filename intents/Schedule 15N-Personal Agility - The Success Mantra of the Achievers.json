@@ -1,0 +1,30 @@
+{
+  "id": "05f1f60e-2c06-4a9a-982a-5ff490c71b60",
+  "name": "Schedule 15N-Personal Agility - The Success Mantra of the Achievers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Personal Agility is a simple, easy-to-use framework to help you figure out and do more of what really matters. The workshop aims to acquaint the participants with the benefits which can be realized using Personal agility both at professional and personal front. Exercise will aim at putting together the following what matters, what is important, what is urgent, Done this week-with one example each from professional and personal front. The exercise will further get on to building Trello boards or equivalent for visualization.How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541610539,
+  "fallbackIntent": false,
+  "events": []
+}

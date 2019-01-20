@@ -1,0 +1,76 @@
+[
+  {
+    "id": "2da060c1-3d08-411a-a6bf-3c61a3eae3a4",
+    "data": [
+      {
+        "text": "AI",
+        "alias": "ai",
+        "meta": "@ai",
+        "userDefined": false
+      },
+      {
+        "text": " to our needs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541184230
+  },
+  {
+    "id": "2f86e114-cef7-4a38-83b0-cb461688204c",
+    "data": [
+      {
+        "text": "AI",
+        "alias": "ai",
+        "meta": "@ai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541184230
+  },
+  {
+    "id": "016d05f6-fd62-4a68-8968-e6b2e1feae57",
+    "data": [
+      {
+        "text": "bending ",
+        "userDefined": false
+      },
+      {
+        "text": "AI",
+        "alias": "ai",
+        "meta": "@ai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541184230
+  },
+  {
+    "id": "f4b9cb74-70d7-47b4-a1c1-ed34cb7b52b6",
+    "data": [
+      {
+        "text": "bending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541184230
+  },
+  {
+    "id": "29b8f3e2-0b1d-4b46-9f41-085acb1fbf78",
+    "data": [
+      {
+        "text": "Bending AI to our Needs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540476766
+  }
+]

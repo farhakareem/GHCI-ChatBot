@@ -1,0 +1,37 @@
+{
+  "id": "5e266053-47ed-4b0b-9a0e-b1da69fc647c",
+  "name": "Schedule 15N-Quantum Cryptography Based Hash Generation for Blockchain  Technology",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Blockchain enables security in distributed public ledgers that hold immutable data. It can be used to secure and encrypted.data which makes it impossible to alter any sensitive transactions. Blockchain has opened the possibilities of many reliable and convenient services but the security issues are still unexplored. Looking at importance of security provisioning and subsequent research gap, this manuscript presents a feasible solution by means of quantum cryptography highlighting the benefits of quantum computing in generating hashes. A theoretical framework is proposed to emphasize the use of quantum cryptography in the blockchain."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541610850,
+  "fallbackIntent": false,
+  "events": []
+}

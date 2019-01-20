@@ -1,0 +1,39 @@
+{
+  "id": "f944f6d7-9566-47cc-8d90-a519121ebb83",
+  "name": "Schedule 15N-Vision Based Railway Track Monitoring Using Deep Learning",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5fc3c28f-3784-4a65-8109-395c1b9f5451",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A complete automated surveillance of railway track defects and assets has always been a challenge because both traditional image processing methods and deep learning classifiers trained from scratch fail to generalize to novel scenarios of real world, given limited amount of labeled data. Advancements in transfer learning have enabled machine learning models utilize knowledge from a related domain. In this paper, we show that using latest CNN architectures with transfer learning provides the model understanding of real-world objects and enables training accurate, production scale classifiers with limited data. How else may I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541605026,
+  "fallbackIntent": false,
+  "events": []
+}

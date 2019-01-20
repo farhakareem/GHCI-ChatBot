@@ -1,0 +1,74 @@
+{
+  "id": "ab12b039-eb0d-405d-b687-710239a3088d",
+  "name": "Schedule 15N-GHCI 18 Career Fair",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "250595ac-3aa3-4ad2-93d2-9f5d2044813e",
+          "required": false,
+          "dataType": "@GHCI",
+          "name": "GHCI",
+          "value": "$GHCI",
+          "isList": false
+        },
+        {
+          "id": "4ddd6276-200d-4afb-9ddb-dc6cb678b07e",
+          "required": false,
+          "dataType": "@CareerFair",
+          "name": "CareerFair",
+          "value": "$CareerFair",
+          "isList": false
+        },
+        {
+          "id": "7a1a26a4-c87a-492f-8306-f638c15461ea",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Career Fair Venue"
+            },
+            {
+              "title": "Career Fair Timing"
+            },
+            {
+              "title": "Career Fair companies"
+            },
+            {
+              "title": "Schedule"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The GHCI 18 Career Fair gives women professionals and students from technical backgrounds the chance to meet top recruiters from global technology companies. Individuals can explore internships and full-time job opportunities.\nHow else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541819961,
+  "fallbackIntent": false,
+  "events": []
+}

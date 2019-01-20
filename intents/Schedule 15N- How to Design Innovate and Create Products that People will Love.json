@@ -1,0 +1,37 @@
+{
+  "id": "dc953a04-77b7-45c4-96ac-964c76905026",
+  "name": "Schedule 15N- How to Design Innovate and Create Products that People will Love",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ceeefa0a-336a-413e-9e03-c520e11d149d",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A common misconception is that design is limited to designers, user interfaces and pretty pictures. It is the entire experience your customer has with your company / brand / product at every touchpoint. Therefore, design is becoming a fundamental skill everyone in the company should possess. Come hear a passionate groups of women leaders who will share their experiences leading businesses by design and revolutionized their customers lives. Learn how you can be pick the skill to design, tap into your untapped design potential and craft products with great user experience. Remember, Tim Brown, CEO of IDEO said, Design is too important to be left only to designers. How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541701060,
+  "fallbackIntent": false,
+  "events": []
+}

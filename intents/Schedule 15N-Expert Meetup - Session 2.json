@@ -1,0 +1,45 @@
+{
+  "id": "9ac5cdcc-9a0e-4c0c-8831-58b1a0cdf302",
+  "name": "Schedule 15N-Expert Meetup - Session 2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "83fa9722-b6f1-40e0-996b-6cfdfb542491",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "GHCI 18 speakers have inspired you with their knowledge and expertise. Now you can get to know them and their journey a little more and ask all the questions you have always wanted to ask through the expert meet up sessions. Our speakers will spend 60-min with the delegates in an informal setting enabling a more open interaction. This is a great opportunity for one to get to know their role models and the inside stories that made them who they are."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541525278,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,55 @@
+[
+  {
+    "id": "b52db431-e32c-48c8-822c-cdaaef603afc",
+    "data": [
+      {
+        "text": "Talk on seamless conversation enabler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541177109
+  },
+  {
+    "id": "e822bcdc-2bcd-4f42-8e0c-a852536b3343",
+    "data": [
+      {
+        "text": "seamless conversation enabler day ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541611272
+  },
+  {
+    "id": "6ee075e9-5e47-4287-9e45-39b9d23475dc",
+    "data": [
+      {
+        "text": "detail about seamless conersation enabler session\u0027",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541177109
+  },
+  {
+    "id": "60fd193a-0c8d-4fab-8317-8b92fbfa55ef",
+    "data": [
+      {
+        "text": "Seamless Conversation Enabler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540486926
+  }
+]

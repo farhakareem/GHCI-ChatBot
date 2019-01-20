@@ -1,0 +1,43 @@
+{
+  "id": "3566856a-464a-4ef9-94bc-576a713346b0",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [
+        {
+          "name": "DefaultFallbackIntent-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I didn\u0027t get that. Can you say it again?  If you selected an event on the schedule, please re-select the event.",
+            "Can you say that again?  If you selected an event on the schedule, please re-select the event.",
+            "I didn\u0027t get that. Can you repeat?  If you selected an event on the schedule, please re-select the event.",
+            "I missed that, say that again?  If you selected an event on the schedule, please re-select the event.",
+            "I didn\u0027t get that. Can you say that again? If you selected an event on the schedule, please re-select the event."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541610943,
+  "fallbackIntent": true,
+  "events": []
+}

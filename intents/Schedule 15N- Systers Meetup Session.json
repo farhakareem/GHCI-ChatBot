@@ -1,0 +1,36 @@
+{
+  "id": "762abd6a-d4d4-4e64-9ec5-e4b7510514b8",
+  "name": "Schedule 15N- Systers Meetup Session",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "69564dca-5b6c-41cf-ad82-ebf9d2711b44",
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Meetup session for the Systers India community to network, share ideas and collaborate. All existing Systers and those interested are invited to join this session. How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541700968,
+  "fallbackIntent": false,
+  "events": []
+}

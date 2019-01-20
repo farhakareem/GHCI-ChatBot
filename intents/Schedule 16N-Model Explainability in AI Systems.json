@@ -1,0 +1,39 @@
+{
+  "id": "21c6b798-f672-4067-a69a-d66225b70b4c",
+  "name": "Schedule 16N-Model Explainability in AI Systems",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "377efa9b-6319-4293-934b-230ebdd7bcff",
+          "required": false,
+          "dataType": "@ai",
+          "name": "ai",
+          "value": "$ai",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We will review basics of white box machine learning models, viz. linear and logistic regressions and classification and regression trees, and layout to the audience the need for having interpretable models. Following this, we will take the audience through the concepts of variable importance and model visualization. We will go into the details of how to interpret models by inspecting its coefficients and the tree structure. We will conclude the session with some of the newer techniques like LIME, which can be used for more complex models such as neural networks, by using an example to explain the classification of instances. Prior familiarity with machine learning will be necessary. A working laptop with internet connection, python 3.6, scikit-learn, and jupyter notebook pre-installed will be required.\nHow else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541613981,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "id": "ad7be2f3-c59c-403e-89c1-814c60a24a2f",
+    "data": [
+      {
+        "text": "ghci",
+        "alias": "GHCI",
+        "meta": "@GHCI",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " expo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541181288
+  },
+  {
+    "id": "231245b0-a494-4eb4-92e3-354b5360a3f7",
+    "data": [
+      {
+        "text": "ghci",
+        "alias": "GHCI",
+        "meta": "@GHCI",
+        "userDefined": false
+      },
+      {
+        "text": " expo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541181288
+  },
+  {
+    "id": "ce53f9be-64af-43a5-91a7-935b1f01a4ed",
+    "data": [
+      {
+        "text": "expo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541181288
+  },
+  {
+    "id": "89dd59b0-303f-4652-8747-5a7338f18785",
+    "data": [
+      {
+        "text": "tech expo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541181288
+  },
+  {
+    "id": "67aa39c4-f6ff-4b1c-83f6-5a4501754ed7",
+    "data": [
+      {
+        "text": "GHCI 18 Tech Expo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540476901
+  }
+]

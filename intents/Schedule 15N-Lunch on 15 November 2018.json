@@ -1,0 +1,37 @@
+{
+  "id": "cfb80853-bf59-4778-84c3-8ff7b1b6e531",
+  "name": "Schedule 15N-Lunch on 15 November 2018",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you ?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Lunch will be served in Hall 1 and 2 (Upper Level). Best time to interact and network with people."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541609675,
+  "fallbackIntent": false,
+  "events": []
+}

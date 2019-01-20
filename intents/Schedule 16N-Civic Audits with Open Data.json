@@ -1,0 +1,30 @@
+{
+  "id": "0ed0d911-1d57-4b34-98ca-95233223c306",
+  "name": "Schedule 16N-Civic Audits with Open Data",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Open City is a public data platform for the urban citizen to help bring in visibility and transparency into local governance and enable data based decision making in cities. One of the goal is to build an efficient and effective public data collection and analysis mechanism that can help drive civic audits. Civic and social audits are used to measure if the objective of government projects has been achieved. E.g to audit a road works project, citizens need to access data and documents about the project and evaluate it against the ground level observations, in terms of quality, and other parameters. The audit workflow include data collection, data analysis, correlating with ground observation and audit reports. The two key technology aspects in the workflow relate to data collection and analysis. Crowdsourcing Data Collection Tool: A large pool of citizens can collect data in an asynchronous and ad hoc manner, breaking up data requirements, and collating each data point into cohesive datasets. Automated Analysis and Intelligent Algorithms. Different datasets need to be taxonomised and linked together to derive meaning. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541612836,
+  "fallbackIntent": false,
+  "events": []
+}

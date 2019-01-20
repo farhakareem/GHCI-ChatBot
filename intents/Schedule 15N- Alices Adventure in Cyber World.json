@@ -1,0 +1,37 @@
+{
+  "id": "3e0d1f31-658e-4865-81f4-bdb070c2e762",
+  "name": "Schedule 15N- Alices Adventure in Cyber World",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "db3fcace-6aaf-40b9-95e3-de1345997c05",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "“There are only two types of companies: those who have been hacked and those that will be” – Robert Mueller, ex FBI Director Equifax, Sony, The DNC Governments, Various Companies, and Individuals have all faced devastating cyber-attacks. As nation-state tools leak into the hands of criminals, the gap is widening between attackers and defense tools. “Alice’s Adventure in Cyber World” is an interactive and role-playing workshop challenging participants to think like a cyber attacker. It is modeled on a “Choose Your Own Adventure” game, with participants acting in the role of a criminal looking to steal money from a fictional bank and eventually understanding the guiding principles to defend those attacks. This Workshop covers various types of adversaries, motivation of an adversary, inside look of an attack and defence approaches.How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541701272,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,92 @@
+{
+  "id": "e8365aa7-1000-4f0b-a1aa-8cca8afc0e8c",
+  "name": "Schedule-Track wise-Original Research",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "list_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Original Research",
+          "subtitle": "GHCI 18",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "1",
+                "synonyms": []
+              },
+              "title": "\"Multilingual Natural Language Processing\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\"",
+              "description": "November 15 | 9-10 AM | Location: Parijatha | Speakers: Sudeshna Sarkar"
+            },
+            {
+              "optionInfo": {
+                "key": "2",
+                "synonyms": []
+              },
+              "title": "Bending AI to our Needs",
+              "description": "November 15 | 10.15-11.15 AM | Location: Parijatha | Speakers: Shriram Revankar"
+            },
+            {
+              "optionInfo": {
+                "key": "3",
+                "synonyms": []
+              },
+              "title": "Inclusive Design and Technologies for Accessibility",
+              "description": "November 15 | 11.30-12.30 PM | Location: Parijatha | Speakers: Swami Manohar"
+            },
+            {
+              "optionInfo": {
+                "key": "4",
+                "synonyms": []
+              },
+              "title": "Fronthaul Latency Considerations and Self-backhaul Mechanisms in LTE Advanced and 5G Networks",
+              "description": "November 16 | 9 - 10 AM | Location: Hibiscus  | Speakers: Shalini Gulati, Richa Gupta"
+            },
+            {
+              "optionInfo": {
+                "key": "5",
+                "synonyms": []
+              },
+              "title": "Bio-inspired Micro and Nano Scale Engineering: The Realm of Endless Innovations",
+              "description": "November 16 | 10:15 - 11:15 AM | Location: Hibiscus  | Speakers: Rudra Pratap"
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "iconnect"
+            },
+            {
+              "title": "Career360"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "These are the sessions for the track : Original Research. How else may I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541511798,
+  "fallbackIntent": false,
+  "events": []
+}

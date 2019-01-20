@@ -1,0 +1,68 @@
+[
+  {
+    "id": "335a5ff2-8e1f-4e9d-a366-f05abd085549",
+    "data": [
+      {
+        "text": "Be resilient.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541700785
+  },
+  {
+    "id": "f295e675-10aa-4274-9eed-dead987ef0ea",
+    "data": [
+      {
+        "text": "Don\u0027t Give up - Be Resilient, Real, Empowered ",
+        "userDefined": false
+      },
+      {
+        "text": "is what ?",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541700746
+  },
+  {
+    "id": "eae1e24a-a3b5-4c24-9264-82cc2e715474",
+    "data": [
+      {
+        "text": "What is Don\u0027t Give up - Be Resilient, Real, Empowered ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541700746
+  },
+  {
+    "id": "cf3cc024-0823-47fc-9105-4ea1c1b34505",
+    "data": [
+      {
+        "text": "Tell me about Don\u0027t Give up - Be Resilient, Real, Empowered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541700746
+  },
+  {
+    "id": "4c4a16b1-104f-47b0-87d2-29a4673838b8",
+    "data": [
+      {
+        "text": "Don\u0027t Give up - Be Resilient, Real, Empowered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541700746
+  }
+]

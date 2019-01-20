@@ -1,0 +1,62 @@
+{
+  "id": "e0510a61-4dc0-44f3-801a-89b6aa6efa80",
+  "name": "Career Fair Companies",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "56c5e7d2-af15-44c3-9a2b-4d93454a4a82",
+          "required": false,
+          "dataType": "@CareerFair",
+          "name": "CareerFair",
+          "value": "$CareerFair",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Career Fair Venue"
+            },
+            {
+              "title": "Career Fair Timing"
+            },
+            {
+              "title": "Schedule"
+            }
+          ]
+        },
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "destinationName": "Companies",
+          "url": "https://ghcindia.anitab.org/ghci-18-sponsors/"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can go to the link below to know more about the GHCI 18 Sponsors. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541785486,
+  "fallbackIntent": false,
+  "events": []
+}

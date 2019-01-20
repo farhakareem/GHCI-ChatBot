@@ -1,0 +1,68 @@
+[
+  {
+    "id": "613c238c-95df-48bd-b90e-313fa92c2082",
+    "data": [
+      {
+        "text": "Dynamic Fog Node Detection for Mobile IoT on 5G ",
+        "userDefined": false
+      },
+      {
+        "text": "November 16",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541181211
+  },
+  {
+    "id": "64624651-9ed6-4046-9a1f-11d3e1dcd793",
+    "data": [
+      {
+        "text": "Dynamic Fog Node Detection for Mobile IoT on 5G",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540478706
+  },
+  {
+    "id": "a29c61cd-4027-41b2-ae89-ba8cabaadac8",
+    "data": [
+      {
+        "text": "Mobile iot on 5G",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541181211
+  },
+  {
+    "id": "41409039-d9b1-4eed-9960-f954c6b7739d",
+    "data": [
+      {
+        "text": "Dynamic Fog Node Detection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541181211
+  },
+  {
+    "id": "6f1135c9-0413-41b8-bbda-b13815fa477f",
+    "data": [
+      {
+        "text": "16 November Dynamic Fog Node Detection for Mobile IoT on 5G",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1541181211
+  }
+]

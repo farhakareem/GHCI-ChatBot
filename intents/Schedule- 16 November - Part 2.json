@@ -1,0 +1,219 @@
+{
+  "id": "5d7a852a-c492-48da-9a60-b8a5aa080a94",
+  "parentId": "9706766c-37ed-4fcc-9ddc-68b883373781",
+  "rootParentId": "9706766c-37ed-4fcc-9ddc-68b883373781",
+  "name": "Schedule- 16 November - Part 2",
+  "auto": true,
+  "contexts": [
+    "Schedule-16November-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Schedule-16November.Schedule-16November-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "Anything else you would like to know about?"
+        },
+        {
+          "type": "list_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "November 16, 2018",
+          "subtitle": "GHCI Session Details",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "31",
+                "synonyms": []
+              },
+              "title": "Speed Mentoring - Session 3",
+              "description": "11:30 AM - 12:30 PM | Food Court (Lower Level)"
+            },
+            {
+              "optionInfo": {
+                "key": "32",
+                "synonyms": []
+              },
+              "title": "Don’t Give up – Be Resilient, Real, Empowered",
+              "description": "11:30 AM - 12:30 PM | Hall 2 (Lower Level) | Speakers: John Burns, Pritesh Johar, Monika Pradhan, Sushma Singh"
+            },
+            {
+              "optionInfo": {
+                "key": "33",
+                "synonyms": []
+              },
+              "title": "Lucy: Making the Workplace Safe",
+              "description": "11:30 AM - 11:50 AM | Hibiscus | Speakers: Devang Gaur"
+            },
+            {
+              "optionInfo": {
+                "key": "34",
+                "synonyms": []
+              },
+              "title": "Design for Emerging Markets",
+              "description": "11:30 AM - 12:30 AM | Food Court (Upper Level) | Speakers: Naman Mathur, Muzayun Mukhtar"
+            },
+            {
+              "optionInfo": {
+                "key": "35",
+                "synonyms": []
+              },
+              "title": "Peer Couple to Couple Approach for Better Maternal Health Outcomes",
+              "description": "11:50 AM - 12:10 PM | Hibiscus | Speakers: Nataraj Kuntagod"
+            },
+            {
+              "optionInfo": {
+                "key": "36",
+                "synonyms": []
+              },
+              "title": "Extended Reality",
+              "description": "12:00 PM - 12:30 PM | Glass Room - Food Court | Speakers: Marin Grace"
+            },
+            {
+              "optionInfo": {
+                "key": "37",
+                "synonyms": []
+              },
+              "title": "Programming Efficiently with One Key at a Time",
+              "description": "12:10 PM - 12:30 PM | Hibiscus | Speakers: Pooja Desai"
+            },
+            {
+              "optionInfo": {
+                "key": "38",
+                "synonyms": []
+              },
+              "title": "Lunch on 16 November, 2018",
+              "description": "12:30 PM - 1:30 PM | Hall 1 and 2 (Upper Level)"
+            },
+            {
+              "optionInfo": {
+                "key": "39",
+                "synonyms": []
+              },
+              "title": "Civic Audits with Open Data",
+              "description": "1:30 PM - 2:00 PM | Hibiscus | Speakers: Meenakshi Ramesh"
+            },
+            {
+              "optionInfo": {
+                "key": "40",
+                "synonyms": []
+              },
+              "title": "Learn to Design for Virtual Reality",
+              "description": "1:30 PM - 3:00 PM | Cassia | Speakers: Muktha Hiremath, Monisha Pattanaik, Aparna Kongot"
+            },
+            {
+              "optionInfo": {
+                "key": "41",
+                "synonyms": []
+              },
+              "title": "What is Intelligent Enterprise and Why Does it Matter",
+              "description": "1:30 PM- 2:30 PM | Food Court (Upper Level) | Speakers: Manjusha Nair, Srikanth Gopalakrishnan"
+            },
+            {
+              "optionInfo": {
+                "key": "42",
+                "synonyms": []
+              },
+              "title": "You Impact Your Outcome",
+              "description": "1:30 PM- 2:30 PM | Glass Room - Food Court | Speakers: Renu Kotian, Vandana Sharma"
+            },
+            {
+              "optionInfo": {
+                "key": "43",
+                "synonyms": []
+              },
+              "title": "Model Explainability in AI Systems",
+              "description": "1:30 PM- 3:00 PM | Gulmohar | Speakers: Rushi Bhatt, Dimple Sadhwani"
+            },
+            {
+              "optionInfo": {
+                "key": "44",
+                "synonyms": []
+              },
+              "title": "Speed Mentoring - Session 4",
+              "description": "1:30 PM- 2:30 PM | Food Court (Lower Level)"
+            },
+            {
+              "optionInfo": {
+                "key": "45",
+                "synonyms": []
+              },
+              "title": "Building Large Distributed Systems",
+              "description": "1:30 PM- 2:30 PM | Hall 2 (Lower Level) | Speakers: Dr Jaideep Ganguly"
+            },
+            {
+              "optionInfo": {
+                "key": "46",
+                "synonyms": []
+              },
+              "title": "Own Your Awesome Digital Personality",
+              "description": "1:30 PM- 3:00 PM | Parijatha | Speakers: Susmita Das Gupta"
+            },
+            {
+              "optionInfo": {
+                "key": "47",
+                "synonyms": []
+              },
+              "title": "Augmented Reality Head-up Display",
+              "description": "1:30 PM- 2:00 PM | Jacaranda | Speakers: Lee Aby Zachariah"
+            },
+            {
+              "optionInfo": {
+                "key": "48",
+                "synonyms": []
+              },
+              "title": "SmartCity@Ecity – Technology for Better Quality of Life",
+              "description": "2:00 PM - 2:30 PM | Hibiscus | Speakers: Ashish Khare"
+            },
+            {
+              "optionInfo": {
+                "key": "49",
+                "synonyms": []
+              },
+              "title": "Pattern Based Authentication System",
+              "description": "2:00 PM - 2:30 PM | 2:00 PM - 2:30 PM | Speakers: Surya Kiran Satyavarapu"
+            },
+            {
+              "optionInfo": {
+                "key": "50",
+                "synonyms": []
+              },
+              "title": "Expert Meetup - Session 4",
+              "description": "2:45 PM - 3:45 PM | Lagoon Area (Convention Centre)"
+            },
+            {
+              "optionInfo": {
+                "key": "51",
+                "synonyms": []
+              },
+              "title": "High Tea on 16November, 2018",
+              "description": "3:30 PM - 4:30 PM | Hall 1 and 2 (Upper Level)"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The rest of the schedule is as below:"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541804116,
+  "fallbackIntent": false,
+  "events": []
+}

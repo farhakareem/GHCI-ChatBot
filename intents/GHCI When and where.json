@@ -1,0 +1,72 @@
+{
+  "id": "0ad20bce-0d37-4b9f-9e81-187e5c984466",
+  "name": "GHCI When and where",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1a455ae6-ad5a-4ec9-8ce6-0d3865463fab",
+          "required": false,
+          "dataType": "@GHCI",
+          "name": "GHCI",
+          "value": "$GHCI",
+          "isList": false
+        },
+        {
+          "id": "40444392-7421-4fb6-adb3-81f26cd52b02",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "GHCI Schedule"
+            },
+            {
+              "title": "GHCI Career Fair"
+            },
+            {
+              "title": "WEQ Award"
+            },
+            {
+              "title": "GHCI Keynote Speaker 1"
+            },
+            {
+              "title": "GHCI Keynote Speaker 2"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "GHCI 18 is scheduled for November 14,15,16 at Bangalore International Exhibition Centre, Bangalore. How else can I help you ?",
+            "This year\u0027s Grace Hopper Celebration India will take place on the 14th,15th and 16th of November at Bangalore International Exhibition Centre, Bangalore. How else can I help you ?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541571333,
+  "fallbackIntent": false,
+  "events": []
+}

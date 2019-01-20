@@ -1,0 +1,30 @@
+{
+  "id": "bcfb1e89-d7f6-4029-91ca-cec4d841a4dd",
+  "name": "Schedule 16N-Extended Reality",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Extended Reality Market is expected to Grow from $14Bn in 2017 to $143Bn by 2020. Extended Reality(XR) is still in its infancy but there is tremendous potential. By making well-planned forays innovative companies can transform how their customers and employees work, live and play by creating best-in-class, end-to-end AR/VR experiences that fuel business growth. XR is shaping the way we interact, communicate and assimilate information. It has widespread applications in both the consumer and enterprise world. The bridge between exploratory, consumer and enterprise world are blurring when it comes to XR technologies. Additionally, we see a growing interest in design for presence, empathy, and intimacy to bring people closer. The session will Introduce the New Worlds of Extended Reality – Assisted Reality, Augmented Reality and Virtual reality and its applications with examples around Immersive learning and Virtual therapy. ; Talk about see real examples of 1) new ways to experience reality 2) how XR is empowering -going beyond the real world physical constraints to design, feel/think and achieve the impossible or unimaginable; Expose the audience to the technology behind it. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541613293,
+  "fallbackIntent": false,
+  "events": []
+}

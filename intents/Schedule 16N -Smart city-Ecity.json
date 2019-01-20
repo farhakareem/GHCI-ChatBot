@@ -1,0 +1,30 @@
+{
+  "id": "860dc665-9f8d-4980-8f64-595e76254ea6",
+  "name": "Schedule 16N -Smart city-Ecity",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "SmartCity@Ecity – Technology for better quality of life Electronics City is uniquely positioned with self-governance, participative citizens and exposure to latest technology that augurs well with the definition of SMART City. Smart city is a very good example of use of technology for good governance and better quality of life for citizens. Active participation of citizens is possible as technology helps them to be connected with authorities with minimum effort. In addition smart city initiative at Electronics city allows companies to use its smart city infrastructure to test out their SMART City products and services. It promotes innovation and provides alternate revenue streams in SMART city products and services for its members. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541612013,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": "bc858479-5236-441b-a856-7060a0d4a9f4",
+  "name": "Schedule 15N-eScribe-Enabling Independence",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f70edd24-8fbf-4a18-a80c-1019810f87f9",
+          "required": false,
+          "dataType": "@sys.color",
+          "name": "color",
+          "value": "$color",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Students with disability face challenges at different walks of life, writing examinations being a primary one. Disabilities like visual impairment and physical disability make the students dependent on others to write their examinations which involves a lot of complexities. Assistive technologies can help the students be independent and compete with fellow students from mainstream society on par. This paper is not about reinventing the wheel, rather a proposal on smart integration of appropriate technologies to build a solution beneficial to the society."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541524723,
+  "fallbackIntent": false,
+  "events": []
+}

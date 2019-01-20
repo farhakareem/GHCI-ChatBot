@@ -1,0 +1,37 @@
+{
+  "id": "09daad7d-2fd4-4ce3-94c5-b752ff9f85f8",
+  "name": "Schedule 15N- AI-Powered Analytics and Automation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "80702a1f-abc6-4099-be3f-e2092f4a30cc",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "American Express is a 160+ year old start-up which processes more than a trillion dollars of spend for its 30MM+ customers. Numerous complex decisions need to be made every time we touch our customers\u0027 lives to ensure delightful experience for them. As a pioneer in the financial sector, we have been practicing data-driven decision making integrated with human intuition for long. In this session, you will learn about the broad landscape of Artificial Intelligence and Machine Learning work in American express as well as examples of cutting edge techniques and solutions that we are developing. These would range from traditional risk problems say industry best fraud protection mechanism to new generation of omni-channel customer experiences and process automation using state of the art deep learning among others. Finally, the session would give plenty of opportunity for the audience to interact with the panellists to get their questions answered.How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541791977,
+  "fallbackIntent": false,
+  "events": []
+}

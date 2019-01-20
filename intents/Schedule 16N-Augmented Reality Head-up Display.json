@@ -1,0 +1,30 @@
+{
+  "id": "2437eaa8-931e-44c6-92f6-b768ab532446",
+  "name": "Schedule 16N-Augmented Reality Head-up Display",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Automotive Head-up Display (HUD) was introduced to transparently present data like speedometer and navigation systems in the automobile, without requiring users to look away from their usual viewpoints. Automotive HUDs have progressed rapidly in the last decade, moving from a smaller field of view (FOV) with limited colors to support wide FOV with multi-color full frame video capability. The latest advancements enable Augmented Reality (AR) in HUD that expands the FOV of the virtual image, allowing navigational aids, road warning signs, cruise control warnings and so on to be superimposed on the real-world objects, thus augmenting the driver’s view. The uniqueness of Texas Instruments (TI) DLP® technology makes it possible to solve common design challenges of HUD systems including managing environmental extremes and sunlight thermal loading, delivering high brightness with wide dynamic adjustments and high-resolution capabilities while being polarization independent. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541612601,
+  "fallbackIntent": false,
+  "events": []
+}

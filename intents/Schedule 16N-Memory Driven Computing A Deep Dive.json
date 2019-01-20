@@ -1,0 +1,39 @@
+{
+  "id": "d07135e4-e567-425c-9c9e-3aeeee095a92",
+  "name": "Schedule 16N-Memory Driven Computing A Deep Dive",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7cfe67b9-ba74-4e2b-8392-dda89136a959",
+          "required": false,
+          "dataType": "@sys.address",
+          "name": "address",
+          "value": "$address",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Memory-Driven Computing is a future system architecture being developed by HPE that brings together fast persistent memory, a fast memory fabric, task-specific processing, and a new software stack to address today’s data growth and analytics challenges. The memory hierarchy will include a capacity tier provided by a large pool of shared persistent memory that’s directly accessible over a memory-semantic (i.e., load/store) fabric, as well as a performance tier provided by local private memory. Memory-Driven Computing refers to this paradigm shift in computer architecture, to a more memory-centric model from the traditional processor centric model. This presentation covers an overview of Memory-Driven Computing (MDC), the technology trends enabling Memory-Driven Computing, the benefits MDC provides to applications, along with a specific case study drawn from initial experiences in The Machine. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541613894,
+  "fallbackIntent": false,
+  "events": []
+}

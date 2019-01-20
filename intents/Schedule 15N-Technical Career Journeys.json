@@ -1,0 +1,37 @@
+{
+  "id": "11d6efec-74b7-4617-83d4-cc37a6496888",
+  "name": "Schedule 15N-Technical Career Journeys",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "422e7402-16de-4d16-bd12-04d847feeb9f",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "How many women ‘fellows’ do you know? You may not or may be just a handful. It is not surprising and there is a dire need for more women in technology, on the technical career track. So what does it take to be a technical thought leader, to pursue your passion for coding, testing and playing with tech. This panel session will unravel the stories of women who have persevered through on a tech track. The overall goal is to provide insights which will dismantle barriers that keep women from pursuing their long-term love for computing and technology. There is a perceived lack of role models in the tech space. This session will explore the opportunities, challenges and aspects which will help shape technical careers. How do you build the excitement, the opportunities, how do you tackle the challenges to become an expert in your domain? What are the other tech leadership aspects beyond coding that you will need to build upon so that you can secure your seat on relevant management tables and exercise your judgement/leadership. This session talks about powerful industry examples. How else may I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541611382,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,66 @@
+{
+  "id": "608f0326-6cbe-42da-beec-7c6d8717d273",
+  "name": "Schedule 16N-GHCI 18 Career Fair",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8a18b1b9-dfa6-4e8b-acec-e90f744e2e73",
+          "required": false,
+          "dataType": "@CareerFair",
+          "name": "CareerFair",
+          "value": "$CareerFair",
+          "isList": false
+        },
+        {
+          "id": "79d60f16-2108-4fc2-8fb3-b4a1afadefde",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Career Fair Time"
+            },
+            {
+              "title": "Career Fair Venue"
+            },
+            {
+              "title": "Career Fair Companies"
+            },
+            {
+              "title": "Schedule"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The GHCI 18 Career Fair gives women professionals and students from technical backgrounds the chance to meet top recruiters from global technology companies. Individuals can explore internships and full-time job opportunities. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541820082,
+  "fallbackIntent": false,
+  "events": []
+}

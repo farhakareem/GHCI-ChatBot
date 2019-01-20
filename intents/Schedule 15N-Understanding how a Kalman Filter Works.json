@@ -1,0 +1,38 @@
+{
+  "id": "4237def2-f1ba-4eb2-9197-b4a59ddf40f8",
+  "name": "Schedule 15N-Understanding how a Kalman Filter Works",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you ?",
+          "displayText": "The mathematics behind a Kalman filter looks very intimidating and opaque at first glance. However, on re-adjusting the perspective a little bit, it is extremely easy to understand and appreciate the elegance of the filter. This talk is an attempt at breaking the myth about the complexity of the mathematics behind Kalman filters, and explaining the same using intuitive concepts. Understanding the mathematics behind it will give engineers and students the ability to apply it on a multitude of problems."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Kalman filters are typically used in making an educated guess about what a dynamic system is going to do next, with noisy and uncertain information. A Kalman filter is fast and light on memory, making it the perfect algorithm for real time applications like robotics and satellite tracking. Its ability to give excellent results makes it look magical, and most software engineers still use it like a magical black box."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541611651,
+  "fallbackIntent": false,
+  "events": []
+}

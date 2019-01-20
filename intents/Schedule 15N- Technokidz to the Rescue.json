@@ -1,0 +1,37 @@
+{
+  "id": "be0221eb-1aa8-4b1c-8414-d022a517305a",
+  "name": "Schedule 15N- Technokidz to the Rescue",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "36cf1573-41e6-462f-887c-09c4d0603aeb",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ever wondered what toy cars can do while they are whizzing around? And how 3d printers are involved in saving water? Face recognition is a big buzz word these days. And the problem of missing children is a a very big issue. So how are these topics related? And how are a bunch of school children involved with these topics? The session on “Solving Problems with Technology” will provide an interesting panel discussion wherein we interact with a bunch of innovators, still in their teens, who have been looking at the issues around us And where majority of us see problems, they see solutions For smaller scale emergencies, users register as part of communities, and can check on the safety of other community members immediately post an emergency using a centralized “safe list”. How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541699899,
+  "fallbackIntent": false,
+  "events": []
+}

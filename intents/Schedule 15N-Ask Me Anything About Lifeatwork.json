@@ -1,0 +1,37 @@
+{
+  "id": "2dc0d777-d8e2-4e8f-9fd9-530623baa741",
+  "name": "Schedule 15N-Ask Me Anything About Lifeatwork",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Power play (same gender included )at the workplace can be daunting and intimidating (not referring to sexual harassment). How does one come out strong from the \"power\" play episodes at work? How does one maintain their demeanor and grow from strength to strength? A special Q\u0026A with two veteran women leaders from the IT industry where they will answer questions from the audience on #LifeatWork. Questions about power play at work to the toughest career decisions made, from their biggest advocate to an unforgettable failure, ask these two women leaders anything about career and #lifeatwork."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541612698,
+  "fallbackIntent": false,
+  "events": []
+}

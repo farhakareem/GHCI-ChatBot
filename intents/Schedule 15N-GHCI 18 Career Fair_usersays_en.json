@@ -1,0 +1,107 @@
+[
+  {
+    "id": "e02f4e97-9c82-4903-995c-a8d2a4d08479",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "career fair",
+        "alias": "CareerFair",
+        "meta": "@CareerFair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541181939
+  },
+  {
+    "id": "ad3ba35e-9517-4f77-8e4c-a3bb72c4de12",
+    "data": [
+      {
+        "text": "career fair",
+        "alias": "CareerFair",
+        "meta": "@CareerFair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541181939
+  },
+  {
+    "id": "b4d8f81e-d2db-41e7-ac3e-8dfec1544935",
+    "data": [
+      {
+        "text": "GHCI 18 Career fair ",
+        "userDefined": false
+      },
+      {
+        "text": "is what?",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541130228
+  },
+  {
+    "id": "c9e10d24-ab4f-4ced-b222-082a9b2d64c7",
+    "data": [
+      {
+        "text": "Tell me about",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "GHCI",
+        "alias": "GHCI",
+        "meta": "@GHCI",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "career fair",
+        "alias": "CareerFair",
+        "meta": "@CareerFair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541130228
+  },
+  {
+    "id": "3afb98d2-b666-465f-844f-f014a897d1e7",
+    "data": [
+      {
+        "text": "GHCI 18 Career Fair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540477035
+  }
+]

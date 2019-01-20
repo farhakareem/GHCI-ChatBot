@@ -1,0 +1,36 @@
+{
+  "id": "dc34a31b-a0b7-4220-8c0f-28170bc78af9",
+  "name": "Schedule 15N-Being Disruptively Frugal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "09a09d85-6560-4f60-b629-a0860e6d8f1d",
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Innovation for emerging markets revolves around three fundamental criteria. The ability to identify and prioritize market needs, the ability to create solutions that break down barriers to adoption and finally, the ability to scale the offering. The talk will focus on all three aspects with live examples from GE Healthcare\u0027s experience in launching more than 45 products across 70 emerging economies dealing problems as complex as infant and maternal mortality to lifestyle illnesses such as cardiovascular diseases and oncology. How else may I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541134860,
+  "fallbackIntent": false,
+  "events": []
+}

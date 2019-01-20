@@ -1,0 +1,45 @@
+{
+  "id": "57339d6c-7253-4306-9b62-495ff1602267",
+  "name": "Schedule 15N-High Tea",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b73f272a-ab6f-4a91-92b5-a230aee00457",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you ?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Tea/coffee will be served in Hall 1 and 2 (Upper level)."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541587196,
+  "fallbackIntent": false,
+  "events": []
+}

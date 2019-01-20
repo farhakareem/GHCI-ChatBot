@@ -1,0 +1,37 @@
+{
+  "id": "6804473f-c136-4eb9-9fe7-0166037ab2f6",
+  "name": "Schedule 16N- Dont Give up - Be Resilient Real Empowered",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4fbe6f4f-f249-435b-94f2-d688067f709d",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Even though 50% women join the tech industry, the ratio declines rapidly with more and more women dropping out in early to mid- careers. There is a real reason - the struggles and the expectations faced by women in our society are not trivial and while it is hard to change the culture overnight, it has to start somewhere. Stories change culture and when you connect to a compelling real story – the change starts to happen. Senior women in technology at Credit Suisse will share their stories on how to keep moving forward, be resilient in the face of adversity and make the most of the situation. We will follow through this conversation and talk about things that every organization could do to reduce drop out of women leaders and also share specific examples of what CS is doing to promote diversity and inclusion. How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541795548,
+  "fallbackIntent": false,
+  "events": []
+}

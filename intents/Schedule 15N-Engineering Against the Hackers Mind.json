@@ -1,0 +1,39 @@
+{
+  "id": "a2710f5f-20da-4b79-b2de-213137ad1ebd",
+  "name": "Schedule 15N-Engineering Against the Hackers Mind",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a10eedb0-c884-47e5-b4ce-37d86c8c0663",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Understand the mind of a hacker and what are the known threat vectors. What does a kill chain involve and how does detection of an attack happen? Can the damage be contained? How does AI help in improving the cyber security posture of an organization? What are the solutions being created and how effective are they? This topic might just get you started on a new discovery path into the murderous world of cyber security where the bad guys(hackers) and the good guys(security experts) fight in a never ending battle every day! How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541611816,
+  "fallbackIntent": false,
+  "events": []
+}

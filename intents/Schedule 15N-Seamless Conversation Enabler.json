@@ -1,0 +1,37 @@
+{
+  "id": "ea14361a-9b60-4a8c-9298-5fbeaa46f7f0",
+  "name": "Schedule 15N-Seamless Conversation Enabler",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Disability is the forgotten dimension of \u0027Diversity and Inclusion\u0027. Hearing impaired people are devoid of working opportunities in most of the firms across the world due to their inability in adhering to the universally accepted code of communication, i.e verbal. Very few people are able to understand and communicate using sign language with the deaf. Additionally, the areas in which the deaf are employed are very limited and are mostly desk related or blue collar jobs which act as a major short coming in their career advancement. In order to bridge this gap, an enhanced method of communication can be developed for meeting rooms and conference environments using existing technologies which will enable the deaf to seamlessly communicate with other people. I propose a system to provide a platform for such individuals to be a part of discussions and meetings to actively understand, participate and contribute ideas to the table."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541611272,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "75c378f1-112d-4462-a264-1e1d1a7194f4",
+    "data": [
+      {
+        "text": "One-Shot Learning for Damage Detection: Using Siamese Neural  Network ",
+        "userDefined": false
+      },
+      {
+        "text": "is what?",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541136269
+  },
+  {
+    "id": "a3a33a6b-3beb-42e9-a3a5-1960b7ff6425",
+    "data": [
+      {
+        "text": "Tell me about",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " One-Shot Learning for Damage Detection: Using Siamese Neural  Network",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541136269
+  },
+  {
+    "id": "8ee77cf8-94f0-4fed-bacb-688ad11fe04e",
+    "data": [
+      {
+        "text": "One-Shot Learning for Damage Detection: Using Siamese Neural  Network",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541136269
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "492b0951-42be-4aa0-8ae5-9060dd5a9b15",
+    "data": [
+      {
+        "text": "What are the sessions under Emerging Technologies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541500508
+  },
+  {
+    "id": "a80281a0-78f2-400c-9eb2-87bf8b446d80",
+    "data": [
+      {
+        "text": "Talks under Emerging Technologies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541500508
+  },
+  {
+    "id": "fe946388-dbca-4d94-ac4f-44538f56c2d4",
+    "data": [
+      {
+        "text": "Session under Emerging Technologies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541500508
+  },
+  {
+    "id": "b2a0bc5e-3635-4647-b301-78e8b372fc4f",
+    "data": [
+      {
+        "text": "Emerging Technologies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1541500508
+  },
+  {
+    "id": "f84b9514-a387-424e-8db5-3810458085a2",
+    "data": [
+      {
+        "text": "Emerging Technologies sessions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541500508
+  }
+]

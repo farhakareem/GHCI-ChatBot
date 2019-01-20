@@ -1,0 +1,153 @@
+{
+  "id": "ab47162a-423e-425b-af44-209c2dee1321",
+  "name": "Schedule - Track wise- Trends in platform engineering",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "list_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Trends in Platform Engineering",
+          "subtitle": "GHCI 18",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "1",
+                "synonyms": []
+              },
+              "title": "IC Packaging Technology Trends",
+              "description": "November 15 | 9-9.30 AM | Location: Gulmohar | Speakers: Kavitha Nagarajan"
+            },
+            {
+              "optionInfo": {
+                "key": "2",
+                "synonyms": []
+              },
+              "title": "New Methodologies in Formal Verification Ring the Change in Validation",
+              "description": "November 15 | 9.30-10 AM | Location: Gulmohar | Speakers: Disha Puri"
+            },
+            {
+              "optionInfo": {
+                "key": "3",
+                "synonyms": []
+              },
+              "title": "Is MicroServices Apt for Large Imaging Modalities/ Desktop Apps ?",
+              "description": "November 15 | 10.15-10.45AM | Location: Gulmohar | Speakers: Aparna Shetty"
+            },
+            {
+              "optionInfo": {
+                "key": "4",
+                "synonyms": []
+              },
+              "title": "Machine Learning Embedded with Object Storage for GDPR Compliance",
+              "description": "November 15 | 10:45 - 11:15 AM | Location: Gulmohar | Speakers: Smita Raut"
+            },
+            {
+              "optionInfo": {
+                "key": "5",
+                "synonyms": []
+              },
+              "title": "IoT and Blockchain Convergence With Industry Use Cases",
+              "description": "November 15 | 11:30 - 12:30 PM | Location: Gulmohar | Speakers: Roshan Khan, PVN PavanKumar"
+            },
+            {
+              "optionInfo": {
+                "key": "6",
+                "synonyms": []
+              },
+              "title": "Hands on IoT workshop on Indoor Location Tracking",
+              "description": "November 15 | 1:30 - 4:00 PM | Location: Gulmohar | Speakers: Selvakumar Natesan, Sathishkumar Thangavel"
+            },
+            {
+              "optionInfo": {
+                "key": "7",
+                "synonyms": []
+              },
+              "title": "End to End Network Analytics in Programmable Networks",
+              "description": "November 16 | 9 - 9:30 AM\t | Location: Gulmohar | Speakers: Sushma Sundar"
+            },
+            {
+              "optionInfo": {
+                "key": "8",
+                "synonyms": []
+              },
+              "title": "Dynamic Fog Node Detection for Mobile IoT on 5G",
+              "description": "November 16 | 9:30 - 10:00 AM | \tLocation: Gulmohar | Speakers: Richa Mittal"
+            },
+            {
+              "optionInfo": {
+                "key": "9",
+                "synonyms": []
+              },
+              "title": "Resource Optimization in Containerized Ecosystem by Intelligent Scheduling of Containers",
+              "description": "November 16 | 10:15 - 10:45 AM | Location: Gulmohar | Speakers: Chandrashekhar Jha"
+            },
+            {
+              "optionInfo": {
+                "key": "10",
+                "synonyms": []
+              },
+              "title": "Secure Cloud Adoption Using Identity SOC and Advanced Threat Intelligence",
+              "description": "November 16 | 10:45 - 11:15 AM | Location: Gulmohar | Speakers: Aarathi Balakrishnan, Samanvitha Kumar"
+            },
+            {
+              "optionInfo": {
+                "key": "11",
+                "synonyms": []
+              },
+              "title": "Business in Cloud, Governance in House",
+              "description": "November 16 | 11:30 - 12:30 PM | Location: Gulmohar | Speakers: Ashwini Parage, Subhajit Deb, Vikranth Varshney, Bikram Singh Bedi, Hyma Davuluri"
+            },
+            {
+              "optionInfo": {
+                "key": "12",
+                "synonyms": []
+              },
+              "title": "Augmented Reality Head-up Display",
+              "description": "November 16 | 1:30 - 2:00 PM | Location: Jacaranda | Speakers: Lee Aby Zachariah"
+            },
+            {
+              "optionInfo": {
+                "key": "13",
+                "synonyms": []
+              },
+              "title": "Pattern Based Authentication System",
+              "description": "November 16 | 2 - 2:30 PM | Location: Jacaranda | Speakers: Surya Kiran Satyavarapu"
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Platform engineering"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "These are the sessions under the track : Trends in Platform Engineering. How else may I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541952243,
+  "fallbackIntent": false,
+  "events": []
+}

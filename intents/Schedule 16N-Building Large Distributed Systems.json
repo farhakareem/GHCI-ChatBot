@@ -1,0 +1,30 @@
+{
+  "id": "9d865612-96e3-4379-9ad0-1c66947dadd4",
+  "name": "Schedule 16N-Building Large Distributed Systems",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The FinTech team at Amazon is responsible for computing payables to Amazon business partners. Computation of the payable amount involves matching tens of millions of events every day that runs into billions of dollars. We build systems where correctness is the topmost priority. The FinTech Amazon team in India owns this massively impactful, scalable and distributed system solely out of Hyderabad. Kotlin, with its functional paradigm, is used to develop the application where blocking calls are replaced with asynchronous computing. Machine Learning models are used to analyze data and derive tangible business insights. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541612718,
+  "fallbackIntent": false,
+  "events": []
+}

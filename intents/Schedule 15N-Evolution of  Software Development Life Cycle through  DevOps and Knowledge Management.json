@@ -1,0 +1,37 @@
+{
+  "id": "db3e5b45-525d-4582-806a-931ce8458988",
+  "name": "Schedule 15N-Evolution of  Software Development Life Cycle through  DevOps and Knowledge Management",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thomson Reuters is in the journey of becoming more and more customer centric than product centric. Our organization has very ambitious goal of improving customer experience. Our products are unique and one of the best in their respective categories. In line with the theme of customer centricity, technology teams within Thomson Reuters need to be ready with state of the art delivery to be able to continuously delivery business value in our products as well as services we offer to our customers.In this session we talk about how each phase within software development life cycle has evolved leveraging state of art dev ops framework in each of the niche technologies that we use at the same time focusing on knowledge management across the SDLC and how this has become a critical factor in agile delivery that has led to enhanced customer experience in turn driving increased revenue and growth."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541348661,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "b5bdaca0-f641-4ce1-a91a-26739ffd9c2d",
+  "name": "Schedule 16N-You Impact Your Outcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "When you look around at the people in our world, you see those who say “I’ve been so lucky to get the right people and support in my life” and you see those who say “She’s so lucky…She gets whatever she wants…Why don’t these things happen to me?” We’ve created a third set – those who say “I’m so glad I took charge of me” At Qualcomm, We don’t mandate trainings– We enable conversations We don’t prescribe development – We empower through exposure There’s an undeniable and deep power in being able to own one’s reality – not the cliché of owning your success…we mean REALLY own….even when things take two turns for the worst. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541614540,
+  "fallbackIntent": false,
+  "events": []
+}

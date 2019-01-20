@@ -1,0 +1,38 @@
+{
+  "id": "ff41e897-7232-47d9-92e2-49d5c46b35c4",
+  "name": "Schedule 16N  - GHCI 18 Women in Leadership By Invite Only",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f7238de0-01ba-42ec-aa94-c3e4576c2311",
+          "dataType": "@GHCI",
+          "name": "GHCI",
+          "value": "$GHCI",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The GHCI 18 Women in Leadership is for an elite cohort of senior level women. The session will focus on transformational leadership that taps into the individual potential and energy of each participant to create impactful leaders. There will be emphasis and learning around being effective and consistent leaders, that can lead individuals and teams to perform their best and achieve goals. This session is an unconference, specially designed and structured to enable deep-dive exchange of information and ideas, experiential learning and reflection among the participants and expert facilitators. Attendees will also get an opportunity to get mentored and network with industry leaders. Admission for invited attendees only.  \nHow else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541442863,
+  "fallbackIntent": false,
+  "events": []
+}

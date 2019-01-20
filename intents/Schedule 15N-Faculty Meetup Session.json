@@ -1,0 +1,46 @@
+{
+  "id": "b21221b7-9cb0-4148-a25a-f4d95ee4d788",
+  "name": "Schedule 15N-Faculty Meetup Session",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "064b59f8-f86c-43fb-9042-48b3ae688b32",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A special session to address the faculty who are attending GHCI 18 as part of AnitaB.org India’s academia outreach. Admission for faculty only."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541569229,
+  "fallbackIntent": false,
+  "events": []
+}

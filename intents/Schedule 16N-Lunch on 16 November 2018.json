@@ -1,0 +1,39 @@
+{
+  "id": "6c3260ee-217b-4c07-a787-1ec0a37a94ba",
+  "name": "Schedule 16N-Lunch on 16 November 2018",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ac1d0498-8d56-4a3c-9e29-4f68a17da92b",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Lunch will be served in Hall 1 and 2 (Upper Level). How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541613823,
+  "fallbackIntent": false,
+  "events": []
+}

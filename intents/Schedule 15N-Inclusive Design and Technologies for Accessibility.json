@@ -1,0 +1,47 @@
+{
+  "id": "bf2b5379-5828-4d8f-a27e-5f49bd42f659",
+  "name": "Schedule 15N-Inclusive Design and Technologies for Accessibility",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7ab5567c-bb08-4e0b-b774-5378db2eb6d2",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else may I help you?",
+          "displayText": "In particular we outline two projects: CodeTalk is the project for enhancing productivity of blind programmers with IDEs like Visual Studio. The second project is to enable people with vision impairments to play mainstream video games using spatial audio based interaction tools."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The flip side to the tremendous strides made by technology is that a major chunk of humanity is left behind. There are many factors that contribute to people being excluded from technology, many of which are due to politics and economics. But there are many barriers that can be overcome by applying principles of inclusive design. In this talk, we will present these principles in the context of ongoing work at Microsoft Research on a broad range of technologies for Accessibility."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541615298,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "e377ec9f-ee87-4cc8-97c9-852e156c15ff",
+  "name": "Schedule 15N-RPA to Artificial Intelligence - Powering Financial Services Efficiency",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "751b6e7d-7791-4afe-a0bf-486279393e72",
+          "required": false,
+          "dataType": "@ai",
+          "name": "ai",
+          "value": "$ai",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you ?",
+          "displayText": "We are now in a transformational phase moving from pure play automation into more cognitive technology using Artificial Intelligence, Machine Learning and Digital Virtual Assistants. . We are combining the power of actual intelligence (our teams) with Artificial Intelligence to drive leadingedge financial services use cases, operational simplification and radical change to customer experiences."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "ANZ strongly believes in the power of technology. Almost 4 years ago, we identified that Robotic Process Automation (RPA) was an enabler toefficiency. The process, which essentially uses robots or programs to automate a number of laborious system input activities, this has helped us in creating continuous improvement opportunities that were earlier difficult to harvest from existing systems. As an early adopter of Robotic Process Automation, we have built significant capability, driving capacity and experience benefits. Where are we at this time?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541611093,
+  "fallbackIntent": false,
+  "events": []
+}

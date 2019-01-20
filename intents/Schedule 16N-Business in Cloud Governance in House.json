@@ -1,0 +1,30 @@
+{
+  "id": "85ad9ede-fabc-41a5-a508-bf9f8cc9511a",
+  "name": "Schedule 16N-Business in Cloud Governance in House",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "IT world moved from cloud services to multi cloud/Hybrid cloud services. With this new business model, the complexity of managing and governing the cloud increased multi-fold. While that needs to happen, leaving your business vulnerable to service provider\u0027s judgement is not an option. A strong in-house governance is needed as a safeguard for your business. In this talk we will discuss how the leading companies are handling challenges of cloud governance. While they leverage cloud edge, how are they ensuring the control and governance is in house, right security standards are practiced and how business continues to abide by the laws, jurisdiction and regulations ensuring effective security along with their brand value protection. Join in to learn about important cloud security practices, gaps in controls, discussing data security and business model in multi tenancy/multi instance, SIEM enhancements and handling Locked-In cloud situation. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541612746,
+  "fallbackIntent": false,
+  "events": []
+}

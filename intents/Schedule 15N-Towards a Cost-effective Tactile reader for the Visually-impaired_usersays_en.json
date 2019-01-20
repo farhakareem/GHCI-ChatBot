@@ -1,0 +1,71 @@
+[
+  {
+    "id": "458473be-0de2-4e03-815a-caa08756a0d0",
+    "data": [
+      {
+        "text": "Details about Tactile reader for the Visually-impaired session",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541177738
+  },
+  {
+    "id": "07423747-acb3-4391-9860-6611619e8c72",
+    "data": [
+      {
+        "text": "Day ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " session on Tactile reader for the Visually-impaired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541611424
+  },
+  {
+    "id": "b368ec03-973b-4579-a621-c396027d907f",
+    "data": [
+      {
+        "text": "Session on Tactile reader for the Visually-impaired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541177738
+  },
+  {
+    "id": "e389f4a6-7fb5-4b82-9191-e47645e99347",
+    "data": [
+      {
+        "text": "Tactile reader for the Visually-impaired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541177738
+  },
+  {
+    "id": "ae00a74a-2eae-494a-854a-3fc03ed48f47",
+    "data": [
+      {
+        "text": "Towards a Cost-effective Tactile reader for the Visually-impaired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540487162
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "d8c72e36-ef49-4cc4-b008-522c0d964ca0",
+  "name": "Schedule 16N-High Tea",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Tea/coffee will be served in Hall 1 and 2 (Upper level). How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541613507,
+  "fallbackIntent": false,
+  "events": []
+}

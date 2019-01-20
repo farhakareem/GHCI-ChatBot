@@ -1,0 +1,69 @@
+{
+  "id": "98820bf5-d7f2-4cc0-a08a-6dae77fdef24",
+  "name": "GHCI Intro",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d3e746c7-0cdd-4d82-9bb1-70d0fff43b35",
+          "required": false,
+          "dataType": "@GHCI",
+          "name": "GHCI",
+          "value": "$GHCI",
+          "isList": false
+        },
+        {
+          "id": "943c7c6c-7988-4f94-90d4-a577625b4ee5",
+          "required": false,
+          "dataType": "@GHCI",
+          "name": "GHCI1",
+          "value": "$GHCI1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "GHCI Keynote Speaker 1"
+            },
+            {
+              "title": "GHCI Keynote Speaker 2"
+            },
+            {
+              "title": "GHCI Venue"
+            },
+            {
+              "title": "Schedule"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "The Grace Hopper Celebration India (GHCI 18) is the largest gathering of women technologists in Asia. How else can I help you ?",
+            "GHCI is the largest gathering of women technologists in Asia. How else can I help you ?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541698671,
+  "fallbackIntent": false,
+  "events": []
+}

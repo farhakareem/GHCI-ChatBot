@@ -1,0 +1,86 @@
+{
+  "id": "1aedc50b-4283-4285-8152-a74604cf1e74",
+  "name": "AA Opening Page",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "38c5e0fa-bf71-4f03-b4dd-c97190597b4f",
+          "required": false,
+          "dataType": "@GHCI",
+          "name": "GHCI",
+          "value": "$GHCI",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hello! I am your buddy from Grace Hopper Celebration India. I can help you with all that you want to know about GHCI18, the largest celebration for women in technology in Asia. For starters, try asking \u0027Tell me about GHCI\u0027 or \u0027Where is the conference venue?\u0027"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Grace Hopper Celebration India",
+          "subtitle": "",
+          "formattedText": "The Grace Hopper Celebration India is Asia\u0027s largest gathering of women technologists. It is produced by AnitaB.org and presented in partnership with ACM India.",
+          "image": {
+            "url": "https://wiki.rethinkfoundation.in/images/9/9a/GHCI.PNG",
+            "accessibilityText": "GHCI"
+          },
+          "buttons": [
+            {
+              "title": "GHCI Website",
+              "openUrlAction": {
+                "url": "https://ghcindia.anitab.org",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Conference Dates"
+            },
+            {
+              "title": "Venue"
+            },
+            {
+              "title": "Schedule"
+            },
+            {
+              "title": "Career Fair"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541698570,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    },
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

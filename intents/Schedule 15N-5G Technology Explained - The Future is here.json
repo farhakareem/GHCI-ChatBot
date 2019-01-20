@@ -1,0 +1,38 @@
+{
+  "id": "5dfc1f19-4640-49a0-a1df-7d3e47f43a6d",
+  "name": "Schedule 15N-5G Technology Explained - The Future is here",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you ?",
+          "displayText": "5G will provide a graceful migration path from 4G/LTE-Advanced and unleash a lot of industrial applications with its 3 primary use cases gravitating towards - enhanced mobile broadband (eMBB), ultra-reliable low latency communication (uRLLC), and massive proliferation of IoT and massive M2M communications (mMTC). 5G truly will usher in the future digital economy."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The 5G evolution is being positioned as the most anticipated. Everyone wants and expects it everywhere - like food and electricity. All of 5G innovations and industry applications are targeted to provide next-gen immersive applications for everyone. From accelerating Industrial IoT to virtual shopping and gaming experiences, from making autonomous cars a reality to accelerating precision agriculture, 5G has the potential to touch all aspects of our lives - as a true fabric of society. 5G is much impactful than just the 1Gbps speed it promises on your smartphone."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541612089,
+  "fallbackIntent": false,
+  "events": []
+}

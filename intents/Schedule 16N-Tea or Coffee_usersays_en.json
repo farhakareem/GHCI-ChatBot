@@ -1,0 +1,62 @@
+[
+  {
+    "id": "10fe770e-cf13-4a5a-b25c-1319d8b3b507",
+    "data": [
+      {
+        "text": "Tea/Coffee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540476897
+  },
+  {
+    "id": "b9de5847-3d42-4bcf-a5e8-b3516a02974d",
+    "data": [
+      {
+        "text": "tea or coffee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541142974
+  },
+  {
+    "id": "35abc6ec-1125-4dbd-92f2-7a5524d418e4",
+    "data": [
+      {
+        "text": "coffee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541142974
+  },
+  {
+    "id": "a749e75c-9ee1-4a92-a49d-a18b5c40a6eb",
+    "data": [
+      {
+        "text": "tea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541142974
+  },
+  {
+    "id": "8204ab7d-32b6-40c5-ba4c-e15d831a331a",
+    "data": [
+      {
+        "text": "When can I get tea/coffee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1541142974
+  }
+]

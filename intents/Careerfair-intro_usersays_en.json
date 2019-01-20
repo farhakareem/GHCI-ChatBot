@@ -1,0 +1,118 @@
+[
+  {
+    "id": "e256d4b6-d0c3-4512-aec6-30a66057a5bb",
+    "data": [
+      {
+        "text": "Tell me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "career fair",
+        "alias": "CareerFair",
+        "meta": "@CareerFair",
+        "userDefined": false
+      },
+      {
+        "text": " organized at ",
+        "userDefined": false
+      },
+      {
+        "text": "GHCI",
+        "alias": "GHCI",
+        "meta": "@GHCI",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541180959
+  },
+  {
+    "id": "da9adf2d-7671-451a-b5e3-953116557fe4",
+    "data": [
+      {
+        "text": "I would like to know about ",
+        "userDefined": false
+      },
+      {
+        "text": "GHCI Career Fair",
+        "alias": "CareerFair",
+        "meta": "@CareerFair",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541180959
+  },
+  {
+    "id": "258e0a6f-dd58-4b58-82e8-2c91810b540e",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "GHCI",
+        "alias": "GHCI",
+        "meta": "@GHCI",
+        "userDefined": false
+      },
+      {
+        "text": " Career Fair?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539088762
+  },
+  {
+    "id": "f7a70fd6-124c-4e87-ba96-a7e953ca6fee",
+    "data": [
+      {
+        "text": "Can you tell me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "GHCI",
+        "alias": "GHCI",
+        "meta": "@GHCI",
+        "userDefined": false
+      },
+      {
+        "text": " Career Fair?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539088762
+  },
+  {
+    "id": "e2b78e32-d6ba-4304-9479-da0c4becb21d",
+    "data": [
+      {
+        "text": "Tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "GHCI",
+        "alias": "GHCI",
+        "meta": "@GHCI",
+        "userDefined": false
+      },
+      {
+        "text": " Career fair?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539088762
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "3a0ed133-c36d-422b-9d55-24fa1fc91562",
+  "name": "Schedule 15N-Role of Distance Measures in Machine Learning A Yardstick for Data  Similarity",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you ?",
+          "displayText": "There are different types of distance measures are Manhattan DistanceEuclidean DistanceEdit DistanceHamming DistanceDistance Measures are also known as Similarity Measures, as these measures are used to find the similarity between different data points. The Lighting talk will be a part of a session for Machine Learning beginners. This talk will be for 20 minutes."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Lighting talk will cover the different aspects of Distance Measures used in Machine Learning.Distance Measures in Machine Learning are used to understand how similar different data points. This indicates the closeness associated with different data points. These distance measures can be used both in supervised learning and unsupervised learning. One of the classic examples where these distance measures are used is in Recommendation engines used in eCommerce. How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541610937,
+  "fallbackIntent": false,
+  "events": []
+}

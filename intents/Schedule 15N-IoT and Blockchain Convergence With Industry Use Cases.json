@@ -1,0 +1,47 @@
+{
+  "id": "b8919e7f-4f06-4725-a6f8-db0c740e5e2c",
+  "name": "Schedule 15N-IoT and Blockchain Convergence With Industry Use Cases",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "40463a2c-f459-47a2-9813-470e17024fbf",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you ?",
+          "displayText": "Despite all the excitement around these technologies, we will offer a look at what they are, just as importantly what they are not, discuss with examples from travel industry specific use cases, and provide a look toward the future and emerging needs."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "IoT is a vision where all manufactured things are connected to each other via wireless or wired communication networks. Blockchain is a digital, distributed and cryptographically secure record of all data transfer activities. This session will dig into how these two technologies are on a convergence course to yield cognitive systems for helping travelers by using data in innovative ways."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541608515,
+  "fallbackIntent": false,
+  "events": []
+}

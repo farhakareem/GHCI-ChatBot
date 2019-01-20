@@ -1,0 +1,80 @@
+[
+  {
+    "id": "48af55dc-1398-40c3-bac0-faf942b34c28",
+    "data": [
+      {
+        "text": "sessions career 360",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541521639
+  },
+  {
+    "id": "f77b2001-a730-4d4d-91ff-70220337b998",
+    "data": [
+      {
+        "text": "when is career360",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541511521
+  },
+  {
+    "id": "64971169-6494-4404-8a8c-fe84b862be58",
+    "data": [
+      {
+        "text": "career360 talks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541511521
+  },
+  {
+    "id": "5fb3bf1d-b363-47c6-b1e4-42e153d14472",
+    "data": [
+      {
+        "text": "what are the sessions in career360",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541511521
+  },
+  {
+    "id": "1c8af647-648e-4e87-9aae-e984446bdf43",
+    "data": [
+      {
+        "text": "career360 track",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541511521
+  },
+  {
+    "id": "f4a143ce-7ff3-4e6e-a5be-945b3b4a3da5",
+    "data": [
+      {
+        "text": "career ",
+        "userDefined": false
+      },
+      {
+        "text": "360",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541511378
+  }
+]

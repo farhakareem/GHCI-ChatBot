@@ -1,0 +1,30 @@
+{
+  "id": "1bf837c2-2f9e-46bc-928a-1185bf766636",
+  "name": "Schedule 16N-Design for Emerging Markets",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Designing for emerging markets have a different set of challenges compared to developed markets. The concept of elite apps were introduced to address the issue of poor internet connectivity in emerging countries. In this session, you will learn:- how constraints and opportunities of emerging markets are shaping the design of technology as well as the products we use- how to design for the next billion users who embrace all cultures- how to design and adopt technology, made in the west, and fit it to emerging markets. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541612884,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "e09db8a3-4c8e-400f-b292-38bcc86cd691",
+  "name": "Schedule 16N-Tea or Coffee",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "GHCI 18 attendees can have tea/coffee after completing their registration. How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541179088,
+  "fallbackIntent": false,
+  "events": []
+}

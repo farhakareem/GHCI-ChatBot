@@ -1,0 +1,74 @@
+[
+  {
+    "id": "8a966e7c-1a39-41d9-a85f-165ced2ed681",
+    "data": [
+      {
+        "text": "what is embracing career transitions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541523139
+  },
+  {
+    "id": "d07c52c0-9c19-49a7-9308-6d42ba2a1466",
+    "data": [
+      {
+        "text": "career transitions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541523139
+  },
+  {
+    "id": "66bdf476-3afd-4743-91d6-4ef42c22a2f2",
+    "data": [
+      {
+        "text": "Embracing Career Transitions ",
+        "userDefined": false
+      },
+      {
+        "text": "is what?",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541225993
+  },
+  {
+    "id": "152bdc93-a5de-472d-bb4a-5fbda0a41be9",
+    "data": [
+      {
+        "text": "Tell me about",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " Embracing Career Transitions.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541225993
+  },
+  {
+    "id": "1f5ec88d-23c9-42f2-814b-9559e4a35c6a",
+    "data": [
+      {
+        "text": " Embracing Career Transitions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540299321
+  }
+]

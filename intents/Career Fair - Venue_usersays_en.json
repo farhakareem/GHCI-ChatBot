@@ -1,0 +1,70 @@
+[
+  {
+    "id": "14508cb3-a254-406e-8c12-bf45172b9c5b",
+    "data": [
+      {
+        "text": "Place where ",
+        "userDefined": false
+      },
+      {
+        "text": "career fair",
+        "alias": "CareerFair",
+        "meta": "@CareerFair",
+        "userDefined": false
+      },
+      {
+        "text": " is happening.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541171815
+  },
+  {
+    "id": "0dafb66a-0389-4ccf-bdff-603f59825148",
+    "data": [
+      {
+        "text": "Location of the ",
+        "userDefined": false
+      },
+      {
+        "text": "career fair",
+        "alias": "CareerFair",
+        "meta": "@CareerFair",
+        "userDefined": false
+      },
+      {
+        "text": " stalls",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541171815
+  },
+  {
+    "id": "c21bb39c-dde6-4530-b9b7-a6a9d18a9ace",
+    "data": [
+      {
+        "text": "Where does career fair takes place ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539205258
+  },
+  {
+    "id": "ab02d9b7-95a3-46d7-9a5f-ab94d6dca1ad",
+    "data": [
+      {
+        "text": "Where is the venue for Career Fair ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539205258
+  }
+]

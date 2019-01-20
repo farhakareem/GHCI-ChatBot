@@ -1,0 +1,30 @@
+{
+  "id": "9978fdf8-751b-495a-b106-43a2f1926430",
+  "name": "Schedule 16N - Expert Meetup - Session 4",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "GHCI 18 speakers have inspired you with their knowledge and expertise. Now you can get to know them and their journey a little more and ask all the questions you have always wanted to ask through the expert meet up sessions. Our speakers will spend 60-min with the delegates in an informal setting enabling a more open interaction. This is a great opportunity for one to get to know their role models and the inside stories that made them who they are. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541611854,
+  "fallbackIntent": false,
+  "events": []
+}

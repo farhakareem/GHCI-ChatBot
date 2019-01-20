@@ -1,0 +1,38 @@
+{
+  "id": "e4311b7f-dec3-4746-a2b9-cb598f941635",
+  "name": "Schedule 15N-Design Drivers in Digital Storytelling",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you ?How else can I help you ?",
+          "displayText": "Digital moving images are the most challenging applications for any computing device used by consumers. Your new phone is all about the camera and the megapixels; your new computer is all about the power of the graphic card your ability to play games or stream video and the networking, storage, rendering and content security technology companies are never as happy as when they are dealing with the ever-increasing file sizes and velocity of content."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "While stories remain immortal, the manner in which they are translated into moving images undergoes a radical transformation. Cinema is essentially a storytelling format. While stories essentially had an oral tradition and were told by one presenter, cinematic storytelling is now presented by hundreds of people who collaborate around the common vision of a director. Digital is essentially creativity in a soft copy that allows the work to be molded, combined, altered or changed without starting from scratch again. In the past century, the expressions through animation have now helped to extend storytelling in a manner that increases the reality even within unreal themes. Underlying all of this is a massive technology revolution."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541613481,
+  "fallbackIntent": false,
+  "events": []
+}

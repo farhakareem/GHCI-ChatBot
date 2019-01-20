@@ -1,0 +1,28 @@
+{
+  "id": "19ca3e4d-b779-4f3c-b4a6-edad0b8d13b3",
+  "name": "Schedule 15N-Befriend Your Brain",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Overcome daily challenges (constant interruptions, high stress levels, unrealistic expectations…) by understanding how our brains are wired and how they operate. Take back approaches that help you find a way to work around our hard-wired short-term orientation in the brain and follow your long-term pursuits, make better decisions, overcome functional fixity and delve into creative thinking. Experiential Workshop with practical sessions to demonstrate, so that the participants experience the theory and can translate this into their day to day.\nHow else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541348929,
+  "fallbackIntent": false,
+  "events": []
+}

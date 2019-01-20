@@ -1,0 +1,105 @@
+[
+  {
+    "id": "3a5ffcd9-b5a6-44ef-a30f-8d315af50fc2",
+    "data": [
+      {
+        "text": "at what time can we do networking ",
+        "userDefined": false
+      },
+      {
+        "text": "on november 14",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541265181
+  },
+  {
+    "id": "1881b7c9-b96e-453f-87ff-b353e92dac93",
+    "data": [
+      {
+        "text": "what happens from ",
+        "userDefined": false
+      },
+      {
+        "text": "11:30 am",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to 1:30 pm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on november 14",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541265181
+  },
+  {
+    "id": "079a5e41-8b09-4243-b270-c53105bc34de",
+    "data": [
+      {
+        "text": "where is networking ",
+        "userDefined": false
+      },
+      {
+        "text": "on november 14th",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541265181
+  },
+  {
+    "id": "b1b6501a-72f7-44a5-bf06-dab077f3237f",
+    "data": [
+      {
+        "text": "where is the lunch ",
+        "userDefined": false
+      },
+      {
+        "text": "on November 14",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541265181
+  },
+  {
+    "id": "3b476900-a60b-448f-b073-00b7d299fd8c",
+    "data": [
+      {
+        "text": "what is the time for lunch and networking ",
+        "userDefined": false
+      },
+      {
+        "text": "on november 14th",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541265181
+  }
+]

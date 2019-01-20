@@ -1,0 +1,37 @@
+{
+  "id": "e6278f30-6d99-416a-b981-6c64ae7263a9",
+  "name": "Schedule 15N -GHCI 18 registrations",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "There are no on-spot registrations. Please ensure you have completed your GHCI 18 registrations online prior to the conference. How else can I help you ?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are no on-spot registrations. Please ensure you have completed your GHCI 18 registrations online prior to the conference. During the on-site registrations delegates can pick up their attendee badge. GHCI 18 attendee bags will be only given out on November 14, 2018. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541699875,
+  "fallbackIntent": false,
+  "events": []
+}

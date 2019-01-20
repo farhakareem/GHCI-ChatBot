@@ -1,0 +1,37 @@
+{
+  "id": "11081c20-d67b-4465-a4b5-808fdc01c46f",
+  "name": "Schedule 15N-Hands on IoT workshop on Indoor Location Tracking",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The objective of this workshop is to deliver a hands-on experience to the participants in building an IoT application which has the potential of real world use-case.Individuals will be working as teams of mixed backgrounds, to discuss and arrive at the solution with the guidance and inputs from the facilitators. The solution itself will touch various layers of IoT like the sensors, microcontroller, wireless communication, APIs, Dashboards."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541171256,
+  "fallbackIntent": false,
+  "events": []
+}

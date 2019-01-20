@@ -1,0 +1,62 @@
+{
+  "id": "8790afd1-0313-4933-a678-0cf6ce16196c",
+  "name": "Career fair - Why attend",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2d09e315-8d28-4fd4-ba73-254c954083ba",
+          "required": false,
+          "dataType": "@GHCI",
+          "name": "GHCI",
+          "value": "$GHCI",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Career Fair Timing"
+            },
+            {
+              "title": "Career Fair Venue"
+            },
+            {
+              "title": "Schedule"
+            }
+          ]
+        },
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "destinationName": "Career Fair Experience",
+          "url": "https://www.facebook.com/AnitaBorgIndia/videos/226624731365280/"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This is a great opportunity as by submitting the resume to the Resume Database allows job-seekers — at all career stages and of all backgrounds — to get their credentials in front of hiring managers at GHC 18 sponsor organizations. Sponsors will meet with interested candidates at their Interview Booths in the Expo, and even potentially offer them jobs on the spot.\n\nYou can also check out the experiences shared by students who got placed at Microsoft through GHCI 2017 in this video. How else can I help you ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541785396,
+  "fallbackIntent": false,
+  "events": []
+}

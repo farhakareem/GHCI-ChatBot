@@ -1,0 +1,69 @@
+{
+  "id": "f7164eb0-bc17-4b70-841f-fe36feafbc29",
+  "name": "Careerfair-intro",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "082af87c-02f7-4376-8b42-c8af177a949b",
+          "required": false,
+          "dataType": "@GHCI",
+          "name": "GHCI",
+          "value": "$GHCI",
+          "isList": false
+        },
+        {
+          "id": "6e0b5ebd-e67c-445d-8df0-0111d4aa6bfb",
+          "required": false,
+          "dataType": "@CareerFair",
+          "name": "CareerFair",
+          "value": "$CareerFair",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Career Fair Companies"
+            },
+            {
+              "title": "Career Fair Venue"
+            },
+            {
+              "title": "Career Fair Timing"
+            },
+            {
+              "title": "Why attend career fair"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "The Grace Hopper Celebration India (GHCI) 18 Career Fair is a great place to boost your career in technology. At the GHCI 18 Career Fair women from technical backgrounds can directly connect and interact with some of biggest names and organizations in technology. You can also explore internships and full-time job opportunities. How else can I help you ?",
+            "GHCI is India’s largest technical conference for women in computing and technology. With over 50 leading technology organizations, GHCI 18 career fair presents a great opportunity for women technologists to explore technology careers across India. The conference is co-presented by the AnitaB.org India and Association of Computing Machinery (ACM) India. AnitaB.org India has been successfully organizing this annual conference since 2010. How else can I help you ?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541700896,
+  "fallbackIntent": false,
+  "events": []
+}

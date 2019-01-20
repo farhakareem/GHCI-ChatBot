@@ -1,0 +1,134 @@
+[
+  {
+    "id": "dec29e91-d1b3-4025-b9aa-425928124fbd",
+    "data": [
+      {
+        "text": "Exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541497609
+  },
+  {
+    "id": "8c2be6e9-1392-4074-92fa-4bb5fab1c422",
+    "data": [
+      {
+        "text": "Quit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1541497609
+  },
+  {
+    "id": "13531a1e-18a2-44d9-853b-507b04b707ba",
+    "data": [
+      {
+        "text": "Nothing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1541497609
+  },
+  {
+    "id": "2c6ef76b-d81a-4d4f-ae67-b7eeed66651f",
+    "data": [
+      {
+        "text": "Nothing Nothing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541497609
+  },
+  {
+    "id": "86848a36-afaa-4a97-91ba-b26b08dcd3de",
+    "data": [
+      {
+        "text": "No more help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541497609
+  },
+  {
+    "id": "60ac8d92-f3c9-4682-b570-cc50fd66dc01",
+    "data": [
+      {
+        "text": "Enough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541497609
+  },
+  {
+    "id": "8c850c09-296a-47e2-aa6a-6b2f1fecf39f",
+    "data": [
+      {
+        "text": "Leave me alone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541497609
+  },
+  {
+    "id": "cc860f56-1e9b-4726-a0f3-c4933005cb2d",
+    "data": [
+      {
+        "text": "Bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541497609
+  },
+  {
+    "id": "de85379d-9527-4411-88a7-da42bfd2a110",
+    "data": [
+      {
+        "text": "Thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541497609
+  },
+  {
+    "id": "b86edb5a-8d58-4c34-9d7e-e1be99612d68",
+    "data": [
+      {
+        "text": "No",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541497609
+  },
+  {
+    "id": "01bba943-7449-4d19-89b6-4de1d578b685",
+    "data": [
+      {
+        "text": "Nothing else",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1541497609
+  }
+]

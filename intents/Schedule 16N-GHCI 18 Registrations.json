@@ -1,0 +1,70 @@
+{
+  "id": "44800b90-923e-414e-a2b3-205518948892",
+  "name": "Schedule 16N-GHCI 18 Registrations",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "51a2abcc-1b96-4808-b229-2c7b44c9f9b3",
+          "required": false,
+          "dataType": "@GHCI",
+          "name": "GHCI",
+          "value": "$GHCI",
+          "isList": false
+        },
+        {
+          "id": "505c27f4-bc50-48ff-b9d4-74e4a37ba6de",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "9d190e17-944b-4675-9dee-34fa9c2ac413",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number1",
+          "value": "$number1",
+          "isList": false
+        },
+        {
+          "id": "0e8ad4e0-af75-4f49-b28f-0d9f12107401",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "There are no on-spot registrations. Please ensure you have completed your GHCI 18 registrations online prior to the conference."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are no on-spot registrations. Please ensure you have completed your GHCI 18 registrations online prior to the conference. During the on-site registrations delegates can pick up their attendee badge. GHCI 18 attendee bags will be only given out on November 14, 2018. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541699926,
+  "fallbackIntent": false,
+  "events": []
+}

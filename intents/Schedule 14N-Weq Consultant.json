@@ -1,0 +1,43 @@
+{
+  "id": "3dafbf09-9d67-4e41-b0fe-154e626c7a22",
+  "name": "Schedule 14N-Weq Consultant",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "WEQ Sponsors"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "The consultant of WEQ 2018 is Mr Sijo Kuruvilla George. How else can I help you ?",
+            "Sijo Kuruvilla George, is the consultant for WEQ 2018. How else can I help you ?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541786806,
+  "fallbackIntent": false,
+  "events": []
+}

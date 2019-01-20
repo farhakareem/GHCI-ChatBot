@@ -1,0 +1,30 @@
+{
+  "id": "a7bbbcd3-5ebc-4bf6-a2c4-fc9bb5125258",
+  "name": "Schedule 16N - Programming Efficiently with One Key at a Time",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This paper presents a machine learning based software solution for motor-impaired programmers, which enables them to improve the speed and efficiency with which they can write programs. The available solution is onscreen scanning keyboard which is cumbersome and can be frustrating because typing a single character input might require multiple key press. Programming can quickly become tedious as there is predominance of special characters for which the voice to text tools are little to no help due to high verbosity of commands. We are proposing an adaptable onscreen keyboard solution which will adapt itself to the user\u0027s programming style. By applying machine learning algorithms on various parameters like coding style, programming language used and the input speed, it can support code completion and code predictions. Although this solution is targeted towards quadriplegic programmers but these features can be applied to build better IDE. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541443381,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "63aada2a-5a06-48f1-ac09-56841772157e",
+    "data": [
+      {
+        "text": "Neuroscience of Building Connection ",
+        "userDefined": false
+      },
+      {
+        "text": "November 16",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541179656
+  },
+  {
+    "id": "00a2008c-cafc-474d-b98a-2a15d7d24002",
+    "data": [
+      {
+        "text": "Building Connection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541179656
+  },
+  {
+    "id": "a4a5e61d-fcdf-43b7-b656-d215952938d2",
+    "data": [
+      {
+        "text": "Neuroscience Building Connection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541179656
+  },
+  {
+    "id": "053cd518-ae4a-4c34-b613-e4cbf194c721",
+    "data": [
+      {
+        "text": "16 November Neuroscience of Building Connections",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541179656
+  },
+  {
+    "id": "f0eb3c77-5722-4133-9aef-dbcea2af9316",
+    "data": [
+      {
+        "text": "Neuroscience of Building Connections",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540477765
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "9ccdae0a-b47c-4e04-a9e0-ea6afbb17b40",
+  "name": "Schedule 15N-Machine Learning Embedded with Object Storage for GDPR Compliance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1976f627-70cc-4920-a296-dc970042bb4a",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you ?",
+          "displayText": "Cognitive Computing over objects can help categorize objects for compliances and even tag them accordingly. In this talk we present the architecture of how cognitive computing can be embedded into object storage which will proactively and autonomously apply machine learning techniques to objects deriving metadata that helps categorize them as compliant and non-compliant based on which security enforcements are acted upon."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Security compliance of unstructured data has become a ubiquitous business requirement especially with the GDPR regulation. Object Store is growing continually in deployments hosting oceans of unstructured data. Understanding which object data falls under compliance governed data category becomes vital so that the required security compliance enforcement from the storage side can be acted on it. On the other hand, there has been substantial progress in the field of cognitive computing which allows deep analysis of unstructured data for pattern recognition, correlation, learning etc."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541610134,
+  "fallbackIntent": false,
+  "events": []
+}

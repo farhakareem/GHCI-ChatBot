@@ -1,0 +1,30 @@
+{
+  "id": "9f5af4e5-c0e3-407d-9160-6b53f06c4e7d",
+  "name": "Schedule 16N-Introduction to Quantum Computing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Quantum computing harnesses the laws of quantum mechanics to enable new types of algorithms, impossible on traditional computers following classical physics. They are expected to lead to breakthroughs in crucial areas like material science, simulations, and drug discovery. In this workshop you will learn where the power of quantum computing comes from in a hands-on quantum programming tutorial. You will implement a quantum algorithm in Q# that is exponentially faster than any deterministic classical algorithm for that problem. We will also briefly cover how quantum computing can help in faster solutions of the problems like search, cryptography, etc.How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541613662,
+  "fallbackIntent": false,
+  "events": []
+}

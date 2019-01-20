@@ -1,0 +1,47 @@
+{
+  "id": "da86980b-edfb-4175-b14e-ce585918200e",
+  "name": "Schedule 16N-GHCI 18 Tech Expo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6b97cce8-d355-4999-a1e5-afe507cf6de9",
+          "required": false,
+          "dataType": "@GHCI",
+          "name": "GHCI",
+          "value": "$GHCI",
+          "isList": false
+        },
+        {
+          "id": "f7767eff-01e3-476a-a1ee-a236c9b40a24",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The GHCI 18 Tech Expo will be showcasing some of the latest technology products and solutions, from the world of startups and large organizations. “Experience” technology first hand! Don’t miss this opportunity where technology will truly come alive in front of thousands of women in technology. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541613400,
+  "fallbackIntent": false,
+  "events": []
+}

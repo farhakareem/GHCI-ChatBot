@@ -1,0 +1,30 @@
+{
+  "id": "4a94a959-cd64-481a-98c4-e8b7e3ec3057",
+  "name": "Schedule 16N-Learn to Design for Virtual Reality",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Virtual Reality (VR) is an emerging technology that offers a multi-dimensional, visceral and participatory experience. This brings challenging yet interesting dimensions into the current design paradigms defined solely for traditional two-dimensional user interfaces. The focus of the hands-on workshop is to create awareness about human perceptions like spatial audio, head tracking, acceleration, cone of vision and several other design influencers that are tailored specifically for immersive three-dimensional(3d) experiences. Participants will learn by applying these design principles to a real-world design challenge while creating low fidelity design prototypes that can be experienced through a VR web viewer or VR headset. They will take away knowledge and tools required to design immersive solutions. How else can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541613703,
+  "fallbackIntent": false,
+  "events": []
+}

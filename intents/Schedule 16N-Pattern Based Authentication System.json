@@ -1,0 +1,30 @@
+{
+  "id": "e7261ca2-a62f-42b6-9b83-5c4cb6b82d70",
+  "name": "Schedule 16N-Pattern Based Authentication System",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "During registration of user credentials, the user will be prompted to select a matrix size and a shape of his choice. The matrix of selected size will then be displayed, with random symbols filled, and the selected shape will be overlayed within the matrix. He may move the shape over the matrix and as the shape is moved, the symbols are re-arranged, such that symbols arranged inside the boundary of the shape are not repeated. The order of symbols selected by the end user inside the boundary of the shape will be used to determine a pattern-based password. A 2-way authentication system with an agent, requiring a single password, is suggested in this approach. A first computing device (tablet) for providing user credentials and an obfuscated password to an application server for authentication, and a second computing device different from the first (mobile) for generating the password constitute the system. Is there anything else you would like to know?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541614156,
+  "fallbackIntent": false,
+  "events": []
+}

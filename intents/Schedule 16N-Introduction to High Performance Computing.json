@@ -1,0 +1,55 @@
+{
+  "id": "86ca86db-6e1c-477d-9733-44b8c5543db5",
+  "name": "Schedule 16N-Introduction to High Performance Computing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4a785be0-fd6d-4fad-91c7-08cdec1619a5",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        },
+        {
+          "id": "18463f66-7a13-4a17-88ed-14178a3ef3bc",
+          "required": false,
+          "dataType": "@HPC",
+          "name": "HPC",
+          "value": "$HPC",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "How else can I help you ?",
+          "displayText": "Parallel processing, which is a method of simultaneously breaking up and running program tasks on multiple processors, reduces the processing time on the cluster. There are multiple programming models available to achieve parallel processing, which make use of the shared or distributed memory environment within the cluster. This talk gives an introduction to HPC and basics of parallelism, parallel programming models along with the usage of HPC in the area of scientific research. We focus on the shared memory environment to begin with and explain the concepts of vectorization and multi-threaded programming that help the user leverage the benefits of the hardware on a single processor."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "High Performance Computing (HPC) most generally refers to the practice of aggregating computing power in a way that delivers much higher performance than one could get out of a typical desktop computer or workstation in order to solve large problems in science, engineering, or business. HPC leverages parallel processing for running large scale applications efficiently, reliably and quickly on a cluster of computers. A High Performance cluster consists of computers interconnected on a high bandwidth, low latency network for faster communication."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541614190,
+  "fallbackIntent": false,
+  "events": []
+}

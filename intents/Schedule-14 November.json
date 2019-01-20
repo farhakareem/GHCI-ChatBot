@@ -1,0 +1,87 @@
+{
+  "id": "4e1a94d4-389b-4c9a-80a8-7f29fac31cdc",
+  "name": "Schedule-14 November",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "35cf8026-214c-4e47-aa79-14a58892abd8",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "Anything else that you would like to know about?"
+        },
+        {
+          "type": "list_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "November 14, 2018",
+          "subtitle": "GHCI 18 session details",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "1",
+                "synonyms": []
+              },
+              "title": "GHCI 18 registrations",
+              "description": "11.00 am to 1.30 pm | Registration Area"
+            },
+            {
+              "optionInfo": {
+                "key": "2",
+                "synonyms": []
+              },
+              "title": "Lunch and Networking",
+              "description": "11.30 am to 1.30 pm | Hall 2 (Upper Level)"
+            },
+            {
+              "optionInfo": {
+                "key": "3",
+                "synonyms": []
+              },
+              "title": "Welcome presentation and keynotes",
+              "description": "2.00 pm to 5.00 pm | Hall 2 (Lower Level)"
+            },
+            {
+              "optionInfo": {
+                "key": "6",
+                "synonyms": []
+              },
+              "title": "High Tea",
+              "description": "5.00 pm  to 5.30 pm | Hall 2 (Upper Level)"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The schedule on November 14 is as follows:"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541611081,
+  "fallbackIntent": false,
+  "events": []
+}

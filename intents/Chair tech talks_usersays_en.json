@@ -1,0 +1,97 @@
+[
+  {
+    "id": "f85ed506-a4ef-4179-91ef-02769e560fdd",
+    "data": [
+      {
+        "text": "Who is ",
+        "userDefined": false
+      },
+      {
+        "text": "chairing",
+        "alias": "Chair",
+        "meta": "@Chair",
+        "userDefined": false
+      },
+      {
+        "text": " the tech talk track ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541188588
+  },
+  {
+    "id": "41a72b16-311a-4a7f-ab46-1288198a7a20",
+    "data": [
+      {
+        "text": "Tell me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "chair",
+        "alias": "Chair",
+        "meta": "@Chair",
+        "userDefined": false
+      },
+      {
+        "text": " of the tech talk track.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541188588
+  },
+  {
+    "id": "38025a94-e322-48b7-aa21-18dc5af2924a",
+    "data": [
+      {
+        "text": "Who ",
+        "userDefined": false
+      },
+      {
+        "text": "chairs",
+        "alias": "Chair",
+        "meta": "@Chair",
+        "userDefined": false
+      },
+      {
+        "text": " the tech talk tracks ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541188588
+  },
+  {
+    "id": "d87f5781-7ef1-4bd0-93f9-d6f5f1c8e449",
+    "data": [
+      {
+        "text": "Who leads the tech talks tracks ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541188588
+  },
+  {
+    "id": "32bb88f4-318b-4944-bc99-ebe97e2a73f6",
+    "data": [
+      {
+        "text": "Who is",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the Tech Talks chair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539220829
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "id": "294367cb-76f1-4881-b460-33b294df9f78",
+  "name": "Schedule 15N-Protecting Truant Kids From Accessing Adult Content On Smart Devices",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "items": [
+            {
+              "textToSpeech": "We intent to do this by detecting the age group of the users without any additional burden on the smart devices; and then controlling the application behavior based on the detected age.",
+              "displayText": "We intent to do this by detecting the age group of the users without any additional burden on the smart devices; and then controlling the application behavior based on the detected age. Our application will determine user\u0027s age by finger print scanning and leveraging 2D-Discrete wavelet transformation and Principal Component Analysis(PCA) to classifies the finger print image into different age group. Anything else that you would like to know about?"
+            },
+            {
+              "textToSpeech": "How else can I help you ?",
+              "displayText": "Once age of the user determined, we then proceed to examine the content of files, web sites and other document content; and modifies the operating system behavior such that documents/web sites with inappropriate content is blocked."
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Younger generations have high degree of proficiency in latest technology and operating these smart devices, and they are familiar with ways to get past or workaround the parental locks and other security features. We need to provide a secure and reliable way to prevent the young generation from intentional sabotage."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541610816,
+  "fallbackIntent": false,
+  "events": []
+}
